@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">三条路摆开，每条都写清放弃了什么</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">场景 63：降本 15% 的三条路线对照</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">它推荐 B，理由是模具费零增加、验证周期短；这个理由与低温余量优先并不一致</text>
+<rect x="56.0" y="138.0" width="888.0" height="44.0" rx="8" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="70.0" y="166.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#FFFFFF" text-anchor="start" font-weight="bold">路线</text>
+<text x="218.0" y="166.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#FFFFFF" text-anchor="start" font-weight="bold">做法</text>
+<text x="366.0" y="166.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#FFFFFF" text-anchor="start" font-weight="bold">优点</text>
+<text x="514.0" y="166.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#FFFFFF" text-anchor="start" font-weight="bold">代价与放弃</text>
+<text x="662.0" y="166.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#FFFFFF" text-anchor="start" font-weight="bold">风险</text>
+<text x="810.0" y="166.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#FFFFFF" text-anchor="start" font-weight="bold">验证试验</text>
+<text x="70.0" y="208.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">A 保磁钢
+降结构成</text>
+<text x="70.0" y="229.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">本</text>
+<text x="218.0" y="208.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">外壳改增强 PA66，</text>
+<text x="218.0" y="229.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">端盖改冲压件</text>
+<text x="366.0" y="208.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">BOM 降 11.2%，性</text>
+<text x="366.0" y="229.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">能零损失</text>
+<text x="514.0" y="208.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">模具费增加 42 万</text>
+<text x="514.0" y="229.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">，回收期 14 个月</text>
+<text x="514.0" y="250.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">。放弃短期现金流</text>
+<text x="662.0" y="208.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">PA66 在 85 摄氏</text>
+<text x="662.0" y="229.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">度加盐雾下的长期</text>
+<text x="662.0" y="250.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">强度无数据</text>
+<text x="810.0" y="208.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">500 小时盐雾加 10</text>
+<text x="810.0" y="229.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">00 小时热老化，周</text>
+<text x="810.0" y="250.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">期 9 周</text>
+<line x1="56" y1="266" x2="944" y2="266" stroke="#E5E1DA" stroke-width="1"/>
+<rect x="56.0" y="266.0" width="888.0" height="84.0" rx="0" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="70.0" y="292.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">B 保结构
+降磁材成</text>
+<text x="70.0" y="313.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">本</text>
+<text x="218.0" y="292.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">磁钢 N42 换 N40</text>
+<text x="218.0" y="313.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">，绕组 68 匝微调</text>
+<text x="218.0" y="334.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">到 65 匝</text>
+<text x="366.0" y="292.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">BOM 降 12.8%，模</text>
+<text x="366.0" y="313.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">具费零增加</text>
+<text x="514.0" y="292.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">低温输出扭矩降 6%</text>
+<text x="514.0" y="313.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">。放弃 3% 性能余</text>
+<text x="514.0" y="334.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">量，余量剩 11%</text>
+<text x="662.0" y="292.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">批量磁钢一致性波</text>
+<text x="662.0" y="313.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">动时，低温扭矩可</text>
+<text x="662.0" y="334.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">能触限</text>
+<text x="810.0" y="292.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">零下 40 摄氏度冷</text>
+<text x="810.0" y="313.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">启动 200 次，周期</text>
+<text x="810.0" y="334.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal"> 3 周</text>
+<line x1="56" y1="350" x2="944" y2="350" stroke="#E5E1DA" stroke-width="1"/>
+<text x="70.0" y="376.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">C 改工艺
+降装配成</text>
+<text x="70.0" y="397.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">本</text>
+<text x="218.0" y="376.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">三处螺钉连接改卡</text>
+<text x="218.0" y="397.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">扣，装配工步从 11</text>
+<text x="218.0" y="418.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal"> 减到 7</text>
+<text x="366.0" y="376.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">单件装配工时降 36</text>
+<text x="366.0" y="397.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal"> 秒，年产量下省人</text>
+<text x="366.0" y="418.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">工 28 万</text>
+<text x="514.0" y="376.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">可维修性下降，返</text>
+<text x="514.0" y="397.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">修需破坏卡扣。放</text>
+<text x="514.0" y="418.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">弃售后可拆性</text>
+<text x="662.0" y="376.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">售后拆件率上升，</text>
+<text x="662.0" y="397.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">目前无历史数据</text>
+<text x="810.0" y="376.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">拆装循环 50 次，</text>
+<text x="810.0" y="397.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">周期 2 周</text>
+<line x1="56" y1="434" x2="944" y2="434" stroke="#E5E1DA" stroke-width="1"/>
+</svg>

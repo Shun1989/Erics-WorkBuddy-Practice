@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">图 2-12 装完必做的三个设置，顺序不能换</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">2.5 节：工作目录、记忆初始化、权限边界</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">来源：本章 2.5 节三个小节的动作与理由，数字与路径均按原文。</text>
+<rect x="56.0" y="140.0" width="888.0" height="452.0" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="57.0" y="162.0" width="886.0" height="32.0" rx="6" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="74.0" y="184.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">第一步  工作目录（2.5.1）</text>
+<text x="74.0" y="202.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">路径</text>
+<text x="356.0" y="202.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">D:\aiwork</text>
+<rect x="57.0" y="210.0" width="886.0" height="28.0" rx="0" fill="#FBFBFA" stroke="#FBFBFA" stroke-width="0"/>
+<text x="74.0" y="230.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">下层分法</text>
+<text x="356.0" y="230.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">按年月和项目再分一层</text>
+<text x="74.0" y="258.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">要求</text>
+<text x="356.0" y="258.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">全英文数字，不带空格括号</text>
+<rect x="57.0" y="266.0" width="886.0" height="28.0" rx="0" fill="#FBFBFA" stroke="#FBFBFA" stroke-width="0"/>
+<text x="74.0" y="286.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">为什么</text>
+<text x="356.0" y="286.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">不指定就默认整个用户目录或软件打开位置</text>
+<rect x="57.0" y="324.0" width="886.0" height="32.0" rx="6" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="74.0" y="346.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">第二步  记忆初始化（2.5.2）</text>
+<text x="74.0" y="364.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">发送模式</text>
+<text x="356.0" y="364.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">Ask</text>
+<rect x="57.0" y="372.0" width="886.0" height="28.0" rx="0" fill="#FBFBFA" stroke="#FBFBFA" stroke-width="0"/>
+<text x="74.0" y="392.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">内容</text>
+<text x="356.0" y="392.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">身份、岗位、三条工作习惯、文件格式偏好</text>
+<text x="74.0" y="420.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">汇报格式</text>
+<text x="356.0" y="420.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">先结论，再依据，最后是需要确认的点</text>
+<rect x="57.0" y="428.0" width="886.0" height="28.0" rx="0" fill="#FBFBFA" stroke="#FBFBFA" stroke-width="0"/>
+<text x="74.0" y="448.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">效果</text>
+<text x="356.0" y="448.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">写之前平均补两轮说明，写之后半轮</text>
+<rect x="57.0" y="486.0" width="886.0" height="32.0" rx="6" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="74.0" y="508.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">第三步  权限边界（2.5.3）</text>
+<text x="74.0" y="526.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">绿区</text>
+<text x="356.0" y="526.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">D:\aiwork 及其子目录</text>
+<text x="511.0" y="526.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">读写</text>
+<rect x="57.0" y="534.0" width="886.0" height="28.0" rx="0" fill="#FBFBFA" stroke="#FBFBFA" stroke-width="0"/>
+<text x="74.0" y="554.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">黄区</text>
+<text x="356.0" y="554.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">历史归档、标准文本、已发布图纸目录</text>
+<text x="602.0" y="554.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">只读</text>
+<text x="74.0" y="582.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">红区</text>
+<text x="356.0" y="582.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">系统盘、AppData、桌面、财务人事、共享盘根目录</text>
+<text x="683.9" y="582.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">不碰</text>
+<rect x="57.0" y="590.0" width="886.0" height="28.0" rx="0" fill="#FBFBFA" stroke="#FBFBFA" stroke-width="0"/>
+<text x="74.0" y="610.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">铁律</text>
+<text x="356.0" y="610.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">AI 永远只碰副本，原件留在原地</text>
+</svg>

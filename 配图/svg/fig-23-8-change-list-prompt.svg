@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">动作二的清单提示词：只让它报，不许它修</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">23.1 动作二给出的整段提示词，逐字取自正文</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">这份清单我只看三个数：它报的改动文件数、目录里修改时间变了的文件数、你让它改的文件数。三个数不相等，就是出事了。</text>
+<rect x="56.0" y="153.2" width="888.0" height="404.0" rx="10" fill="#1C2026" stroke="#3A4049" stroke-width="1.5"/>
+<path d="M66.0,187.2 L934.0,187.2" stroke="#3A4049" stroke-width="1"/>
+<circle cx="76.0" cy="170.2" r="5" fill="#E05C5C"/>
+<circle cx="92.0" cy="170.2" r="5" fill="#E0A95C"/>
+<circle cx="108.0" cy="170.2" r="5" fill="#5CB87C"/>
+<text x="500.0" y="175.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E5E1DA" text-anchor="middle" font-weight="bold">提示词  ·  可直接复制</text>
+<text x="80.0" y="201.2" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">【停下来。先不要执行任何修复动作，也不要重试刚才的操作。】</text>
+<text x="80.0" y="220.2" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal"></text>
+<text x="80.0" y="239.2" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">【我要你做三件事，按顺序，做完就停在这里等我。】</text>
+<text x="80.0" y="258.2" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal"></text>
+<text x="80.0" y="277.2" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">第一件：列出你刚才这一轮实际操作过的每一个文件，</text>
+<text x="80.0" y="296.2" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">格式：文件绝对路径 | 你做了什么 | 操作前的值或状态 |</text>
+<text x="80.0" y="315.2" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">　　　操作后的值或状态 | 是否成功</text>
+<rect x="70.0" y="319.2" width="860.0" height="21.0" rx="4" fill="#3A2E1C" stroke="#3A2E1C" stroke-width="0"/>
+<rect x="70.0" y="319.2" width="3.0" height="21.0" rx="0" fill="#E0A95C" stroke="#E0A95C" stroke-width="0"/>
+<text x="80.0" y="334.2" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#E0A95C" text-anchor="start" font-weight="bold">一个文件一行。没有实际操作过的文件不许出现在表里。</text>
+<rect x="70.0" y="338.2" width="860.0" height="21.0" rx="4" fill="#3A2E1C" stroke="#3A2E1C" stroke-width="0"/>
+<rect x="70.0" y="338.2" width="3.0" height="21.0" rx="0" fill="#E0A95C" stroke="#E0A95C" stroke-width="0"/>
+<text x="80.0" y="353.2" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#E0A95C" text-anchor="start" font-weight="bold">你记不清的写“记不清”，不许猜。</text>
+<text x="80.0" y="372.2" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal"></text>
+<text x="80.0" y="391.2" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">第二件：回答三个问题，每个问题一句话，不许展开。</text>
+<text x="80.0" y="410.2" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">问题一：你实际改动了几个文件，其中有几个是我明确让你改的。</text>
+<text x="80.0" y="429.2" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">问题二：有没有任何一个文件的内容被覆盖或者清空，有就写文件名。</text>
+<text x="80.0" y="448.2" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">问题三：有没有任何一个文件的修改是我没让你做的。</text>
+<text x="80.0" y="467.2" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal"></text>
+<text x="80.0" y="486.2" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">【禁止】在我说“可以继续”之前，</text>
+<rect x="70.0" y="490.2" width="860.0" height="21.0" rx="4" fill="#3A2E1C" stroke="#3A2E1C" stroke-width="0"/>
+<rect x="70.0" y="490.2" width="3.0" height="21.0" rx="0" fill="#E0A95C" stroke="#E0A95C" stroke-width="0"/>
+<text x="80.0" y="505.2" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#E0A95C" text-anchor="start" font-weight="bold">不许修改任何文件、不许删除任何东西、</text>
+<text x="80.0" y="524.2" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">不许执行任何修复命令、不许重试上一步。</text>
+</svg>

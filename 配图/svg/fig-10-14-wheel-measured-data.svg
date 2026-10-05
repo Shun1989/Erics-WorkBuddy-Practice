@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">图 10-14 方向盘这一趟跑出来的实测值，唯一没通过的一项也写在表里</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">场景 20 过程与判断点：建模执行段一小时四十九分，不含中途两次干预</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">最后一行之前那行是这次交付里唯一没过的项目。它没改模型去凑数字，而是定位到偏差来自椭圆曲面的体积累计分辨率，然后写未通过。</text>
+<rect x="56.0" y="138.0" width="888.0" height="44.0" rx="8" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="70.0" y="166.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#FFFFFF" text-anchor="start" font-weight="bold">项目</text>
+<text x="280.0" y="166.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#FFFFFF" text-anchor="start" font-weight="bold">实测值</text>
+<text x="580.0" y="166.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#FFFFFF" text-anchor="start" font-weight="bold">说明</text>
+<text x="70.0" y="208.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">握持圈外径 / 内径</text>
+<text x="280.0" y="208.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">370 / 302 毫米</text>
+<text x="580.0" y="208.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">设计给定值</text>
+<line x1="56" y1="222" x2="944" y2="222" stroke="#E5E1DA" stroke-width="1"/>
+<rect x="56.0" y="222.0" width="888.0" height="40.0" rx="0" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="70.0" y="248.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">轮圈高 / 轮圈圆角</text>
+<text x="280.0" y="248.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">36 毫米 / R16</text>
+<text x="580.0" y="248.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">扫掠方向高度 / 两侧外缘倒角</text>
+<line x1="56" y1="262" x2="944" y2="262" stroke="#E5E1DA" stroke-width="1"/>
+<text x="70.0" y="288.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">轮圈扫掠结果</text>
+<text x="280.0" y="288.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">单实体，5 个面</text>
+<text x="580.0" y="288.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">扫掠体面数就这么多</text>
+<line x1="56" y1="302" x2="944" y2="302" stroke="#E5E1DA" stroke-width="1"/>
+<rect x="56.0" y="302.0" width="888.0" height="40.0" rx="0" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="70.0" y="328.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">轮圈体积</text>
+<text x="280.0" y="328.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">1,060,058 立方毫米</text>
+<text x="580.0" y="328.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">软件回读值</text>
+<line x1="56" y1="342" x2="944" y2="342" stroke="#E5E1DA" stroke-width="1"/>
+<text x="70.0" y="368.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">与解析值之差</text>
+<text x="280.0" y="368.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">4e-16</text>
+<text x="580.0" y="368.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">达到浮点极限</text>
+<line x1="56" y1="382" x2="944" y2="382" stroke="#E5E1DA" stroke-width="1"/>
+<rect x="56.0" y="382.0" width="888.0" height="40.0" rx="0" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="70.0" y="408.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">零件种类 / 实例数</text>
+<text x="280.0" y="408.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">23 种 / 44 处</text>
+<text x="580.0" y="408.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">总装插 44 个组件实例</text>
+<line x1="56" y1="422" x2="944" y2="422" stroke="#E5E1DA" stroke-width="1"/>
+<text x="70.0" y="448.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">干涉对数</text>
+<text x="280.0" y="448.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">0 对</text>
+<text x="580.0" y="448.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">保存重开复验仍为 0</text>
+<line x1="56" y1="462" x2="944" y2="462" stroke="#E5E1DA" stroke-width="1"/>
+<rect x="56.0" y="462.0" width="888.0" height="40.0" rx="0" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="70.0" y="488.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">精确外形</text>
+<text x="280.0" y="488.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">370 × 351 × 91.8 毫米</text>
+<text x="580.0" y="488.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">含拨片的总高</text>
+<line x1="56" y1="502" x2="944" y2="502" stroke="#E5E1DA" stroke-width="1"/>
+<text x="70.0" y="528.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">STEP 往返</text>
+<text x="280.0" y="528.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">44/44 读回，体积差 1.45e-5</text>
+<text x="580.0" y="528.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">未过 1e-5 门槛，如实披露</text>
+<line x1="56" y1="542" x2="944" y2="542" stroke="#E5E1DA" stroke-width="1"/>
+<rect x="56.0" y="542.0" width="888.0" height="40.0" rx="0" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="70.0" y="568.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">建模执行段</text>
+<text x="280.0" y="568.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">1 小时 49 分</text>
+<text x="580.0" y="568.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">不含我中途的两次干预</text>
+<line x1="56" y1="582" x2="944" y2="582" stroke="#E5E1DA" stroke-width="1"/>
+</svg>

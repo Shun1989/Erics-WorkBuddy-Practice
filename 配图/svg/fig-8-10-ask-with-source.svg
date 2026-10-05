@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">场景 07 步骤 5：提问也要立规矩</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">先检索卡片和总目录，没出处的结论一律不算数</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">出自场景 07 步骤 5。我问过库里根本没有的供应商交期，它回了我一个精确到天数的日期，还附了文件名。</text>
+<rect x="56.0" y="217.0" width="888.0" height="252.0" rx="10" fill="#1C2026" stroke="#3A4049" stroke-width="1.5"/>
+<path d="M66.0,251.04 L934.0,251.04" stroke="#3A4049" stroke-width="1"/>
+<circle cx="76.0" cy="234.04" r="5" fill="#E05C5C"/>
+<circle cx="92.0" cy="234.04" r="5" fill="#E0A95C"/>
+<circle cx="108.0" cy="234.04" r="5" fill="#5CB87C"/>
+<text x="500.0" y="239.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E5E1DA" text-anchor="middle" font-weight="bold">提示词  ·  可直接复制</text>
+<text x="80.0" y="265.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">接下来我会向你提问，问题都关于 D:\我的库 里的资料。</text>
+<text x="80.0" y="284.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal"></text>
+<text x="80.0" y="303.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">回答规则，必须遵守：</text>
+<text x="80.0" y="322.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">1. 先检索 _卡片 目录下的卡片和 _总目录.md，再决定怎么答。</text>
+<rect x="70.0" y="326.0" width="860.0" height="21.0" rx="4" fill="#3A2E1C" stroke="#3A2E1C" stroke-width="0"/>
+<rect x="70.0" y="326.0" width="3.0" height="21.0" rx="0" fill="#E0A95C" stroke="#E0A95C" stroke-width="0"/>
+<text x="80.0" y="341.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#E0A95C" text-anchor="start" font-weight="bold">2. 每条回答后面必须给出处：文件名 + 页码或章节号。没有出处的结论不许输出。</text>
+<rect x="70.0" y="345.0" width="860.0" height="21.0" rx="4" fill="#3A2E1C" stroke="#3A2E1C" stroke-width="0"/>
+<rect x="70.0" y="345.0" width="3.0" height="21.0" rx="0" fill="#E0A95C" stroke="#E0A95C" stroke-width="0"/>
+<text x="80.0" y="360.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#E0A95C" text-anchor="start" font-weight="bold">3. 如果库里确实没有这个信息，直接回答"库里没有"，并列出你搜索过的关键词。</text>
+<text x="80.0" y="379.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">   不许用通用知识补全，不许推测。</text>
+<rect x="70.0" y="383.0" width="860.0" height="21.0" rx="4" fill="#3A2E1C" stroke="#3A2E1C" stroke-width="0"/>
+<rect x="70.0" y="383.0" width="3.0" height="21.0" rx="0" fill="#E0A95C" stroke="#E0A95C" stroke-width="0"/>
+<text x="80.0" y="398.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#E0A95C" text-anchor="start" font-weight="bold">4. 如果找到多个互相矛盾的记录，全部列出来，标注各自的日期，告诉我哪个最新，不要替我选。</text>
+<text x="80.0" y="417.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal"></text>
+<text x="80.0" y="436.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">我的第一个问题是：【三个月前那次温升试验，绕组最高温度是多少度？】</text>
+</svg>

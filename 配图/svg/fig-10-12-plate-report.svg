@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">图 10-12 每一步都带真实数字的汇报长这样，四个动作各减去多少体积</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">场景 19 过程与判断点：这段里的每一个数字你都能拿计算器复核</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">盯三处：最终体积对不对，特征名字对不对，它有没有沉默。沉默三十秒然后说一句已完成，比报错危险得多。</text>
+<rect x="56.0" y="128.0" width="888.0" height="336.0" rx="10" fill="#1C2026" stroke="#3A4049" stroke-width="1.5"/>
+<path d="M66,162 L934,162" stroke="#3A4049" stroke-width="1"/>
+<circle cx="76" cy="145" r="5" fill="#E05C5C"/>
+<circle cx="92" cy="145" r="5" fill="#E0A95C"/>
+<circle cx="108" cy="145" r="5" fill="#5CB87C"/>
+<text x="500.0" y="150.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E5E1DA" text-anchor="middle" font-weight="bold">终端  ·  bash</text>
+<text x="78.0" y="176.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#8A9099" text-anchor="start" font-weight="normal">&gt; 草图1_底板：120.00 × 80.00，完全定义，无欠约束。</text>
+<text x="78.0" y="200.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#8A9099" text-anchor="start" font-weight="normal">&gt; 拉伸1_底板：深度 12.00 mm，体积 115200.00 mm³，包围盒 120.00 × 80.00 × 12.00。</text>
+<text x="78.0" y="224.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#8A9099" text-anchor="start" font-weight="normal">&gt; 切除1_安装孔：4 处 Ø9 通孔，单处去除 763.41 mm³，合计 3053.63 mm³。</text>
+<text x="78.0" y="248.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#8A9099" text-anchor="start" font-weight="normal">&gt; 切除2_中心孔：1 处 Ø40 通孔，去除 15079.64 mm³。</text>
+<text x="78.0" y="272.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#8A9099" text-anchor="start" font-weight="normal">&gt; 圆角1_倒角：4 处 R10，合计去除 1030.09 mm³。</text>
+<text x="78.0" y="296.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#7FC48B" text-anchor="start" font-weight="normal">&gt; 最终体积 96036.86 mm³，解析值 96036.72 mm³，相对误差 1.5e-6，通过（门槛 1e-5）。</text>
+<text x="78.0" y="320.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#7FC48B" text-anchor="start" font-weight="normal">&gt; 已保存 mount_plate.SLDPRT，已导出 mount_plate.step。</text>
+</svg>

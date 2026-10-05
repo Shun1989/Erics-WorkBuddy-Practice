@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">图 4-13 写出第一个技能：把这段话复制给 WorkBuddy</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">4.7 节提示词原文，新手 15 分钟，熟练之后 5 分钟</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">来源：本章 4.7 节提示词原文。写完你自己读一遍，重点核对判定值和文件路径，这一步不许省。</text>
+<rect x="56.0" y="233.0" width="888.0" height="214.0" rx="10" fill="#1C2026" stroke="#3A4049" stroke-width="1.5"/>
+<path d="M66.0,267.0 L934.0,267.0" stroke="#3A4049" stroke-width="1"/>
+<circle cx="76.0" cy="250.0" r="5" fill="#E05C5C"/>
+<circle cx="92.0" cy="250.0" r="5" fill="#E0A95C"/>
+<circle cx="108.0" cy="250.0" r="5" fill="#5CB87C"/>
+<text x="500.0" y="255.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E5E1DA" text-anchor="middle" font-weight="bold">提示词  ·  可直接复制</text>
+<text x="80.0" y="281.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">我：回顾我们这次做的「XXX」这件事，把它写成一个技能，存到 ~/.workbuddy/skills/YYY/SKILL.md。</text>
+<text x="80.0" y="300.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">要求：</text>
+<text x="80.0" y="319.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">1. description 里写清楚干什么、什么话会触发、什么情况不适用</text>
+<rect x="70.0" y="323.0" width="860.0" height="21.0" rx="4" fill="#3A2E1C" stroke="#3A2E1C" stroke-width="0"/>
+<rect x="70.0" y="323.0" width="3.0" height="21.0" rx="0" fill="#E0A95C" stroke="#E0A95C" stroke-width="0"/>
+<text x="80.0" y="338.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#E0A95C" text-anchor="start" font-weight="bold">2. 正文包含：这份活是给谁干的、开工前必须拿到什么、步骤（不超过 7 条）、硬性规定、不许做的事、干完自查清单、向我汇</text>
+<text x="80.0" y="357.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">报什么</text>
+<rect x="70.0" y="361.0" width="860.0" height="21.0" rx="4" fill="#3A2E1C" stroke="#3A2E1C" stroke-width="0"/>
+<rect x="70.0" y="361.0" width="3.0" height="21.0" rx="0" fill="#E0A95C" stroke="#E0A95C" stroke-width="0"/>
+<text x="80.0" y="376.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#E0A95C" text-anchor="start" font-weight="bold">3. 所有判定值、格式要求写具体，不许出现"注意""适当""尽量"</text>
+<rect x="70.0" y="380.0" width="860.0" height="21.0" rx="4" fill="#3A2E1C" stroke="#3A2E1C" stroke-width="0"/>
+<rect x="70.0" y="380.0" width="3.0" height="21.0" rx="0" fill="#E0A95C" stroke="#E0A95C" stroke-width="0"/>
+<text x="80.0" y="395.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#E0A95C" text-anchor="start" font-weight="bold">4. 正文里提到的每一个文件路径，你先确认存在</text>
+<text x="80.0" y="414.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">写完读给我听。</text>
+</svg>

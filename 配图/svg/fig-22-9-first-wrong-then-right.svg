@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">同一个场景，两次算法，结论一样，理由完全不同</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">开场一节与 22.1，三个错逐条取自正文</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">第一次算错而且错得很自信，是因为只算了最好算的那本账。三本账里真正决定成败的是试错账，而它只有靠验收压得住。</text>
+<rect x="56.0" y="138.0" width="424.0" height="430.0" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="56.0" y="138.0" width="424.0" height="46.0" rx="12" fill="#6B7280" stroke="#6B7280" stroke-width="0"/>
+<text x="268.0" y="167.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#FFFFFF" text-anchor="middle" font-weight="bold">那天在周会上算的账</text>
+<text x="78.0" y="205.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">▍</text>
+<text x="94.0" y="205.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">省下的每一分钟都按满额时薪折成了钱</text>
+<text x="94.0" y="229.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">那两小时实际干了什么，公司没有因此多收到一分钱</text>
+<text x="78.0" y="262.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">▍</text>
+<text x="94.0" y="262.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">没算学习时间</text>
+<text x="94.0" y="286.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">为了跑通第一个真场景，赔进去两个傍晚和一个下午</text>
+<text x="78.0" y="319.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">▍</text>
+<text x="94.0" y="319.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">没算返工</text>
+<text x="94.0" y="343.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">漏了一行重复数据，第二天花约一小时回去核整张表</text>
+<text x="78.0" y="376.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">▍</text>
+<text x="94.0" y="376.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">报出来的数是订阅费的好几倍</text>
+<text x="94.0" y="400.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">会议室里有人说这么划算</text>
+<rect x="520.0" y="138.0" width="424.0" height="430.0" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="520.0" y="138.0" width="424.0" height="46.0" rx="12" fill="#E0632D" stroke="#E0632D" stroke-width="0"/>
+<text x="732.0" y="167.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#FFFFFF" text-anchor="middle" font-weight="bold">半年后用三本账重算的账</text>
+<text x="542.0" y="205.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#E0632D" text-anchor="start" font-weight="normal">▍</text>
+<text x="558.0" y="205.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">时间账要打折</text>
+<text x="558.0" y="229.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">绝大多数省下的时间流向下一个任务，系数取 0.3 到 0.5</text>
+<text x="542.0" y="262.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#E0632D" text-anchor="start" font-weight="normal">▍</text>
+<text x="558.0" y="262.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">试错账有三层</text>
+<text x="558.0" y="286.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">学习一次性，返工按次，错误代价按期望值</text>
+<text x="542.0" y="319.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#E0632D" text-anchor="start" font-weight="normal">▍</text>
+<text x="558.0" y="319.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">收益来源换了</text>
+<text x="558.0" y="343.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">不是我省了多少时间，而是那几个最枯燥的活我从此再没自</text>
+<text x="558.0" y="364.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">己动过手</text>
+<text x="542.0" y="397.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#E0632D" text-anchor="start" font-weight="normal">▍</text>
+<text x="558.0" y="397.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">结论仍是正收益</text>
+<text x="558.0" y="421.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">而且收益相当可观，但理由跟那天完全不同</text>
+</svg>

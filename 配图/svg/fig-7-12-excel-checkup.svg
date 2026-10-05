@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">场景 03 第一步只做体检，不改数据</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">我那份 2147 行的检测数据表，它列了 7 类问题</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">出自场景 03 第 5 节。体检报告出完就停，等我确认清洗规则。体检花 1 分钟，省下的返工远不止。</text>
+<circle cx="72" cy="143" r="14" fill="#FFFFFF" stroke="#C2410C" stroke-width="1.5"/>
+<text x="72.0" y="148.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#C2410C" text-anchor="middle" font-weight="bold">!</text>
+<text x="100.0" y="148.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">合并单元格有几处，在哪些区域</text>
+<circle cx="72" cy="189" r="14" fill="#FFFFFF" stroke="#C2410C" stroke-width="1.5"/>
+<text x="72.0" y="194.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#C2410C" text-anchor="middle" font-weight="bold">!</text>
+<text x="100.0" y="194.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">空行有几行，哪些是整行空、哪些只有部分列空</text>
+<circle cx="72" cy="235" r="14" fill="#FFFFFF" stroke="#C2410C" stroke-width="1.5"/>
+<text x="72.0" y="240.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#C2410C" text-anchor="middle" font-weight="bold">!</text>
+<text x="100.0" y="240.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">文本型数字出现在哪几列，大概多少格</text>
+<circle cx="72" cy="281" r="14" fill="#FFFFFF" stroke="#C2410C" stroke-width="1.5"/>
+<text x="72.0" y="286.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#C2410C" text-anchor="middle" font-weight="bold">!</text>
+<text x="100.0" y="286.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">日期格式有几种写法，各举一个例子</text>
+<circle cx="72" cy="327" r="14" fill="#FFFFFF" stroke="#C2410C" stroke-width="1.5"/>
+<text x="72.0" y="332.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#C2410C" text-anchor="middle" font-weight="bold">!</text>
+<text x="100.0" y="332.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">重复行有几行，按零件号加日期的组合判断</text>
+<circle cx="72" cy="373" r="14" fill="#FFFFFF" stroke="#C2410C" stroke-width="1.5"/>
+<text x="72.0" y="378.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#C2410C" text-anchor="middle" font-weight="bold">!</text>
+<text x="100.0" y="378.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">同一列的同一内容有没有多种写法，比如带空格不带空格、全角半角混用</text>
+<circle cx="72" cy="419" r="14" fill="#FFFFFF" stroke="#C2410C" stroke-width="1.5"/>
+<text x="72.0" y="424.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#C2410C" text-anchor="middle" font-weight="bold">!</text>
+<text x="100.0" y="424.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">有没有小计行、合计行、备注行混在数据区里</text>
+</svg>

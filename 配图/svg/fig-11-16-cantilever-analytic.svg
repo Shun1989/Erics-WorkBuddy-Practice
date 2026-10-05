@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">图 11-16 悬臂梁解析解的代入过程，公式由你在提示词里给定</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">场景 29 过程与判断点第一点：报出来的数跟这个差一个数量级，就是公式套错了</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="596.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">解析公式由你在提示词里给定，它才有东西可对。单位体系也要一起写死：毫米、牛顿、兆帕这一套是自洽的，混进米或者帕会差六个数量级，而求解器不</text>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">会报错。</text>
+<rect x="56.0" y="138.0" width="888.0" height="44.0" rx="8" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="70.0" y="166.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#FFFFFF" text-anchor="start" font-weight="bold">项</text>
+<text x="280.0" y="166.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#FFFFFF" text-anchor="start" font-weight="bold">取值</text>
+<text x="500.0" y="166.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#FFFFFF" text-anchor="start" font-weight="bold">说明</text>
+<text x="70.0" y="208.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">梁长 L</text>
+<text x="280.0" y="208.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">500 mm</text>
+<text x="500.0" y="208.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">长</text>
+<line x1="56" y1="222" x2="944" y2="222" stroke="#E5E1DA" stroke-width="1"/>
+<rect x="56.0" y="222.0" width="888.0" height="40.0" rx="0" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="70.0" y="248.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">截面 高 × 宽</text>
+<text x="280.0" y="248.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">20 × 10 mm</text>
+<text x="500.0" y="248.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">矩形截面，高乘宽</text>
+<line x1="56" y1="262" x2="944" y2="262" stroke="#E5E1DA" stroke-width="1"/>
+<text x="70.0" y="288.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">材料 弹性模量 E</text>
+<text x="280.0" y="288.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">210000 MPa</text>
+<text x="500.0" y="288.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">钢</text>
+<line x1="56" y1="302" x2="944" y2="302" stroke="#E5E1DA" stroke-width="1"/>
+<rect x="56.0" y="302.0" width="888.0" height="40.0" rx="0" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="70.0" y="328.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">泊松比</text>
+<text x="280.0" y="328.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">0.3</text>
+<line x1="56" y1="342" x2="944" y2="342" stroke="#E5E1DA" stroke-width="1"/>
+<text x="70.0" y="368.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">末端集中力 F</text>
+<text x="280.0" y="368.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">100 N</text>
+<text x="500.0" y="368.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">竖直向下</text>
+<line x1="56" y1="382" x2="944" y2="382" stroke="#E5E1DA" stroke-width="1"/>
+<rect x="56.0" y="382.0" width="888.0" height="40.0" rx="0" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="70.0" y="408.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">截面惯性矩 I</text>
+<text x="280.0" y="408.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">6666.67 mm⁴</text>
+<text x="500.0" y="408.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">I 等于 b 乘 h 的三次方除以 12</text>
+<line x1="56" y1="422" x2="944" y2="422" stroke="#E5E1DA" stroke-width="1"/>
+<text x="70.0" y="448.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">末端挠度解析解</text>
+<text x="280.0" y="448.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">约 2.976 mm</text>
+<text x="500.0" y="448.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">挠度等于 F 乘 L 的三次方除以 3 乘 E 乘 I</text>
+<line x1="56" y1="462" x2="944" y2="462" stroke="#E5E1DA" stroke-width="1"/>
+<rect x="56.0" y="462.0" width="888.0" height="40.0" rx="0" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="70.0" y="488.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">网格种子尺寸</text>
+<text x="280.0" y="488.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">5 mm</text>
+<text x="500.0" y="488.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">单元数量级在 4000 上下，节点数在 5000 上下</text>
+<line x1="56" y1="502" x2="944" y2="502" stroke="#E5E1DA" stroke-width="1"/>
+</svg>

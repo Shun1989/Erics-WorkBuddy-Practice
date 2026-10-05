@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">图 4-8 正文里最该抄的四段：止损线、硬规定、自查清单</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">4.3 节完整例子节选，每一段都能被 Yes 或 No 回答</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">来源：本章 4.3 节完整例子原文。规定类段落要单独拎出来，不要混在步骤里。</text>
+<rect x="150.0" y="128.0" width="700.0" height="474.0" rx="4" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<line x1="206" y1="168" x2="794" y2="168" stroke="#E5E1DA" stroke-width="1"/>
+<text x="206.0" y="158.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">SKILL.md  ·  正文</text>
+<text x="794.0" y="158.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="end" font-weight="normal">单页</text>
+<text x="206.0" y="204.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="21" fill="#1C2026" text-anchor="start" font-weight="bold">test-data-digest  正文节选</text>
+<line x1="206" y1="220" x2="794" y2="220" stroke="#E0632D" stroke-width="2"/>
+<text x="206.0" y="252.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">name: test-data-digest    version: 1.0.0</text>
+<text x="206.0" y="288.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">开工前你必须拿到</text>
+<text x="212.0" y="314.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">· 原始数据导出的 CSV，通常名为 mst_export_YYYYMM.csv</text>
+<text x="212.0" y="339.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">· 本月有效试验清单，在 references/test-plan-2026.md 里</text>
+<text x="212.0" y="364.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">· 操作人姓名（不确定就问我，不许自己编）</text>
+<text x="206.0" y="389.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#3A3F47" text-anchor="start" font-weight="normal">缺任何一样，先问我，不许往下做。这一句是止损线：没有它，它缺输入时会自己去想办法，最</text>
+<text x="206.0" y="411.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#3A3F47" text-anchor="start" font-weight="normal">典型的办法是猜。</text>
+<text x="206.0" y="451.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">顺序不许变（规定，不是动作）</text>
+<text x="206.0" y="477.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#3A3F47" text-anchor="start" font-weight="normal">耐久测试 / 振动测试 / 温升测试 / 噪声测试。不许按数据量大小排，不许按字母排，不许按</text>
+<text x="206.0" y="499.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#3A3F47" text-anchor="start" font-weight="normal">你上次的习惯排。</text>
+<text x="206.0" y="539.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">干完之后自查（写成能回答 Yes 或 No 的清单）</text>
+<text x="212.0" y="565.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">· 所有日期格式是 YYYY-MM-DD，一个斜杠都没有</text>
+<text x="212.0" y="590.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">· 超差行数与我给的判定值算出来的数一致，写出这个数字</text>
+</svg>

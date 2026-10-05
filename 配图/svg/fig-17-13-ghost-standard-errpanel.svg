@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">一条不存在的标准条款，害得后面试验全按错的做</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">场景 62 第一个坑：脑补的标准号</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">编号让错话听着像真话：号错了，条款就是另一条，试验方法跟着全错</text>
+<rect x="56.0" y="167.9" width="888.0" height="149.0" rx="10" fill="#1C2026" stroke="#3A4049" stroke-width="1.5"/>
+<path d="M66,201.9 L934,201.9" stroke="#3A4049" stroke-width="1"/>
+<circle cx="76" cy="184.9" r="5" fill="#E05C5C"/>
+<circle cx="92" cy="184.9" r="5" fill="#E0A95C"/>
+<circle cx="108" cy="184.9" r="5" fill="#5CB87C"/>
+<text x="500.0" y="189.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E5E1DA" text-anchor="middle" font-weight="bold">WorkBuddy  ·  任务中断</text>
+<rect x="68.0" y="205.9" width="50.0" height="28.0" rx="6" fill="#2E343D" stroke="#3A4049" stroke-width="1"/>
+<text x="93.0" y="224.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#E5E1DA" text-anchor="middle" font-weight="bold">问题</text>
+<rect x="124.0" y="205.9" width="50.0" height="28.0" rx="6" fill="#1C2026" stroke="#1C2026" stroke-width="1"/>
+<text x="149.0" y="224.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="middle" font-weight="normal">日志</text>
+<text x="80.0" y="251.9" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#E05C5C" text-anchor="start" font-weight="bold">第 3 页：堵转试验的持续时间按 GB/T 21418-2023 第 5.4.2 条执行，</text>
+<text x="80.0" y="273.9" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#AEB4BC" text-anchor="start" font-weight="normal">单次持续时间 60 s，间隔 30 s，共 3 次。</text>
+<text x="80.0" y="294.9" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#AEB4BC" text-anchor="start" font-weight="normal">检索结果：该标准现行版本为 2008 年，正文共四章，第五章不存在</text>
+<rect x="56.0" y="340.9" width="430.0" height="196.0" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="56.0" y="340.9" width="430.0" height="40.0" rx="10" fill="#E0632D" stroke="#E0632D" stroke-width="0"/>
+<text x="74.0" y="366.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#FFFFFF" text-anchor="start" font-weight="bold">可能原因</text>
+<text x="74.0" y="406.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E0632D" text-anchor="start" font-weight="bold">·</text>
+<text x="90.0" y="406.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">提示词里写了“按相关标准执行”，它听成了“请你找一个标准</text>
+<text x="90.0" y="426.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">来支撑”</text>
+<text x="74.0" y="458.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E0632D" text-anchor="start" font-weight="bold">·</text>
+<text x="90.0" y="458.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">把三个“看起来应该差不多”的数，套上一个真标准的壳子</text>
+<text x="74.0" y="490.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E0632D" text-anchor="start" font-weight="bold">·</text>
+<text x="90.0" y="490.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">标准号有、条款号有、三个数字都很具体，看着毫无破绽</text>
+<rect x="514.0" y="340.9" width="430.0" height="196.0" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="514.0" y="340.9" width="430.0" height="40.0" rx="10" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="532.0" y="366.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#FFFFFF" text-anchor="start" font-weight="bold">补救动作</text>
+<text x="532.0" y="406.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#2D6A6A" text-anchor="start" font-weight="bold">·</text>
+<text x="548.0" y="406.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">开工前给允许引用清单，清单外的标准号一律不许写</text>
+<text x="532.0" y="438.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#2D6A6A" text-anchor="start" font-weight="bold">·</text>
+<text x="548.0" y="438.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">每个外引数字后面跟三样：来源文件名、在文件中的位置、原</text>
+<text x="548.0" y="458.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">始值</text>
+<text x="532.0" y="490.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#2D6A6A" text-anchor="start" font-weight="bold">·</text>
+<text x="548.0" y="490.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">正式开工前先问三道你已知答案的探针题，答错一道就换一轮</text>
+<text x="548.0" y="510.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">对话</text>
+</svg>

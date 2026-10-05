@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">交活三件套卡片：填完空白再按下开始</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">场景 57 末尾的卡片，可复制到笔记里打印贴在显示器边</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="150.0" y="128.0" width="700.0" height="510.0" rx="4" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<line x1="206" y1="168" x2="794" y2="168" stroke="#E5E1DA" stroke-width="1"/>
+<text x="206.0" y="158.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">任务卡片</text>
+<text x="794.0" y="158.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="end" font-weight="normal">单页</text>
+<text x="206.0" y="204.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="21" fill="#1C2026" text-anchor="start" font-weight="bold">交活三件套</text>
+<line x1="206" y1="220" x2="794" y2="220" stroke="#E0632D" stroke-width="2"/>
+<text x="206.0" y="252.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">每次交给 AI 一项超过半小时、会修改多个对象或难以一次验收的工作</text>
+<text x="206.0" y="288.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">一、完成条件：什么状态才算干完</text>
+<text x="212.0" y="314.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">· 1. 必须交付：_________________________</text>
+<text x="212.0" y="339.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">· 2. 数量 / 格式 / 路径：_______________</text>
+<text x="212.0" y="364.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">· 3. 任一关键项失败时，总状态写：未完成</text>
+<text x="206.0" y="399.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">二、边界条件：不许碰什么</text>
+<text x="212.0" y="425.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">· 1. 允许修改：___________________________</text>
+<text x="212.0" y="450.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">· 2. 只允许读取：_________________________</text>
+<text x="212.0" y="475.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">· 3. 遇到这些情况必须停下问我：___________</text>
+<text x="206.0" y="510.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">三、反指标：怎样防止数字好看、结果变坏</text>
+<text x="212.0" y="536.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">· 1. 主指标：_____________________________</text>
+<text x="212.0" y="561.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">· 2. 最可能的取巧方式：___________________</text>
+<text x="206.0" y="586.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#3A3F47" text-anchor="start" font-weight="normal">开工口令：先复述以上三组条件，指出冲突和缺口，等我确认后再执行。</text>
+</svg>

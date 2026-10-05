@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">三步推开法的时间预期：五天、两周、一个月</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">21.3 三步推进看板，每一步没达到成功标志就留在当前步</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">没通过时怎么办：缩小任务补完成条件；把求助问题写回模板，不急着扩人数；用最近一次真实错误改约定，再复测。</text>
+<line x1="250.0" y1="240.0" x2="250.0" y2="378.0" stroke="#E5E1DA" stroke-width="1"/>
+<text x="250.0" y="398.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="normal">第 1 周</text>
+<line x1="388.8" y1="240.0" x2="388.8" y2="378.0" stroke="#E5E1DA" stroke-width="1"/>
+<text x="388.8" y="398.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="normal">第 2 周</text>
+<line x1="527.6" y1="240.0" x2="527.6" y2="378.0" stroke="#E5E1DA" stroke-width="1"/>
+<text x="527.6" y="398.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="normal">第 3 周</text>
+<line x1="666.4" y1="240.0" x2="666.4" y2="378.0" stroke="#E5E1DA" stroke-width="1"/>
+<text x="666.4" y="398.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="normal">第 4 周</text>
+<line x1="805.2" y1="240.0" x2="805.2" y2="378.0" stroke="#E5E1DA" stroke-width="1"/>
+<text x="805.2" y="398.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="normal">第 5 周</text>
+<line x1="944.0" y1="240.0" x2="944.0" y2="378.0" stroke="#E5E1DA" stroke-width="1"/>
+<text x="944.0" y="398.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="normal">第 6 周</text>
+<text x="236.0" y="277.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="end" font-weight="normal">一个人先跑通</text>
+<rect x="250.0" y="260.0" width="694.0" height="24.0" rx="5" fill="#F2F0EB" stroke="#F2F0EB" stroke-width="0"/>
+<rect x="250.0" y="260.0" width="111.0" height="24.0" rx="5" fill="#E0632D" stroke="#E0632D" stroke-width="0"/>
+<text x="305.5" y="277.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="middle" font-weight="bold">约 5 个工作日</text>
+<text x="236.0" y="311.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="end" font-weight="normal">三个人抄作业</text>
+<rect x="250.0" y="294.0" width="694.0" height="24.0" rx="5" fill="#F2F0EB" stroke="#F2F0EB" stroke-width="0"/>
+<rect x="361.0" y="294.0" width="236.0" height="24.0" rx="5" fill="#E0632D" stroke="#E0632D" stroke-width="0"/>
+<text x="479.0" y="311.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="middle" font-weight="bold">约 2 周</text>
+<text x="236.0" y="345.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="end" font-weight="normal">全组定规矩</text>
+<rect x="250.0" y="328.0" width="694.0" height="24.0" rx="5" fill="#F2F0EB" stroke="#F2F0EB" stroke-width="0"/>
+<rect x="597.0" y="328.0" width="347.0" height="24.0" rx="5" fill="#E0632D" stroke="#E0632D" stroke-width="0"/>
+<text x="770.5" y="345.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="middle" font-weight="bold">约 1 个月</text>
+<line x1="479.02" y1="234.0" x2="479.02" y2="378.0" stroke="#E0632D" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="479.0" y="226.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#E0632D" text-anchor="middle" font-weight="bold">第二步</text>
+</svg>

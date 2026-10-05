@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">图 11-17 同一份结果，四张图看着完全不一样，区别只在色标范围</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">场景 30 过程与判断点：同一份数据能讲出两个故事</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">这就是"云图出完必须人眼看一遍"要写进验收的原因，并且要求它在每张图下面把色标的上限值和下限值都写出来。报告最后那一行结论，得你自己写。</text>
+<text x="56.0" y="148.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="bold">同一份结果</text>
+<line x1="56.0" y1="156" x2="78.0" y2="156" stroke="#6B7280" stroke-width="2.5"/>
+<rect x="56.0" y="164.0" width="414.0" height="180.0" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="76.0" y="196.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">色标上限设成材料屈服强度的 3 倍</text>
+<line x1="76.0" y1="208" x2="450.0" y2="208" stroke="#6B7280" stroke-width="2"/>
+<text x="76.0" y="236.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="bold">✕</text>
+<text x="98.0" y="236.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">四张云图里的一张</text>
+<text x="76.0" y="270.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="bold">✕</text>
+<text x="98.0" y="270.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">整片近乎全蓝</text>
+<text x="76.0" y="304.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="bold">✕</text>
+<text x="98.0" y="304.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">应力集中的位置看不出来</text>
+<text x="76.0" y="338.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="bold">✕</text>
+<text x="98.0" y="338.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">看上去处处安全</text>
+<text x="530.0" y="148.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#2D6A6A" text-anchor="start" font-weight="bold">还是同一份结果</text>
+<line x1="530.0" y1="156" x2="552.0" y2="156" stroke="#2D6A6A" stroke-width="2.5"/>
+<rect x="530.0" y="164.0" width="414.0" height="180.0" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="550.0" y="196.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">色标上限设成最大值的 1.1 倍</text>
+<line x1="550.0" y1="208" x2="924.0" y2="208" stroke="#2D6A6A" stroke-width="2"/>
+<text x="550.0" y="236.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#2D6A6A" text-anchor="start" font-weight="bold">✓</text>
+<text x="572.0" y="236.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">同一份数据的另一张</text>
+<text x="550.0" y="270.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#2D6A6A" text-anchor="start" font-weight="bold">✓</text>
+<text x="572.0" y="270.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">大片红</text>
+<text x="550.0" y="304.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#2D6A6A" text-anchor="start" font-weight="bold">✓</text>
+<text x="572.0" y="304.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">孔边与台阶根部一眼可见</text>
+<text x="550.0" y="338.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#2D6A6A" text-anchor="start" font-weight="bold">✓</text>
+<text x="572.0" y="338.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">看上去处处危险</text>
+<circle cx="500.0" cy="254.0" r="19" fill="#E0632D"/>
+<text x="500.0" y="261.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#FFFFFF" text-anchor="middle" font-weight="bold">→</text>
+</svg>

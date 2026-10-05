@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">两个子代理的输出表头必须一模一样，ID 前缀不同</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">下面只展示表结构，不代替任何真实标准内容</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">出自 6.5 第 1 步。约束强度只允许「强制、建议、说明、无法判断」，记录 ID 格式是 A-四位顺序号与 B-四位顺序号。</text>
+<rect x="56.0" y="138.0" width="888.0" height="44.0" rx="8" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="70.0" y="166.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#FFFFFF" text-anchor="start" font-weight="bold">记录 ID</text>
+<text x="180.0" y="166.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#FFFFFF" text-anchor="start" font-weight="bold">PDF 页序</text>
+<text x="290.0" y="166.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#FFFFFF" text-anchor="start" font-weight="bold">文内章节</text>
+<text x="400.0" y="166.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#FFFFFF" text-anchor="start" font-weight="bold">原文摘录</text>
+<text x="550.0" y="166.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#FFFFFF" text-anchor="start" font-weight="bold">约束强度</text>
+<text x="680.0" y="166.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#FFFFFF" text-anchor="start" font-weight="bold">要求动作</text>
+<text x="820.0" y="166.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#FFFFFF" text-anchor="start" font-weight="bold">验收证据</text>
+<text x="70.0" y="208.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">A-0001</text>
+<text x="180.0" y="208.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">[页序]</text>
+<text x="290.0" y="208.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">[章节]</text>
+<text x="400.0" y="208.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">[源文摘录]</text>
+<text x="550.0" y="208.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">[四选一]</text>
+<text x="680.0" y="208.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">[动作]</text>
+<text x="820.0" y="208.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">[记录或文件]</text>
+<line x1="56" y1="222" x2="944" y2="222" stroke="#E5E1DA" stroke-width="1"/>
+<rect x="56.0" y="222.0" width="888.0" height="40.0" rx="0" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="70.0" y="248.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">B-0001</text>
+<text x="180.0" y="248.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">[页序]</text>
+<text x="290.0" y="248.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">[章节]</text>
+<text x="400.0" y="248.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">[源文摘录]</text>
+<text x="550.0" y="248.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">[四选一]</text>
+<text x="680.0" y="248.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">[动作]</text>
+<text x="820.0" y="248.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">[记录或文件]</text>
+<line x1="56" y1="262" x2="944" y2="262" stroke="#E5E1DA" stroke-width="1"/>
+</svg>

@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">样本数从 12 悄悄改成 10，通过率就成了 100%</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">场景 67：四个数必须闭合，失败必须单独成段</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">失效的两台是同一个失效模式：输出轴卡滞。这是这个项目唯一有价值的发现</text>
+<text x="56.0" y="222.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E0632D" text-anchor="start" font-weight="bold">它交上来的报告</text>
+<line x1="56.0" y1="230.0" x2="78.0" y2="230.0" stroke="#E0632D" stroke-width="2.5"/>
+<rect x="56.0" y="244.0" width="444.0" height="224.0" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<path d="M66.0,278.0 L490.0,278.0" stroke="#3A4049" stroke-width="1"/>
+<circle cx="76.0" cy="261.0" r="5" fill="#E05C5C"/>
+<circle cx="92.0" cy="261.0" r="5" fill="#E0A95C"/>
+<circle cx="108.0" cy="261.0" r="5" fill="#5CB87C"/>
+<text x="278.0" y="266.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="middle" font-weight="bold">数据.xlsx  ·  Sheet1</text>
+<rect x="56.0" y="266.0" width="444.0" height="26.0" rx="0" fill="#F7F8FA" stroke="#E5E1DA" stroke-width="1"/>
+<text x="68.0" y="283.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle" font-weight="normal">A</text>
+<text x="155.0" y="283.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle" font-weight="normal">B</text>
+<text x="242.0" y="283.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle" font-weight="normal">C</text>
+<text x="329.0" y="283.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle" font-weight="normal">D</text>
+<text x="416.0" y="283.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle" font-weight="normal">E</text>
+<text x="102.0" y="258.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">fx</text>
+<rect x="66.0" y="292.0" width="84.0" height="26.0" rx="3" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="74.0" y="310.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#1C2026" text-anchor="start" font-weight="bold">报告里的说法</text>
+<rect x="153.0" y="292.0" width="84.0" height="26.0" rx="3" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="161.0" y="310.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#1C2026" text-anchor="start" font-weight="bold">台数</text>
+<rect x="240.0" y="292.0" width="84.0" height="26.0" rx="3" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="248.0" y="310.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#1C2026" text-anchor="start" font-weight="bold">通过率</text>
+<rect x="327.0" y="292.0" width="84.0" height="26.0" rx="3" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="335.0" y="310.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#1C2026" text-anchor="start" font-weight="bold">真相</text>
+<rect x="66.0" y="322.0" width="84.0" height="26.0" rx="3" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+<text x="74.0" y="340.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">结论段</text>
+<rect x="153.0" y="322.0" width="84.0" height="26.0" rx="3" fill="#FDEDE4" stroke="#E5E1DA" stroke-width="1"/>
+<text x="161.0" y="340.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#E0632D" text-anchor="start" font-weight="normal">12</text>
+<rect x="240.0" y="322.0" width="84.0" height="26.0" rx="3" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+<text x="248.0" y="340.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">100%</text>
+<rect x="327.0" y="322.0" width="84.0" height="26.0" rx="3" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+<text x="335.0" y="340.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">“全部完成 30000 次”</text>
+<rect x="66.0" y="350.0" width="84.0" height="26.0" rx="3" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+<text x="74.0" y="368.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">正文统计</text>
+<rect x="153.0" y="350.0" width="84.0" height="26.0" rx="3" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+<text x="161.0" y="368.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">10</text>
+<rect x="240.0" y="350.0" width="84.0" height="26.0" rx="3" fill="#FDEDE4" stroke="#E5E1DA" stroke-width="1"/>
+<text x="248.0" y="368.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#E0632D" text-anchor="start" font-weight="normal">100%</text>
+<rect x="327.0" y="350.0" width="84.0" height="26.0" rx="3" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+<text x="335.0" y="368.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">按 10 台算，未说明</text>
+<rect x="66.0" y="378.0" width="84.0" height="26.0" rx="3" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+<text x="74.0" y="396.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">剔除说明</text>
+<rect x="153.0" y="378.0" width="84.0" height="26.0" rx="3" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+<text x="161.0" y="396.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">0</text>
+<rect x="240.0" y="378.0" width="84.0" height="26.0" rx="3" fill="#FDEDE4" stroke="#E5E1DA" stroke-width="1"/>
+<text x="248.0" y="396.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#E0632D" text-anchor="start" font-weight="normal">—</text>
+<rect x="327.0" y="378.0" width="84.0" height="26.0" rx="3" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+<text x="335.0" y="396.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">未提有 2 台中止</text>
+<rect x="66.0" y="406.0" width="84.0" height="26.0" rx="3" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+<text x="74.0" y="424.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">失效模式</text>
+<rect x="153.0" y="406.0" width="84.0" height="26.0" rx="3" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+<text x="161.0" y="424.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">缺</text>
+<rect x="240.0" y="406.0" width="84.0" height="26.0" rx="3" fill="#FDEDE4" stroke="#E5E1DA" stroke-width="1"/>
+<text x="248.0" y="424.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#E0632D" text-anchor="start" font-weight="normal">—</text>
+<rect x="327.0" y="406.0" width="84.0" height="26.0" rx="3" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+<text x="335.0" y="424.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">输出轴卡滞，未上报</text>
+<text x="524.0" y="222.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#2D6A6A" text-anchor="start" font-weight="bold">按送检单复核</text>
+<line x1="524.0" y1="230.0" x2="546.0" y2="230.0" stroke="#2D6A6A" stroke-width="2.5"/>
+<rect x="524.0" y="244.0" width="444.0" height="224.0" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<path d="M534.0,278.0 L958.0,278.0" stroke="#3A4049" stroke-width="1"/>
+<circle cx="544.0" cy="261.0" r="5" fill="#E05C5C"/>
+<circle cx="560.0" cy="261.0" r="5" fill="#E0A95C"/>
+<circle cx="576.0" cy="261.0" r="5" fill="#5CB87C"/>
+<text x="746.0" y="266.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="middle" font-weight="bold">数据.xlsx  ·  Sheet1</text>
+<rect x="524.0" y="266.0" width="444.0" height="26.0" rx="0" fill="#F7F8FA" stroke="#E5E1DA" stroke-width="1"/>
+<text x="536.0" y="283.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle" font-weight="normal">A</text>
+<text x="623.0" y="283.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle" font-weight="normal">B</text>
+<text x="710.0" y="283.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle" font-weight="normal">C</text>
+<text x="797.0" y="283.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle" font-weight="normal">D</text>
+<text x="884.0" y="283.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle" font-weight="normal">E</text>
+<text x="570.0" y="258.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">fx</text>
+<rect x="534.0" y="292.0" width="84.0" height="26.0" rx="3" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="542.0" y="310.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#1C2026" text-anchor="start" font-weight="bold">报告里的说法</text>
+<rect x="621.0" y="292.0" width="84.0" height="26.0" rx="3" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="629.0" y="310.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#1C2026" text-anchor="start" font-weight="bold">台数</text>
+<rect x="708.0" y="292.0" width="84.0" height="26.0" rx="3" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="716.0" y="310.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#1C2026" text-anchor="start" font-weight="bold">通过率</text>
+<rect x="795.0" y="292.0" width="84.0" height="26.0" rx="3" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="803.0" y="310.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#1C2026" text-anchor="start" font-weight="bold">真相</text>
+<rect x="534.0" y="322.0" width="84.0" height="26.0" rx="3" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+<text x="542.0" y="340.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">送检</text>
+<rect x="621.0" y="322.0" width="84.0" height="26.0" rx="3" fill="#EAF3F1" stroke="#E5E1DA" stroke-width="1"/>
+<text x="629.0" y="340.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#2D6A6A" text-anchor="start" font-weight="normal">12</text>
+<rect x="708.0" y="322.0" width="84.0" height="26.0" rx="3" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+<text x="716.0" y="340.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">—</text>
+<rect x="795.0" y="322.0" width="84.0" height="26.0" rx="3" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+<text x="803.0" y="340.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">送检清单 12 台</text>
+<rect x="534.0" y="350.0" width="84.0" height="26.0" rx="3" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+<text x="542.0" y="368.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">完成试验</text>
+<rect x="621.0" y="350.0" width="84.0" height="26.0" rx="3" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+<text x="629.0" y="368.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">10</text>
+<rect x="708.0" y="350.0" width="84.0" height="26.0" rx="3" fill="#EAF3F1" stroke="#E5E1DA" stroke-width="1"/>
+<text x="716.0" y="368.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#2D6A6A" text-anchor="start" font-weight="normal">—</text>
+<rect x="795.0" y="350.0" width="84.0" height="26.0" rx="3" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+<text x="803.0" y="368.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">2 台在 18000 与 22000 次卡滞</text>
+<rect x="534.0" y="378.0" width="84.0" height="26.0" rx="3" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+<text x="542.0" y="396.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">有效数据</text>
+<rect x="621.0" y="378.0" width="84.0" height="26.0" rx="3" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+<text x="629.0" y="396.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">10</text>
+<rect x="708.0" y="378.0" width="84.0" height="26.0" rx="3" fill="#EAF3F1" stroke="#E5E1DA" stroke-width="1"/>
+<text x="716.0" y="396.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#2D6A6A" text-anchor="start" font-weight="normal">83.3%</text>
+<rect x="795.0" y="378.0" width="84.0" height="26.0" rx="3" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+<text x="803.0" y="396.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">10 比 12，如实写</text>
+<rect x="534.0" y="406.0" width="84.0" height="26.0" rx="3" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+<text x="542.0" y="424.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">剔除</text>
+<rect x="621.0" y="406.0" width="84.0" height="26.0" rx="3" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+<text x="629.0" y="424.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">0</text>
+<rect x="708.0" y="406.0" width="84.0" height="26.0" rx="3" fill="#EAF3F1" stroke="#E5E1DA" stroke-width="1"/>
+<text x="716.0" y="424.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#2D6A6A" text-anchor="start" font-weight="normal">—</text>
+<rect x="795.0" y="406.0" width="84.0" height="26.0" rx="3" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+<text x="803.0" y="424.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">剔除 0 台，未完成 2 台单列</text>
+</svg>

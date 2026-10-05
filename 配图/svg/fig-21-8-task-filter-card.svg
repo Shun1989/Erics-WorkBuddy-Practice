@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">可复制的任务筛选卡：四维打分加四道门，填完就能判断能不能进首批</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">21.2 末尾那张任务卡，字段与取值范围逐字取自正文</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">四道门里有一项为否，先补条件，不急着开工。主管看到最坏后果和怎样验收两栏，就能判断能不能进首批。</text>
+<rect x="56.0" y="150.0" width="888.0" height="412.0" rx="10" fill="#1C2026" stroke="#3A4049" stroke-width="1.5"/>
+<path d="M66.0,184 L934.0,184" stroke="#3A4049" stroke-width="1"/>
+<circle cx="76.0" cy="167" r="5" fill="#E05C5C"/>
+<circle cx="92.0" cy="167" r="5" fill="#E0A95C"/>
+<circle cx="108.0" cy="167" r="5" fill="#5CB87C"/>
+<text x="500.0" y="172.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E5E1DA" text-anchor="middle" font-weight="bold">提示词  ·  可直接复制</text>
+<text x="80.0" y="198.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">【候选任务】</text>
+<text x="80.0" y="217.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">任务名称：[ ]　　执行岗位：[ ]</text>
+<text x="80.0" y="236.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">当前频率：[每天 / 每周 / 每月 / 偶发]</text>
+<text x="80.0" y="255.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">输入材料：[ ]　　输出产物：[ ]　　产物给谁使用：[ ]</text>
+<text x="80.0" y="274.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal"></text>
+<text x="80.0" y="293.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">【四维评分，1 到 5 分】</text>
+<text x="80.0" y="312.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">高频：[ ]，依据：[ ]　　重复：[ ]，依据：[ ]</text>
+<rect x="70.0" y="316.0" width="860.0" height="21.0" rx="4" fill="#3A2E1C" stroke="#3A2E1C" stroke-width="0"/>
+<rect x="70.0" y="316.0" width="3.0" height="21.0" rx="0" fill="#E0A95C" stroke="#E0A95C" stroke-width="0"/>
+<text x="80.0" y="331.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#E0A95C" text-anchor="start" font-weight="bold">出错代价低：[ ]，最坏后果：[ ]</text>
+<text x="80.0" y="350.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">成果看得见：[ ]，怎样验收：[ ]</text>
+<text x="80.0" y="369.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal"></text>
+<rect x="70.0" y="373.0" width="860.0" height="21.0" rx="4" fill="#3A2E1C" stroke="#3A2E1C" stroke-width="0"/>
+<rect x="70.0" y="373.0" width="3.0" height="21.0" rx="0" fill="#E0A95C" stroke="#E0A95C" stroke-width="0"/>
+<text x="80.0" y="388.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#E0A95C" text-anchor="start" font-weight="bold">【四道门】</text>
+<text x="80.0" y="407.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">输入是否允许提供：[是 / 否]</text>
+<text x="80.0" y="426.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">是否有客观验收动作：[是 / 否，动作是 ]</text>
+<text x="80.0" y="445.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">错误是否可撤回：[是 / 否]</text>
+<text x="80.0" y="464.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">首位使用者是否确定：[是 / 否，姓名或岗位 ]</text>
+<text x="80.0" y="483.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal"></text>
+<rect x="70.0" y="487.0" width="860.0" height="21.0" rx="4" fill="#3A2E1C" stroke="#3A2E1C" stroke-width="0"/>
+<rect x="70.0" y="487.0" width="3.0" height="21.0" rx="0" fill="#E0A95C" stroke="#E0A95C" stroke-width="0"/>
+<text x="80.0" y="502.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#E0A95C" text-anchor="start" font-weight="bold">【结论】进入首批 / 暂缓 / 改小后再评</text>
+<text x="80.0" y="521.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">若改小，删掉哪些判断或外部动作：[ ]</text>
+<text x="80.0" y="540.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">沿用第 18 章定级：[L1 / L2 / L3]</text>
+</svg>

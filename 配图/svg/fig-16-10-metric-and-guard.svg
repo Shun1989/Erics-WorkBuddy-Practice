@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">给每个主指标配一把查取巧的尺子</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">场景 57：六组主指标与它们的反指标</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">写反指标时先扮演一次只想拿高分的人：最省力的作弊办法是什么</text>
+<rect x="56.0" y="140.0" width="431.0" height="133.3" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="56.0" y="140.0" width="431.0" height="42.0" rx="12" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="76.0" y="168.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">测试通过率 100%</text>
+<text x="76.0" y="206.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">它可能跳过或删除失败测试。反指标：测试总数不减少，跳过</text>
+<text x="76.0" y="226.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">数不增加，关键断言不修改</text>
+<rect x="513.0" y="140.0" width="431.0" height="133.3" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="513.0" y="140.0" width="431.0" height="42.0" rx="12" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="533.0" y="168.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">整理完成度 100%</text>
+<text x="533.0" y="206.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">它可能把无法识别的文件算作已处理。反指标：输入数等于成</text>
+<text x="533.0" y="226.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">功数、失败数、跳过数之和，失败项逐个列名</text>
+<rect x="56.0" y="293.3" width="431.0" height="133.3" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="56.0" y="293.3" width="431.0" height="42.0" rx="12" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="76.0" y="321.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">报告越完整越好</text>
+<text x="76.0" y="359.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">它可能重复内容、堆页数。反指标：必备问题逐项有答案，重</text>
+<text x="76.0" y="379.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">复段落数为 0，每条结论能回到来源</text>
+<rect x="513.0" y="293.3" width="431.0" height="133.3" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="513.0" y="293.3" width="431.0" height="42.0" rx="12" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="533.0" y="321.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">告警数降到 0</text>
+<text x="533.0" y="359.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">它可能关闭规则或隐藏输出。反指标：启用规则数不减少，原</text>
+<text x="533.0" y="379.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">始日志保留，例外必须有批准记录</text>
+<rect x="56.0" y="446.7" width="431.0" height="133.3" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="56.0" y="446.7" width="431.0" height="42.0" rx="12" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="76.0" y="474.7" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">代码改动越少越好</text>
+<text x="76.0" y="512.7" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">它可能把问题留着不修。反指标：指定缺陷全部有验证结果，</text>
+<text x="76.0" y="532.7" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">未解决项不得写成已完成</text>
+<rect x="513.0" y="446.7" width="431.0" height="133.3" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="513.0" y="446.7" width="431.0" height="42.0" rx="12" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="533.0" y="474.7" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">速度越快越好</text>
+<text x="533.0" y="512.7" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">它可能少读输入、少做检查。反指标：输入覆盖率不降低，验</text>
+<text x="533.0" y="532.7" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">收步骤不跳过，异常数量如实记录</text>
+</svg>

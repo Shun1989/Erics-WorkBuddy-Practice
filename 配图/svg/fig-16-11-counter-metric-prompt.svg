@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">反指标与证据指标：主指标之外的四道限制</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">场景 57 可复制提示词，M、A、E 三组规则</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">如果一条反指标永远不会失败，它多半只是口号</text>
+<rect x="56.0" y="177.1" width="888.0" height="347.0" rx="10" fill="#1C2026" stroke="#3A4049" stroke-width="1.5"/>
+<path d="M66.0,211.14 L934.0,211.14" stroke="#3A4049" stroke-width="1"/>
+<circle cx="76.0" cy="194.14" r="5" fill="#E05C5C"/>
+<circle cx="92.0" cy="194.14" r="5" fill="#E0A95C"/>
+<circle cx="108.0" cy="194.14" r="5" fill="#5CB87C"/>
+<text x="500.0" y="199.1" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E5E1DA" text-anchor="middle" font-weight="bold">提示词  ·  可直接复制</text>
+<text x="80.0" y="225.1" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">【反指标】</text>
+<rect x="70.0" y="229.1" width="860.0" height="21.0" rx="4" fill="#3A2E1C" stroke="#3A2E1C" stroke-width="0"/>
+<rect x="70.0" y="229.1" width="3.0" height="21.0" rx="0" fill="#E0A95C" stroke="#E0A95C" stroke-width="0"/>
+<text x="80.0" y="244.1" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#E0A95C" text-anchor="start" font-weight="bold">A1. 不得通过删除、跳过、屏蔽或放宽检查来改善 M1</text>
+<rect x="70.0" y="248.1" width="860.0" height="21.0" rx="4" fill="#3A2E1C" stroke="#3A2E1C" stroke-width="0"/>
+<rect x="70.0" y="248.1" width="3.0" height="21.0" rx="0" fill="#E0A95C" stroke="#E0A95C" stroke-width="0"/>
+<text x="80.0" y="263.1" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#E0A95C" text-anchor="start" font-weight="bold">A2. 执行前后的测试数、规则数、输入数分别统计；任何一项减少都要停下报告</text>
+<text x="80.0" y="282.1" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">A3. 不得把失败项、未知项或未处理项计入成功</text>
+<text x="80.0" y="301.1" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">A4. 不得复制内容、制造空文件或增加无效条目来提高完成数量</text>
+<text x="80.0" y="320.1" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">A5. 不得修改验收门槛、统计口径和完成条件</text>
+<text x="80.0" y="339.1" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal"></text>
+<text x="80.0" y="358.1" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">【证据指标】</text>
+<text x="80.0" y="377.1" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">E1. 保存完整执行日志，并列出实际执行的对象名称</text>
+<text x="80.0" y="396.1" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">E2. 给出输入数、成功数、失败数、跳过数，四者关系必须能核对</text>
+<text x="80.0" y="415.1" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">E3. 输出改动前后对比，说明每个主指标改善的直接原因</text>
+<text x="80.0" y="434.1" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal"></text>
+<text x="80.0" y="453.1" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">【判定规则】</text>
+<text x="80.0" y="472.1" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#D8DCE2" text-anchor="start" font-weight="normal">主指标全部达到，且反指标全部未越线，任务才可写“完成”。</text>
+<rect x="70.0" y="476.1" width="860.0" height="21.0" rx="4" fill="#3A2E1C" stroke="#3A2E1C" stroke-width="0"/>
+<rect x="70.0" y="476.1" width="3.0" height="21.0" rx="0" fill="#E0A95C" stroke="#E0A95C" stroke-width="0"/>
+<text x="80.0" y="491.1" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#E0A95C" text-anchor="start" font-weight="bold">任何反指标越线，立即停止，保留现场，报告越线条目和已影响对象。</text>
+</svg>

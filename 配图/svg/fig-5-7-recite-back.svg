@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">复述这一句不能省：它回什么，你才判断写没写进去</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">三条规矩发出去，换回来的是逐条对应的原文</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">出自 5.3 写法一。凡是进记忆的内容，一律要它回显原文，我逐字对。</text>
+<rect x="446.7" y="175.2" width="497.3" height="144.0" rx="12" fill="#EDF1F5" stroke="#EDF1F5" stroke-width="0"/>
+<text x="462.7" y="199.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="bold">我</text>
+<text x="462.7" y="223.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">记住三件事，以后默认照做，不用我再重复。1. 我的身份：汽车零部</text>
+<text x="462.7" y="245.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">件研发工程师，做汽车微电机与智能执行器，11 年一线经验。2. 我</text>
+<text x="462.7" y="267.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">写技术文件用中文，专业术语第一次出现时括号标注英文缩写。3. 凡</text>
+<text x="462.7" y="289.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">是涉及表格的任务，交付物一律是 .xlsx 文件。现在把上面三条复述</text>
+<text x="462.7" y="311.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">一遍，逐条对应。</text>
+<rect x="56.0" y="335.2" width="639.4" height="128.0" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="56.0" y="335.2" width="5.0" height="128.0" rx="3" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="76.0" y="359.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#2D6A6A" text-anchor="start" font-weight="bold">WorkBuddy</text>
+<rect x="160.0" y="347.2" width="52.0" height="20.0" rx="5" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="186.0" y="361.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="bold">Plan</text>
+<text x="76.0" y="383.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">已记住，复述如下：1. 你的身份是汽车零部件研发工程师，方向为汽车微电机与智能执行</text>
+<text x="76.0" y="405.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">器，有 11 年一线经验。2. 技术文件用中文撰写，术语首次出现时括号标注英文缩写，后</text>
+<text x="76.0" y="427.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">续不再重复。3. 涉及表格的任务，交付 .xlsx 文件，不以文字描述代替。三条均已写入</text>
+<text x="76.0" y="449.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">用户级记忆。</text>
+<rect x="56.0" y="558.0" width="888.0" height="34.0" rx="8" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1.2"/>
+<circle cx="76" cy="575" r="5" fill="#2D6A6A"/>
+<text x="92.0" y="580.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">用户级记忆 · 已写入 3 条</text>
+</svg>

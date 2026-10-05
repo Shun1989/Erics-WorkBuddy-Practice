@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">图 3-10 Agent 执行 22 分钟：它做了什么，交回来什么</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">3.6 节实录，跑了 22 分钟，汇报 5 次</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">来源：本章 3.6 节第三步。它在汇报最后写了两处「请确认」，验收时优先看这两处。</text>
+<rect x="56.0" y="128.0" width="888.0" height="474.0" rx="10" fill="#1C2026" stroke="#3A4049" stroke-width="1.5"/>
+<path d="M66,162 L934,162" stroke="#3A4049" stroke-width="1"/>
+<circle cx="76" cy="145" r="5" fill="#E05C5C"/>
+<circle cx="92" cy="145" r="5" fill="#E0A95C"/>
+<circle cx="108" cy="145" r="5" fill="#5CB87C"/>
+<text x="500.0" y="150.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E5E1DA" text-anchor="middle" font-weight="bold">WorkBuddy  ·  任务</text>
+<text x="80.0" y="194.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#A8AFB8" text-anchor="start" font-weight="normal">任务</text>
+<text x="130.0" y="194.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#E5E1DA" text-anchor="start" font-weight="bold">把 68 页 SOR 拆成内部任务清单，分给 7 个职能去认领</text>
+<text x="80.0" y="220.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#A8AFB8" text-anchor="start" font-weight="normal">阶段</text>
+<text x="84.0" y="246.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#5CB87C" text-anchor="start" font-weight="bold">✓</text>
+<text x="108.0" y="246.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E5E1DA" text-anchor="start" font-weight="normal">前 30 秒先去读 PDF，这是对的</text>
+<text x="84.0" y="276.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#5CB87C" text-anchor="start" font-weight="bold">✓</text>
+<text x="108.0" y="276.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E5E1DA" text-anchor="start" font-weight="normal">按 v2 方案建条款索引与职能分配</text>
+<text x="84.0" y="306.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#5CB87C" text-anchor="start" font-weight="bold">✓</text>
+<text x="108.0" y="306.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E5E1DA" text-anchor="start" font-weight="normal">条款转任务，合并同章节相邻条款</text>
+<text x="84.0" y="336.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#5CB87C" text-anchor="start" font-weight="bold">✓</text>
+<text x="108.0" y="336.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E5E1DA" text-anchor="start" font-weight="normal">挑出歧义条款与待定条款，不猜</text>
+<text x="84.0" y="366.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#5CB87C" text-anchor="start" font-weight="bold">✓</text>
+<text x="108.0" y="366.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E5E1DA" text-anchor="start" font-weight="normal">输出 xlsx，共 10 张表</text>
+<line x1="80" y1="402" x2="920" y2="402" stroke="#3A4049" stroke-width="1"/>
+<text x="80.0" y="426.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E5E1DA" text-anchor="start" font-weight="normal">已完成 5 / 5 个阶段</text>
+<text x="80.0" y="450.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#A8AFB8" text-anchor="start" font-weight="normal">耗时 22 分钟</text>
+<rect x="300.0" y="436.0" width="300.0" height="12.0" rx="6" fill="#2E343D" stroke="#2E343D" stroke-width="0"/>
+<rect x="300.0" y="436.0" width="300.0" height="12.0" rx="6" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="80.0" y="486.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#A8AFB8" text-anchor="start" font-weight="bold">产物</text>
+<rect x="78.0" y="494.0" width="254.2" height="26.0" rx="5" fill="#2A3038" stroke="#3A4049" stroke-width="1.2"/>
+<text x="90.0" y="512.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#8FD4C4" text-anchor="start" font-weight="normal">SOR_任务清单_某欧系平台_2026.xlsx</text>
+<rect x="78.0" y="526.0" width="364.1" height="26.0" rx="5" fill="#2A3038" stroke="#3A4049" stroke-width="1.2"/>
+<text x="90.0" y="544.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#8FD4C4" text-anchor="start" font-weight="normal">10 张表：总表 + 7 张职能分表 + 歧义条款表 + 待定表</text>
+<rect x="78.0" y="558.0" width="349.2" height="26.0" rx="5" fill="#2A3038" stroke="#3A4049" stroke-width="1.2"/>
+<text x="90.0" y="576.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#8FD4C4" text-anchor="start" font-weight="normal">四个数字：条款 127 / 任务 61 / 待定 6 / 合并 66</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">主代理合并前要过四道门，合并不是复制粘贴</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">四道门各查一样，缺一道就会在成品里炸出来</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">出自 6.5 第 5 步。能局部返工，是拆分任务最实在的好处。</text>
+<circle cx="72" cy="143" r="14" fill="#FFFFFF" stroke="#2D6A6A" stroke-width="1.5"/>
+<text x="72.0" y="148.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#2D6A6A" text-anchor="middle" font-weight="bold">✓</text>
+<text x="100.0" y="148.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">来源门：每条检查项和风险都能沿 ID 回到源文件位置</text>
+<circle cx="72" cy="189" r="14" fill="#FFFFFF" stroke="#2D6A6A" stroke-width="1.5"/>
+<text x="72.0" y="194.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#2D6A6A" text-anchor="middle" font-weight="bold">✓</text>
+<text x="100.0" y="194.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">覆盖门：计划范围内每页、每章都有处理状态，空档有原因</text>
+<circle cx="72" cy="235" r="14" fill="#FFFFFF" stroke="#2D6A6A" stroke-width="1.5"/>
+<text x="72.0" y="240.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#2D6A6A" text-anchor="middle" font-weight="bold">✓</text>
+<text x="100.0" y="240.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">口径门：状态值、约束强度、优先级写法只有预先规定的选项</text>
+<circle cx="72" cy="281" r="14" fill="#FFFFFF" stroke="#2D6A6A" stroke-width="1.5"/>
+<text x="72.0" y="286.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#2D6A6A" text-anchor="middle" font-weight="bold">✓</text>
+<text x="100.0" y="286.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">交付门：文件能打开，表头完整，汇报中的统计能由表格复算</text>
+<circle cx="72" cy="327" r="14" fill="#FFFFFF" stroke="#C2410C" stroke-width="1.5"/>
+<text x="72.0" y="332.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#C2410C" text-anchor="middle" font-weight="bold">!</text>
+<text x="100.0" y="332.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">发现一条错误时，只退回产生错误的那一个子任务，不让全部重跑</text>
+</svg>

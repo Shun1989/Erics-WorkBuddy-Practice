@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">一次多代理任务在窗口里长什么样</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">主代理始终只做三件事：发任务、验中间件、组装成品</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="56.0" y="128.0" width="888.0" height="474.0" rx="10" fill="#1C2026" stroke="#3A4049" stroke-width="1.5"/>
+<path d="M66,162 L934,162" stroke="#3A4049" stroke-width="1"/>
+<circle cx="76" cy="145" r="5" fill="#E05C5C"/>
+<circle cx="92" cy="145" r="5" fill="#E0A95C"/>
+<circle cx="108" cy="145" r="5" fill="#5CB87C"/>
+<text x="500.0" y="150.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E5E1DA" text-anchor="middle" font-weight="bold">WorkBuddy  ·  任务</text>
+<text x="80.0" y="194.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#A8AFB8" text-anchor="start" font-weight="normal">任务</text>
+<text x="130.0" y="194.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#E5E1DA" text-anchor="start" font-weight="bold">把一份约 200 页的标准做成检查清单、风险表和内部汇报材料</text>
+<text x="80.0" y="220.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#A8AFB8" text-anchor="start" font-weight="normal">阶段</text>
+<text x="84.0" y="246.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#5CB87C" text-anchor="start" font-weight="bold">✓</text>
+<text x="108.0" y="246.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E5E1DA" text-anchor="start" font-weight="normal">第 0 步 主代理出分工计划，不读正文</text>
+<text x="84.0" y="276.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#5CB87C" text-anchor="start" font-weight="bold">✓</text>
+<text x="108.0" y="276.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E5E1DA" text-anchor="start" font-weight="normal">第 1 步 子代理 A、B 分段提取要求</text>
+<text x="84.0" y="306.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#5CB87C" text-anchor="start" font-weight="bold">✓</text>
+<text x="108.0" y="306.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E5E1DA" text-anchor="start" font-weight="normal">第 2 步 校核子代理合并、去重、统一口径</text>
+<rect x="74.0" y="317.0" width="640.0" height="30.0" rx="6" fill="#2A3038" stroke="#2A3038" stroke-width="0"/>
+<text x="84.0" y="336.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E0632D" text-anchor="start" font-weight="bold">▸</text>
+<text x="108.0" y="336.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E5E1DA" text-anchor="start" font-weight="bold">第 3 步 检查清单与风险表并行生成</text>
+<text x="84.0" y="366.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="bold">○</text>
+<text x="108.0" y="366.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#7E8794" text-anchor="start" font-weight="normal">第 4 步 汇报子代理成稿并过四道门</text>
+<line x1="80" y1="402" x2="920" y2="402" stroke="#3A4049" stroke-width="1"/>
+<text x="80.0" y="426.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E5E1DA" text-anchor="start" font-weight="normal">已完成 3 / 5 个阶段</text>
+<text x="80.0" y="450.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#A8AFB8" text-anchor="start" font-weight="normal">耗时 人工抽查占大头，代理跑得很快</text>
+<rect x="300.0" y="436.0" width="300.0" height="12.0" rx="6" fill="#2E343D" stroke="#2E343D" stroke-width="0"/>
+<rect x="300.0" y="436.0" width="180.0" height="12.0" rx="6" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="80.0" y="486.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#A8AFB8" text-anchor="start" font-weight="bold">产物</text>
+<rect x="78.0" y="494.0" width="153.5" height="26.0" rx="5" fill="#2A3038" stroke="#3A4049" stroke-width="1.2"/>
+<text x="90.0" y="512.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#8FD4C4" text-anchor="start" font-weight="normal">01_A_前半要求.xlsx</text>
+<rect x="78.0" y="526.0" width="153.5" height="26.0" rx="5" fill="#2A3038" stroke="#3A4049" stroke-width="1.2"/>
+<text x="90.0" y="544.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#8FD4C4" text-anchor="start" font-weight="normal">01_B_后半要求.xlsx</text>
+<rect x="78.0" y="558.0" width="185.3" height="26.0" rx="5" fill="#2A3038" stroke="#3A4049" stroke-width="1.2"/>
+<text x="90.0" y="576.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#8FD4C4" text-anchor="start" font-weight="normal">02_要求总表_已校核.xlsx</text>
+</svg>

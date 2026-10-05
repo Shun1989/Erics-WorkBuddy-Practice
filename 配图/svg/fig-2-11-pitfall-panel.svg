@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">图 2-11 整理乱表格的三次翻车：症状、原因、补救动作</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">2.4.8 节翻车清单，每一条后面都跟着补救写法</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">来源：本章 2.4.8 节翻车一、翻车二、翻车三的原文与补救动作。</text>
+<rect x="56.0" y="159.5" width="888.0" height="149.0" rx="10" fill="#1C2026" stroke="#3A4049" stroke-width="1.5"/>
+<path d="M66,193.5 L934,193.5" stroke="#3A4049" stroke-width="1"/>
+<circle cx="76" cy="176.5" r="5" fill="#E05C5C"/>
+<circle cx="92" cy="176.5" r="5" fill="#E0A95C"/>
+<circle cx="108" cy="176.5" r="5" fill="#5CB87C"/>
+<text x="500.0" y="181.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E5E1DA" text-anchor="middle" font-weight="bold">WorkBuddy  ·  任务中断</text>
+<rect x="68.0" y="197.5" width="50.0" height="28.0" rx="6" fill="#2E343D" stroke="#3A4049" stroke-width="1"/>
+<text x="93.0" y="216.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#E5E1DA" text-anchor="middle" font-weight="bold">问题</text>
+<rect x="124.0" y="197.5" width="50.0" height="28.0" rx="6" fill="#1C2026" stroke="#1C2026" stroke-width="1"/>
+<text x="149.0" y="216.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="middle" font-weight="normal">日志</text>
+<text x="80.0" y="243.5" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#E05C5C" text-anchor="start" font-weight="bold">[1,488 行输出] 你要的检测数据里混进了小计行</text>
+<text x="80.0" y="265.5" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#AEB4BC" text-anchor="start" font-weight="normal">Expected: 输出 1,282 行（1,286 - 4 空行）</text>
+<text x="80.0" y="286.5" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#AEB4BC" text-anchor="start" font-weight="normal">Got: 1,488 行（第 1080 行以下206 行小计被当成检测数据）</text>
+<rect x="56.0" y="332.5" width="430.0" height="216.0" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="56.0" y="332.5" width="430.0" height="40.0" rx="10" fill="#E0632D" stroke="#E0632D" stroke-width="0"/>
+<text x="74.0" y="358.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#FFFFFF" text-anchor="start" font-weight="bold">可能原因</text>
+<text x="74.0" y="398.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E0632D" text-anchor="start" font-weight="bold">·</text>
+<text x="90.0" y="398.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">首列是「合计」「小计」的行被当成了正常数据行</text>
+<text x="74.0" y="430.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E0632D" text-anchor="start" font-weight="bold">·</text>
+<text x="90.0" y="430.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">表头占两行带合并单元格，它把第二行也当成了列名的一部分</text>
+<text x="74.0" y="462.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E0632D" text-anchor="start" font-weight="bold">·</text>
+<text x="90.0" y="462.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">206 行小计的 D 列为空或为求和值，格式上跟数据行很像</text>
+<rect x="514.0" y="332.5" width="430.0" height="216.0" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="514.0" y="332.5" width="430.0" height="40.0" rx="10" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="532.0" y="358.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#FFFFFF" text-anchor="start" font-weight="bold">补救动作</text>
+<text x="532.0" y="398.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#2D6A6A" text-anchor="start" font-weight="bold">·</text>
+<text x="548.0" y="398.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">第二轮提示词加一句：首列是「合计」「小计」的行单独放到</text>
+<text x="548.0" y="418.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">「小计」工作表，不要混进检测数据</text>
+<text x="532.0" y="450.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#2D6A6A" text-anchor="start" font-weight="bold">·</text>
+<text x="548.0" y="450.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">第一轮汇报里让它报「有多少个单元格是文本格式的数值」，</text>
+<text x="548.0" y="470.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">这个数必须是 0 才往下走</text>
+<text x="532.0" y="502.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#2D6A6A" text-anchor="start" font-weight="bold">·</text>
+<text x="548.0" y="502.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">缺年份的日期按指定年份补，并在新文件里加一列「日期为推</text>
+<text x="548.0" y="522.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">断」标 1</text>
+</svg>

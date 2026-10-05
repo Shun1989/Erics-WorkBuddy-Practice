@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">远程值守要盯的两组数字：链路延迟与传输唤醒</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">场景 35 操作步骤第五步与过程判断点</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">超过 50 毫秒就要查是不是走了中继。丢包率与卡顿率是官方与第三方测评的公开数据，作者没有条件复核，换新环境仍要自己实测一次。</text>
+<rect x="56.0" y="179.9" width="888.0" height="346.0" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="57.0" y="201.9" width="886.0" height="32.0" rx="6" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="74.0" y="223.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">链路延迟实测</text>
+<text x="74.0" y="241.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">局域网</text>
+<text x="356.0" y="241.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">5 到 15</text>
+<text x="416.5" y="241.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">毫秒</text>
+<rect x="57.0" y="249.9" width="886.0" height="28.0" rx="0" fill="#FBFBFA" stroke="#FBFBFA" stroke-width="0"/>
+<text x="74.0" y="269.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">跨运营商公网</text>
+<text x="356.0" y="269.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">15 到 30</text>
+<text x="424.2" y="269.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">毫秒</text>
+<text x="74.0" y="297.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">5G 环境手机控 Windows</text>
+<text x="356.0" y="297.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">18 到 25</text>
+<text x="424.2" y="297.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">毫秒</text>
+<rect x="57.0" y="305.9" width="886.0" height="28.0" rx="0" fill="#FBFBFA" stroke="#FBFBFA" stroke-width="0"/>
+<text x="74.0" y="325.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">出现明显拖影感的门槛</text>
+<text x="356.0" y="325.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">50</text>
+<text x="379.4" y="325.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">毫秒</text>
+<rect x="57.0" y="363.9" width="886.0" height="32.0" rx="6" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="74.0" y="385.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">传输与唤醒</text>
+<text x="74.0" y="403.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">1.2 GB 文件实测传输</text>
+<text x="356.0" y="403.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">约 4</text>
+<text x="393.4" y="403.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">分钟，支持断点续传</text>
+<rect x="57.0" y="411.9" width="886.0" height="28.0" rx="0" fill="#FBFBFA" stroke="#FBFBFA" stroke-width="0"/>
+<text x="74.0" y="431.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">远程开机唤醒</text>
+<text x="356.0" y="431.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">三十秒内</text>
+<text x="420.0" y="431.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">能醒</text>
+<text x="74.0" y="459.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">弱网丢包环境</text>
+<text x="356.0" y="459.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">3</text>
+<text x="371.7" y="459.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">%</text>
+<rect x="57.0" y="467.9" width="886.0" height="28.0" rx="0" fill="#FBFBFA" stroke="#FBFBFA" stroke-width="0"/>
+<text x="74.0" y="487.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">该丢包率下的卡顿率</text>
+<text x="356.0" y="487.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="bold">低于 1</text>
+<text x="407.4" y="487.9" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">%</text>
+</svg>

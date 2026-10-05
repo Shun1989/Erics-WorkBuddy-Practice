@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">第一次装 MCP 翻的车：来回七次，都是同一句没挂载</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">20.3 第三节，我第一次装的时候真实遇到的情况</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">服务端自己启动时会说的话才是真话，客户端回给你的那一句没挂载，是它猜的。</text>
+<rect x="56.0" y="176.3" width="888.0" height="149.0" rx="10" fill="#1C2026" stroke="#3A4049" stroke-width="1.5"/>
+<path d="M66,210.3 L934,210.3" stroke="#3A4049" stroke-width="1"/>
+<circle cx="76" cy="193.3" r="5" fill="#E05C5C"/>
+<circle cx="92" cy="193.3" r="5" fill="#E0A95C"/>
+<circle cx="108" cy="193.3" r="5" fill="#5CB87C"/>
+<text x="500.0" y="198.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E5E1DA" text-anchor="middle" font-weight="bold">WorkBuddy  ·  任务中断</text>
+<rect x="68.0" y="214.3" width="50.0" height="28.0" rx="6" fill="#2E343D" stroke="#3A4049" stroke-width="1"/>
+<text x="93.0" y="233.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#E5E1DA" text-anchor="middle" font-weight="bold">问题</text>
+<rect x="124.0" y="214.3" width="50.0" height="28.0" rx="6" fill="#1C2026" stroke="#1C2026" stroke-width="1"/>
+<text x="149.0" y="233.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="middle" font-weight="normal">日志</text>
+<text x="80.0" y="260.3" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#E05C5C" text-anchor="start" font-weight="bold">客户端回了一句：没有挂载任何 MCP 服务</text>
+<text x="80.0" y="282.3" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#AEB4BC" text-anchor="start" font-weight="normal">改配置、重启、再问，还是这一句</text>
+<text x="80.0" y="303.3" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#AEB4BC" text-anchor="start" font-weight="normal">来回七次，两个小时</text>
+<rect x="56.0" y="349.3" width="430.0" height="176.0" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="56.0" y="349.3" width="430.0" height="40.0" rx="10" fill="#E0632D" stroke="#E0632D" stroke-width="0"/>
+<text x="74.0" y="375.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#FFFFFF" text-anchor="start" font-weight="bold">可能原因</text>
+<text x="74.0" y="415.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E0632D" text-anchor="start" font-weight="bold">·</text>
+<text x="90.0" y="415.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">服务端缺一个依赖包，起来之后立刻退出，进程活着却没注册</text>
+<text x="90.0" y="435.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">任何工具</text>
+<text x="74.0" y="467.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E0632D" text-anchor="start" font-weight="bold">·</text>
+<text x="90.0" y="467.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">配置里 command 写的那个程序，在命令行里根本敲不出来</text>
+<text x="74.0" y="499.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E0632D" text-anchor="start" font-weight="bold">·</text>
+<text x="90.0" y="499.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">改完配置没有完全退出重开，配置根本没被读</text>
+<rect x="514.0" y="349.3" width="430.0" height="176.0" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="514.0" y="349.3" width="430.0" height="40.0" rx="10" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="532.0" y="375.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#FFFFFF" text-anchor="start" font-weight="bold">补救动作</text>
+<text x="532.0" y="415.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#2D6A6A" text-anchor="start" font-weight="bold">·</text>
+<text x="548.0" y="415.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">把服务端单独拿到命令行里跑一遍，看它自己打的什么</text>
+<text x="532.0" y="447.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#2D6A6A" text-anchor="start" font-weight="bold">·</text>
+<text x="548.0" y="447.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">把缺的依赖包装上，再重启一次</text>
+<text x="532.0" y="479.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#2D6A6A" text-anchor="start" font-weight="bold">·</text>
+<text x="548.0" y="479.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">把配置里 command 加 args 拼成一条完整命令，直接在命</text>
+<text x="548.0" y="499.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">令行里跑</text>
+</svg>

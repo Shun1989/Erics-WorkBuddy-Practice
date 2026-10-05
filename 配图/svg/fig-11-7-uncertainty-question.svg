@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">图 11-7 只问哪里不确定，它才愿意写出"我没有把握"这四个字</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">一千八百多行电机控制器底层驱动代码，我最后改成的问法</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">这一节后来固定下来，用在电路板、仿真前处理、结果解读上。一个肯说自己没把握的东西，它说"这里有问题"的时候那句话才有分量。</text>
+<rect x="446.7" y="175.2" width="497.3" height="166.0" rx="12" fill="#EDF1F5" stroke="#EDF1F5" stroke-width="0"/>
+<text x="462.7" y="199.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="bold">我</text>
+<text x="462.7" y="223.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">下面这段是我司电机控制器的 PWM 占空比映射函数。请你只做一件事</text>
+<text x="462.7" y="245.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">：逐行列出你"不确定"的地方。
+不要修改任何代码，不要给优化建议</text>
+<text x="462.7" y="267.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">，不要评价代码风格。
+对每一处不确定，写清楚三件事：行号、你不</text>
+<text x="462.7" y="289.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">确定的是什么、你需要看到什么资料才能确定。
+如果你对某一段完全</text>
+<text x="462.7" y="311.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">没有把握，就写"我没有把握"，不许用"可能存在风险"这类模糊说法</text>
+<text x="462.7" y="333.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">搪塞。</text>
+<rect x="56.0" y="357.2" width="639.4" height="106.0" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="56.0" y="357.2" width="5.0" height="106.0" rx="3" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="76.0" y="381.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#2D6A6A" text-anchor="start" font-weight="bold">WorkBuddy</text>
+<rect x="160.0" y="369.2" width="52.0" height="20.0" rx="5" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="186.0" y="383.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="bold">Ask</text>
+<text x="76.0" y="405.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">回了一份清单，十一条。
+其中六条是我自己也同意的疑点，三条是我知道没问题但它看不</text>
+<text x="76.0" y="427.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">出来，两条是它把语言标准和公司规范搞混了。
+真正让我放下心的不是那六条，是它愿意</text>
+<text x="76.0" y="449.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">写"我没有把握"这四个字。</text>
+<rect x="56.0" y="558.0" width="888.0" height="34.0" rx="8" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1.2"/>
+<circle cx="76" cy="575" r="5" fill="#2D6A6A"/>
+<text x="92.0" y="580.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">一千八百多行 C，跑了三年那套风格，只让它说不确定的地方</text>
+</svg>

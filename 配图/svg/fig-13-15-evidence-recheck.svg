@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">加了一步证据复核之后，缺失条目从 19 条降到 6 条</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">场景 38 翻车一与操作步骤第三步</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">跨图引用本身不违规，但它是评审桌上最常被揪住的位置。它标缺的条目八成是它读漏了，值得复核；它标存疑的条目八成是真问题，值得深挖。</text>
+<rect x="56.0" y="138.0" width="424.0" height="430.0" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="56.0" y="138.0" width="424.0" height="46.0" rx="12" fill="#6B7280" stroke="#6B7280" stroke-width="0"/>
+<text x="268.0" y="167.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#FFFFFF" text-anchor="middle" font-weight="bold">加证据复核之前：AI 报告里标缺的 19 条</text>
+<text x="78.0" y="205.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">· 通用公差条款指向技术要求第 2 条，而那条写的是见</text>
+<text x="78.0" y="227.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">  另一个图号，属跨图引用，被判成缺失</text>
+<text x="78.0" y="259.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">· 六张图的审核栏全空，这一项一次报出六条</text>
+<text x="78.0" y="291.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">· 仅在某视图出现、全图无关联标注的尺寸要素，被判为</text>
+<text x="78.0" y="313.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">  无关联</text>
+<text x="78.0" y="345.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">· 于是一大片看着像缺口，你跑去一看都写在别处</text>
+<rect x="520.0" y="138.0" width="424.0" height="430.0" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="520.0" y="138.0" width="424.0" height="46.0" rx="12" fill="#E0632D" stroke="#E0632D" stroke-width="0"/>
+<text x="732.0" y="167.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#FFFFFF" text-anchor="middle" font-weight="bold">加证据复核之后：确实缺失的 6 条</text>
+<text x="542.0" y="205.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">· 确实缺失的只剩 6 条</text>
+<text x="542.0" y="237.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">· 跨图引用改判存疑，不计入缺失</text>
+<text x="542.0" y="269.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">· 在别处出现的必须给出那句话的原文与位置</text>
+<text x="542.0" y="301.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">· 格式表可以直接发给画图的人改，技术表留给自己判断</text>
+</svg>

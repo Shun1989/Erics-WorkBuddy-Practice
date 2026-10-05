@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">图 1-4 一句话交活：2000 行检测数据表拖进去就能交差</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">同一件活在 WorkBuddy 上从拖文件到验收，5 分钟</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">来源：本章第 1 节那段真事里的提示词原文与它交差的汇报原文。</text>
+<rect x="446.7" y="188.0" width="497.3" height="56.0" rx="12" fill="#EDF1F5" stroke="#EDF1F5" stroke-width="0"/>
+<text x="462.7" y="212.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="bold">我</text>
+<text x="462.7" y="236.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">挑出超差的行，标红，按零件号排序，另存一份到桌面。</text>
+<rect x="56.0" y="260.0" width="639.4" height="84.0" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="56.0" y="260.0" width="5.0" height="84.0" rx="3" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="76.0" y="284.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#2D6A6A" text-anchor="start" font-weight="bold">WorkBuddy</text>
+<rect x="160.0" y="272.0" width="52.0" height="20.0" rx="5" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="186.0" y="286.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="bold">Agent</text>
+<text x="76.0" y="308.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">共 2000 行，超差 37 行，已标红并排序，另存为 xxx.xlsx。
+其中零件 A-2308 有两</text>
+<text x="76.0" y="330.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">行数据疑似重复，请确认。</text>
+<text x="56.0" y="370.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="bold">附件</text>
+<rect x="56.0" y="380.0" width="134.8" height="28.0" rx="6" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.2"/>
+<text x="70.0" y="399.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#1C2026" text-anchor="start" font-weight="normal">检测数据表.xlsx</text>
+<rect x="56.0" y="558.0" width="888.0" height="34.0" rx="8" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1.2"/>
+<circle cx="76" cy="575" r="5" fill="#2D6A6A"/>
+<text x="92.0" y="580.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">已生成新文件，落在桌面，等你打开验收</text>
+</svg>

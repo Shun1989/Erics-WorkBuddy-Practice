@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">一份合格的抽样核自检报告，六行对得上才算过</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">场景 69：结论词只有通过、未通过、未核实三种</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="150.0" y="128.0" width="700.0" height="384.0" rx="4" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<line x1="206" y1="168" x2="794" y2="168" stroke="#E5E1DA" stroke-width="1"/>
+<text x="206.0" y="158.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">自检报告</text>
+<text x="794.0" y="158.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="end" font-weight="normal">单页</text>
+<text x="206.0" y="204.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="21" fill="#1C2026" text-anchor="start" font-weight="bold">抽样核自检报告</text>
+<line x1="206" y1="220" x2="794" y2="220" stroke="#E0632D" stroke-width="2"/>
+<text x="206.0" y="252.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">报告路径 D:\proj\check\20260319_sample_check.md</text>
+<text x="206.0" y="278.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#3A3F47" text-anchor="start" font-weight="normal">[结构] 总条数 2147，空行 0，占位符 0，异常值 3（第 88、901、1902 行）。</text>
+<text x="206.0" y="308.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#3A3F47" text-anchor="start" font-weight="normal">[边界] 首条 A001-2025-11-06，末条 A147-2026-03-19，合计 2147，与明细合计一致。</text>
+<text x="206.0" y="338.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#3A3F47" text-anchor="start" font-weight="normal">[来源] 关键数字 18 个，16 个来源于 D:\proj\raw\test_log.xlsx 的 Sheet2，1 个按</text>
+<text x="206.0" y="360.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#3A3F47" text-anchor="start" font-weight="normal">经验值推算（未核实），1 个来源未找到（未核实）。</text>
+<text x="206.0" y="390.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#3A3F47" text-anchor="start" font-weight="normal">[反向] 最可能错的三处：第 88 行单位缺失；第 901 行日期格式不一致；1902 行数值与相</text>
+<text x="206.0" y="412.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#3A3F47" text-anchor="start" font-weight="normal">邻行相差两个数量级，疑似换算错误。</text>
+<text x="206.0" y="442.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#3A3F47" text-anchor="start" font-weight="normal">[结论] 通过 1 项，未通过 1 项，未核实 2 项。</text>
+</svg>

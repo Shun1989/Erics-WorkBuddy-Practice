@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">最后一名子代理只讲已确认结果，汇报稿固定六部分</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">它不再读那 200 页原文件，只读验收过的三张表</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">出自 6.5 第 4 步。汇报越接近决策现场，越要少讲过程，多给能回查的结论。</text>
+<rect x="150.0" y="128.0" width="700.0" height="386.0" rx="4" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<line x1="206" y1="168" x2="794" y2="168" stroke="#E5E1DA" stroke-width="1"/>
+<text x="206.0" y="158.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">Markdown 汇报稿</text>
+<text x="794.0" y="158.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="end" font-weight="normal">单页</text>
+<text x="206.0" y="204.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="21" fill="#1C2026" text-anchor="start" font-weight="bold">某行业标准导入内部评审稿</text>
+<line x1="206" y1="220" x2="794" y2="220" stroke="#E0632D" stroke-width="2"/>
+<text x="206.0" y="252.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">04_标准导入内部评审稿.md ｜ 数量从输入文件统计，不估算</text>
+<rect x="206.0" y="278.0" width="588.0" height="28.0" rx="4" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="216.0" y="297.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#1C2026" text-anchor="start" font-weight="bold">小节</text>
+<text x="510.0" y="297.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#1C2026" text-anchor="start" font-weight="bold">这一节写什么</text>
+<line x1="206" y1="332" x2="794" y2="332" stroke="#E5E1DA" stroke-width="1"/>
+<text x="216.0" y="325.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">一、任务范围与版本</text>
+<text x="510.0" y="325.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">哪一份文件、哪个版本、覆盖哪些章节</text>
+<line x1="206" y1="358" x2="794" y2="358" stroke="#E5E1DA" stroke-width="1"/>
+<text x="216.0" y="351.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">二、材料覆盖情况</text>
+<text x="510.0" y="351.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">四种状态各多少条，数量从表里统计</text>
+<line x1="206" y1="384" x2="794" y2="384" stroke="#E5E1DA" stroke-width="1"/>
+<text x="216.0" y="377.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">三、检查清单使用方法</text>
+<text x="510.0" y="377.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">合格证据交到哪里、由谁签字</text>
+<line x1="206" y1="410" x2="794" y2="410" stroke="#E5E1DA" stroke-width="1"/>
+<text x="216.0" y="403.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">四、主要风险与证据缺口</text>
+<text x="510.0" y="403.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">每条风险标风险 ID 与要求统一 ID</text>
+<line x1="206" y1="436" x2="794" y2="436" stroke="#E5E1DA" stroke-width="1"/>
+<text x="216.0" y="429.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">五、待确认问题</text>
+<text x="510.0" y="429.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">待裁决、待评审、证据不足三类</text>
+<line x1="206" y1="462" x2="794" y2="462" stroke="#E5E1DA" stroke-width="1"/>
+<text x="216.0" y="455.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">六、下一步动作</text>
+<text x="510.0" y="455.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">动作、输入、输出、建议角色</text>
+</svg>

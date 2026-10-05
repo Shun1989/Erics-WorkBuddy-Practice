@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">场景 09 步骤 5：按会议的空档填，一次只排到容量的 70%</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">估时上限超过 40 分钟的排进连续时段，不许跨会议切开</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">出自场景 09 步骤 5 到 6 的排期提示词。它算出来常常是 85% 到 90%，所以我把 70% 写成硬约束，并让它把占比报给我看。</text>
+<line x1="250.0" y1="172.0" x2="250.0" y2="480.0" stroke="#E5E1DA" stroke-width="1"/>
+<text x="250.0" y="500.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="normal">8:30</text>
+<line x1="388.8" y1="172.0" x2="388.8" y2="480.0" stroke="#E5E1DA" stroke-width="1"/>
+<text x="388.8" y="500.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="normal">10:30</text>
+<line x1="527.6" y1="172.0" x2="527.6" y2="480.0" stroke="#E5E1DA" stroke-width="1"/>
+<text x="527.6" y="500.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="normal">12:30</text>
+<line x1="666.4" y1="172.0" x2="666.4" y2="480.0" stroke="#E5E1DA" stroke-width="1"/>
+<text x="666.4" y="500.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="normal">14:30</text>
+<line x1="805.2" y1="172.0" x2="805.2" y2="480.0" stroke="#E5E1DA" stroke-width="1"/>
+<text x="805.2" y="500.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="normal">16:30</text>
+<line x1="944.0" y1="172.0" x2="944.0" y2="480.0" stroke="#E5E1DA" stroke-width="1"/>
+<text x="944.0" y="500.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="normal">18:30</text>
+<text x="236.0" y="209.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="end" font-weight="normal">项目评审会</text>
+<rect x="250.0" y="192.0" width="694.0" height="24.0" rx="5" fill="#F2F0EB" stroke="#F2F0EB" stroke-width="0"/>
+<rect x="319.4" y="192.0" width="69.4" height="24.0" rx="5" fill="#E0632D" stroke="#E0632D" stroke-width="0"/>
+<text x="354.1" y="209.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="middle" font-weight="bold">占用</text>
+<text x="236.0" y="243.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="end" font-weight="normal">排入：核对清洗后的表 5 行</text>
+<rect x="250.0" y="226.0" width="694.0" height="24.0" rx="5" fill="#F2F0EB" stroke="#F2F0EB" stroke-width="0"/>
+<rect x="250.0" y="226.0" width="69.4" height="24.0" rx="5" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="236.0" y="277.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="end" font-weight="normal">排入：导出三份台架数据</text>
+<rect x="250.0" y="260.0" width="694.0" height="24.0" rx="5" fill="#F2F0EB" stroke="#F2F0EB" stroke-width="0"/>
+<rect x="388.8" y="260.0" width="83.3" height="24.0" rx="5" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="236.0" y="311.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="end" font-weight="normal">排入：给同事写方案说明</text>
+<rect x="250.0" y="294.0" width="694.0" height="24.0" rx="5" fill="#F2F0EB" stroke="#F2F0EB" stroke-width="0"/>
+<rect x="472.1" y="294.0" width="20.8" height="24.0" rx="5" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="236.0" y="345.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="end" font-weight="normal">排入：回供应商询价邮件</text>
+<rect x="250.0" y="328.0" width="694.0" height="24.0" rx="5" fill="#F2F0EB" stroke="#F2F0EB" stroke-width="0"/>
+<rect x="562.3" y="328.0" width="69.4" height="24.0" rx="5" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="236.0" y="379.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="end" font-weight="normal">客户电话会</text>
+<rect x="250.0" y="362.0" width="694.0" height="24.0" rx="5" fill="#F2F0EB" stroke="#F2F0EB" stroke-width="0"/>
+<rect x="631.7" y="362.0" width="69.4" height="24.0" rx="5" fill="#E0632D" stroke="#E0632D" stroke-width="0"/>
+<text x="666.4" y="379.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="middle" font-weight="bold">占用</text>
+<text x="236.0" y="413.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="end" font-weight="normal">排入：整理试验异常清单</text>
+<rect x="250.0" y="396.0" width="694.0" height="24.0" rx="5" fill="#F2F0EB" stroke="#F2F0EB" stroke-width="0"/>
+<rect x="701.1" y="396.0" width="104.1" height="24.0" rx="5" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="236.0" y="447.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="end" font-weight="normal">部门周会</text>
+<rect x="250.0" y="430.0" width="694.0" height="24.0" rx="5" fill="#F2F0EB" stroke="#F2F0EB" stroke-width="0"/>
+<rect x="805.2" y="430.0" width="34.7" height="24.0" rx="5" fill="#E0632D" stroke="#E0632D" stroke-width="0"/>
+<text x="822.6" y="447.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="middle" font-weight="bold">占用</text>
+<line x1="541.48" y1="166.0" x2="541.48" y2="480.0" stroke="#E0632D" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="541.5" y="158.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#E0632D" text-anchor="middle" font-weight="bold">现在</text>
+</svg>

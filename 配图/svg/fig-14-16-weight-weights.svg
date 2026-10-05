@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">异常排序的三个维度权重由人定，停线时长给最高权重</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">场景 46 可复制提示词里写死的权重</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="596.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">只按发生次数排序的话，排第一的会是标签贴歪这种发生五十次但每次三十秒的问题，而设备故障停线两小时排到第十。产线停着的每一分钟都在烧钱，贴</text>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">歪一张标签不烧。</text>
+<rect x="56.0" y="215.5" width="888.0" height="30.0" rx="6" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="70.0" y="235.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">口径  三个维度权重之和为 100%，由人给定，AI 不许改</text>
+<text x="56.0" y="281.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="bold">停线时长</text>
+<rect x="306.0" y="265.5" width="468.0" height="24.0" rx="6" fill="#F4F2ED" stroke="#F4F2ED" stroke-width="0"/>
+<rect x="306.0" y="265.5" width="468.0" height="24.0" rx="6" fill="#E0632D" stroke="#E0632D" stroke-width="0"/>
+<text x="790.0" y="282.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#E0632D" text-anchor="start" font-weight="bold">权重 50%</text>
+<text x="56.0" y="329.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">影响数量</text>
+<rect x="306.0" y="313.5" width="468.0" height="24.0" rx="6" fill="#F4F2ED" stroke="#F4F2ED" stroke-width="0"/>
+<rect x="306.0" y="313.5" width="280.8" height="24.0" rx="6" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="790.0" y="330.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#2D6A6A" text-anchor="start" font-weight="bold">权重 30%</text>
+<text x="56.0" y="377.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">发生次数</text>
+<rect x="306.0" y="361.5" width="468.0" height="24.0" rx="6" fill="#F4F2ED" stroke="#F4F2ED" stroke-width="0"/>
+<rect x="306.0" y="361.5" width="187.2" height="24.0" rx="6" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="790.0" y="378.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#2D6A6A" text-anchor="start" font-weight="bold">权重 20%</text>
+</svg>

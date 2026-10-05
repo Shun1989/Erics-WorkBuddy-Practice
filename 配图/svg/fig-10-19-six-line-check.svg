@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">图 10-19 六行体检查验单，每通过一行打一个勾，十分钟跑完</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">场景 22 验收标准：挡掉工程现场九成的事故</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">六行里我最爱看的是最后那行未通过。写出来，说明体检是真的在做；写不出来，说明这份报告是走过场。</text>
+<circle cx="72" cy="143" r="14" fill="#FFFFFF" stroke="#2D6A6A" stroke-width="1.5"/>
+<text x="72.0" y="148.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#2D6A6A" text-anchor="middle" font-weight="bold">✓</text>
+<text x="100.0" y="148.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">单位：文档长度单位已确认，回读值带单位后缀</text>
+<text x="100.0" y="174.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">文档长度单位码 = 0，到毫米换算系数 = 1000.0，来源 GetUserUnit(0)。没查清之前不许报任何尺寸。</text>
+<circle cx="72" cy="209" r="14" fill="#FFFFFF" stroke="#2D6A6A" stroke-width="1.5"/>
+<text x="72.0" y="214.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#2D6A6A" text-anchor="middle" font-weight="bold">✓</text>
+<text x="100.0" y="214.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">基准尺寸：一条已知长度的边，实测值与设计值相对误差小于 1e-6</text>
+<text x="100.0" y="240.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">外径实测 370.00 mm，设计值 370.00 mm，相对误差 0.0e+00。报出 0.37 就是米，报出 370000 是另一种单位。</text>
+<circle cx="72" cy="275" r="14" fill="#FFFFFF" stroke="#2D6A6A" stroke-width="1.5"/>
+<text x="72.0" y="280.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#2D6A6A" text-anchor="middle" font-weight="bold">✓</text>
+<text x="100.0" y="280.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">体积：每个实体的体积为正，与解析值相对误差小于 1e-5</text>
+<text x="100.0" y="306.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">握持圈软件值 1060058.00 mm³，解析值 1060058.00 mm³，相对误差 4e-16。</text>
+<circle cx="72" cy="341" r="14" fill="#FFFFFF" stroke="#2D6A6A" stroke-width="1.5"/>
+<text x="72.0" y="346.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#2D6A6A" text-anchor="middle" font-weight="bold">✓</text>
+<text x="100.0" y="346.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">干涉：零对，报告中不含忽略项</text>
+<text x="100.0" y="372.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">必须在退出轻量化状态之后得到这个结果，否则零件还在被近似替代。</text>
+<circle cx="72" cy="407" r="14" fill="#FFFFFF" stroke="#2D6A6A" stroke-width="1.5"/>
+<text x="72.0" y="412.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#2D6A6A" text-anchor="middle" font-weight="bold">✓</text>
+<text x="100.0" y="412.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">选边：每次选边的匹配结果唯一，恰好 1 条</text>
+<text x="100.0" y="438.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">不允许"第三条边"这种表述，也不允许匹配到 2 条时挑一条最近的。</text>
+<circle cx="72" cy="473" r="14" fill="#FFFFFF" stroke="#2D6A6A" stroke-width="1.5"/>
+<text x="72.0" y="478.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#2D6A6A" text-anchor="middle" font-weight="bold">✓</text>
+<text x="100.0" y="478.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">STEP 往返：导出再导回，逐个零件比对体积并记录相对误差</text>
+<text x="100.0" y="504.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">44/44 读回，最大体积相对差 1.45e-5，未通过（门槛 1e-5），已附根因分析。</text>
+</svg>

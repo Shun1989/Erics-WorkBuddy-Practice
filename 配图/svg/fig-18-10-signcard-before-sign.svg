@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">签字之前，先问自己这三句</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">场景 69 与 70 的检查单浓缩成一张验收卡</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">以上十项全部通过，我才签。任何一项未通过，不许签字</text>
+<rect x="56.0" y="158.2" width="888.0" height="86.0" rx="10" fill="#1C2026" stroke="#3A4049" stroke-width="1.5"/>
+<path d="M66,192.24 L934,192.24" stroke="#3A4049" stroke-width="1"/>
+<circle cx="76" cy="175.24" r="5" fill="#E05C5C"/>
+<circle cx="92" cy="175.24" r="5" fill="#E0A95C"/>
+<circle cx="108" cy="175.24" r="5" fill="#5CB87C"/>
+<text x="500.0" y="180.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E5E1DA" text-anchor="middle" font-weight="bold">交付物  ·  待验收</text>
+<text x="80.0" y="226.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#A8AFB8" text-anchor="start" font-weight="normal">产物</text>
+<text x="130.0" y="226.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#E5E1DA" text-anchor="start" font-weight="bold">十二页微电机 NVH 分析报告，第 6 页：12 台样机，一致率 98.6%</text>
+<rect x="56.0" y="270.2" width="432.0" height="280.0" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="56.0" y="270.2" width="432.0" height="42.0" rx="10" fill="#E0632D" stroke="#E0632D" stroke-width="0"/>
+<text x="74.0" y="298.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#FFFFFF" text-anchor="start" font-weight="bold">签字前问自己三句</text>
+<circle cx="76" cy="339.24" r="12" fill="#F2EDE6"/>
+<text x="76.0" y="344.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#E0632D" text-anchor="middle" font-weight="bold">1</text>
+<text x="98.0" y="344.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">这份产物错了最坏会怎样，档定了吗：快速核、</text>
+<text x="98.0" y="364.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">抽样核还是全量核</text>
+<circle cx="76" cy="403.24" r="12" fill="#F2EDE6"/>
+<text x="76.0" y="408.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#E0632D" text-anchor="middle" font-weight="bold">2</text>
+<text x="98.0" y="408.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">每一个数字，连同它前面的限定词，一起核过吗</text>
+<circle cx="76" cy="447.24" r="12" fill="#F2EDE6"/>
+<text x="76.0" y="452.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#E0632D" text-anchor="middle" font-weight="bold">3</text>
+<text x="98.0" y="452.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">追不到来源的数删了吗，没删凭什么签字</text>
+<rect x="512.0" y="270.2" width="432.0" height="280.0" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="512.0" y="270.2" width="432.0" height="42.0" rx="10" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="530.0" y="298.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#FFFFFF" text-anchor="start" font-weight="bold">要留的证据</text>
+<rect x="532.0" y="333.24" width="13" height="13" fill="#FFFFFF" stroke="#2D6A6A" stroke-width="1.6" rx="2"/>
+<text x="556.0" y="344.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">档位写在纸上，定档时间早于打开产物</text>
+<rect x="532.0" y="365.24" width="13" height="13" fill="#FFFFFF" stroke="#2D6A6A" stroke-width="1.6" rx="2"/>
+<text x="556.0" y="376.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">四项自检结论只有通过、未通过、未核实三种写法</text>
+<rect x="532.0" y="397.24" width="13" height="13" fill="#FFFFFF" stroke="#2D6A6A" stroke-width="1.6" rx="2"/>
+<text x="556.0" y="408.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">反向自检至少咬了自己一口，列出可疑点</text>
+<rect x="532.0" y="429.24" width="13" height="13" fill="#FFFFFF" stroke="#2D6A6A" stroke-width="1.6" rx="2"/>
+<text x="556.0" y="440.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">抽样清单由我随机挑，行号已写进报告</text>
+<rect x="532.0" y="461.24" width="13" height="13" fill="#FFFFFF" stroke="#2D6A6A" stroke-width="1.6" rx="2"/>
+<text x="556.0" y="472.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">关键数字全部指到文件名加行号</text>
+<rect x="532.0" y="493.24" width="13" height="13" fill="#FFFFFF" stroke="#2D6A6A" stroke-width="1.6" rx="2"/>
+<text x="556.0" y="504.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">处理过程写了筛选、剔除、换算、取位</text>
+<rect x="532.0" y="525.24" width="13" height="13" fill="#FFFFFF" stroke="#2D6A6A" stroke-width="1.6" rx="2"/>
+<text x="556.0" y="536.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">提示词第一行写了 L1 / L2 / L3 级别</text>
+<rect x="532.0" y="557.24" width="13" height="13" fill="#FFFFFF" stroke="#2D6A6A" stroke-width="1.6" rx="2"/>
+<text x="556.0" y="568.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">L2 的活第一阶段停住等我选，没被跳过</text>
+</svg>

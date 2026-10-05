@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">图 11-14 做汽车软件时请记住这三句话，每一句都对应一个不签字的后果</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">场景 28 单独一节：工具认证不等于模型认证</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="596.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">它走不了工具鉴定这条路有三条硬理由：没有确定的版本行为（同一段代码问两次可能两份清单），没有确定的规则集（判断来自训练，不是能打开看的规</text>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">则库），会说错而且语气跟说对的时候一模一样。</text>
+<rect x="56.0" y="140.0" width="888.0" height="133.3" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="56.0" y="140.0" width="888.0" height="42.0" rx="12" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="76.0" y="168.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">第一句：验证责任不因为它说过没问题而减少</text>
+<text x="76.0" y="206.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">AI 辅助生成的代码，该做的单元测试、该做的 SIL、该做的实车标定，一样都不能少。</text>
+<rect x="56.0" y="293.3" width="888.0" height="133.3" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="56.0" y="293.3" width="888.0" height="42.0" rx="12" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="76.0" y="321.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">第二句：评审签字的仍然是人</text>
+<text x="76.0" y="359.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">AI 辅助审查过的代码，它的输出是线索。评审记录上签字的仍然是人。</text>
+<rect x="56.0" y="446.7" width="888.0" height="133.3" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="56.0" y="446.7" width="888.0" height="42.0" rx="12" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="76.0" y="474.7" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">第三句：工具的鉴定不会自动转移给模型</text>
+<text x="76.0" y="512.7" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">一个通过工具鉴定的静态分析工具，不会因为外面套了一层 AI 就获得那份鉴定；反过来，模型很好用，也不意味着它能上那张纸。</text>
+</svg>

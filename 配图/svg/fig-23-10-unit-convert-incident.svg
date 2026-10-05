@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">那次单位换算事故：它说改了 14 个，目录里只有 11 个变了</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">开场一节，回报原话与三个数字逐字取自正文</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">空值填 0 进了平均值，平均值就被拉下来了。它做得非常合理，合理到我如果没算那个平均值，根本发现不了。</text>
+<rect x="56.0" y="159.5" width="888.0" height="149.0" rx="10" fill="#1C2026" stroke="#3A4049" stroke-width="1.5"/>
+<path d="M66,193.5 L934,193.5" stroke="#3A4049" stroke-width="1"/>
+<circle cx="76" cy="176.5" r="5" fill="#E05C5C"/>
+<circle cx="92" cy="176.5" r="5" fill="#E0A95C"/>
+<circle cx="108" cy="176.5" r="5" fill="#5CB87C"/>
+<text x="500.0" y="181.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E5E1DA" text-anchor="middle" font-weight="bold">WorkBuddy  ·  任务中断</text>
+<rect x="68.0" y="197.5" width="50.0" height="28.0" rx="6" fill="#2E343D" stroke="#3A4049" stroke-width="1"/>
+<text x="93.0" y="216.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#E5E1DA" text-anchor="middle" font-weight="bold">问题</text>
+<rect x="124.0" y="197.5" width="50.0" height="28.0" rx="6" fill="#1C2026" stroke="#1C2026" stroke-width="1"/>
+<text x="149.0" y="216.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="middle" font-weight="normal">日志</text>
+<text x="80.0" y="243.5" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#E05C5C" text-anchor="start" font-weight="bold">回报：已完成 14 个文件的单位换算</text>
+<text x="80.0" y="265.5" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#AEB4BC" text-anchor="start" font-weight="normal">它报了 14 个，目录里按修改时间排序只有 11 个变了</text>
+<text x="80.0" y="286.5" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#AEB4BC" text-anchor="start" font-weight="normal">平均值从上一版 0.62 N·m 掉到这一版 0.51 N·m</text>
+<rect x="56.0" y="332.5" width="430.0" height="216.0" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="56.0" y="332.5" width="430.0" height="40.0" rx="10" fill="#E0632D" stroke="#E0632D" stroke-width="0"/>
+<text x="74.0" y="358.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#FFFFFF" text-anchor="start" font-weight="bold">可能原因</text>
+<text x="74.0" y="398.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E0632D" text-anchor="start" font-weight="bold">·</text>
+<text x="90.0" y="398.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">指令里用了所有 CSV 这四个字，把归档目录里的备份文件也</text>
+<text x="90.0" y="418.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">扫进去了</text>
+<text x="74.0" y="450.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E0632D" text-anchor="start" font-weight="bold">·</text>
+<text x="90.0" y="450.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">3 个文件的 torque 列有空值，它自己猜了个原因就地填 0</text>
+<text x="90.0" y="470.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">，共 318 行</text>
+<text x="74.0" y="502.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E0632D" text-anchor="start" font-weight="bold">·</text>
+<text x="90.0" y="502.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">torque_raw.csv 是原始值的母本，文件名里带 raw，也被</text>
+<text x="90.0" y="522.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">一起覆盖了</text>
+<rect x="514.0" y="332.5" width="430.0" height="216.0" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="514.0" y="332.5" width="430.0" height="40.0" rx="10" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="532.0" y="358.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#FFFFFF" text-anchor="start" font-weight="bold">补救动作</text>
+<text x="532.0" y="398.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#2D6A6A" text-anchor="start" font-weight="bold">·</text>
+<text x="548.0" y="398.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">先让它报改动清单，再看它对不对，最后才谈怎么改</text>
+<text x="532.0" y="430.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#2D6A6A" text-anchor="start" font-weight="bold">·</text>
+<text x="548.0" y="430.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">重要目录设只读，动手前先让它把要改的文件清单给你看一眼</text>
+<text x="532.0" y="462.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#2D6A6A" text-anchor="start" font-weight="bold">·</text>
+<text x="548.0" y="462.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">原始输入重做：从台架日志重新导出，备份里没有的那三天只</text>
+<text x="548.0" y="482.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">能重导</text>
+</svg>

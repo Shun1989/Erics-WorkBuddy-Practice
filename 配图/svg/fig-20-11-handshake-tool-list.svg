@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">第四步验握手：问一句要清单，回得出 46 个工具就算装成</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">20.3 第四步的问句与正常回包，逐字取自正文</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">看不到工具列表就提建模需求，等于闭着眼睛上机床。看不到，先别提任何业务需求。</text>
+<rect x="446.7" y="188.0" width="497.3" height="78.0" rx="12" fill="#EDF1F5" stroke="#EDF1F5" stroke-width="0"/>
+<text x="462.7" y="212.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="bold">我</text>
+<text x="462.7" y="236.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">列出当前所有已挂载的 MCP 服务端，以及每台服务端上可用的工具名</text>
+<text x="462.7" y="258.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">称清单。
+不要调用任何工具，只把清单列出来。</text>
+<rect x="56.0" y="282.0" width="639.4" height="106.0" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="56.0" y="282.0" width="5.0" height="106.0" rx="3" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="76.0" y="306.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#2D6A6A" text-anchor="start" font-weight="bold">WorkBuddy</text>
+<rect x="160.0" y="294.0" width="52.0" height="20.0" rx="5" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="186.0" y="308.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="bold">Plan</text>
+<text x="76.0" y="330.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">已挂载服务端：1 台
+solidworks（46 个工具）
+  ensure_ready / open_new_part /</text>
+<text x="76.0" y="352.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal"> create_sketch / add_sketch_entities
+  extrude_feature / add_edge_featur</text>
+<text x="76.0" y="374.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">e / analyze_model / save_document
+  ...（其余省略）</text>
+<rect x="56.0" y="558.0" width="888.0" height="34.0" rx="8" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1.2"/>
+<circle cx="76" cy="575" r="5" fill="#2D6A6A"/>
+<text x="92.0" y="580.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">下一步：调用 ensure_ready，把返回的完整内容原样贴给我</text>
+</svg>

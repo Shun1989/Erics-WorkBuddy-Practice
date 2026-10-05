@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">同一台样机，三个指标走出三种结论</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">场景 53：只看总声压级，这个案子会被判合格放行</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">超标幅度按百分比画，三项同量纲可比较</text>
+<rect x="56.0" y="215.5" width="888.0" height="30.0" rx="6" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="70.0" y="235.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">口径  实测值与目标值：总声压级 42.3 对 45 dB(A)、响度 3.8 对 3.5 sone、尖锐度 2.9 对 2.5 acum</text>
+<text x="56.0" y="281.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">响度超标幅度</text>
+<rect x="306.0" y="265.5" width="468.0" height="24.0" rx="6" fill="#F4F2ED" stroke="#F4F2ED" stroke-width="0"/>
+<rect x="306.0" y="265.5" width="234.0" height="24.0" rx="6" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="790.0" y="282.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#2D6A6A" text-anchor="start" font-weight="bold">约 8%</text>
+<text x="56.0" y="329.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="bold">尖锐度超标幅度</text>
+<rect x="306.0" y="313.5" width="468.0" height="24.0" rx="6" fill="#F4F2ED" stroke="#F4F2ED" stroke-width="0"/>
+<rect x="306.0" y="313.5" width="468.0" height="24.0" rx="6" fill="#E0632D" stroke="#E0632D" stroke-width="0"/>
+<text x="790.0" y="330.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#E0632D" text-anchor="start" font-weight="bold">约 16%</text>
+<text x="56.0" y="377.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">总声压级</text>
+<rect x="306.0" y="361.5" width="468.0" height="24.0" rx="6" fill="#F4F2ED" stroke="#F4F2ED" stroke-width="0"/>
+<rect x="306.0" y="361.5" width="6.0" height="24.0" rx="6" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="790.0" y="378.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#2D6A6A" text-anchor="start" font-weight="bold">达标</text>
+</svg>

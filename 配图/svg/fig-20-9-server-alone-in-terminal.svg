@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">装 MCP 的第一步：在命令行里把服务端单独跑起来</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">这一步最容易被跳过，也最不该跳过，命令与现象均取自 20.3 正文</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">包名与参数名以你采用的那个服务项目的说明为准。</text>
+<rect x="56.0" y="128.0" width="888.0" height="408.0" rx="10" fill="#1C2026" stroke="#3A4049" stroke-width="1.5"/>
+<path d="M66,162 L934,162" stroke="#3A4049" stroke-width="1"/>
+<circle cx="76" cy="145" r="5" fill="#E05C5C"/>
+<circle cx="92" cy="145" r="5" fill="#E0A95C"/>
+<circle cx="108" cy="145" r="5" fill="#5CB87C"/>
+<text x="500.0" y="150.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E5E1DA" text-anchor="middle" font-weight="bold">终端  ·  bash</text>
+<text x="78.0" y="176.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#8A9099" text-anchor="start" font-weight="normal"># Python 侧的服务端，通常是这样启动的</text>
+<text x="78.0" y="200.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#E0A95C" text-anchor="start" font-weight="bold">$</text>
+<text x="96.0" y="200.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#FAFAF8" text-anchor="start" font-weight="normal"> python -m solidworks_mcp --host 127.0.0.1 --port 8765</text>
+<text x="78.0" y="224.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#7FC48B" text-anchor="start" font-weight="normal">（不输出了，光标停在那里等输入。这就是就位，不是卡住。）</text>
+<text x="78.0" y="248.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#8A9099" text-anchor="start" font-weight="normal"></text>
+<text x="78.0" y="272.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#8A9099" text-anchor="start" font-weight="normal"># Node.js 侧的服务端，通常是这样</text>
+<text x="78.0" y="296.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#E0A95C" text-anchor="start" font-weight="bold">$</text>
+<text x="96.0" y="296.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#FAFAF8" text-anchor="start" font-weight="normal"> npx -y @modelcontextprotocol/server-filesystem D:/AI-CAD</text>
+<text x="78.0" y="320.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#7FC48B" text-anchor="start" font-weight="normal">（同样静静停住等输入。）</text>
+<text x="78.0" y="344.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#8A9099" text-anchor="start" font-weight="normal"></text>
+<text x="78.0" y="368.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#E05C5C" text-anchor="start" font-weight="normal"># 反过来：噼里啪啦打一串英文然后退出，那就是报错</text>
+<text x="78.0" y="392.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#E05C5C" text-anchor="start" font-weight="normal">（我第一次装就是这一步，屏幕上打出来一行报错：缺一个依赖包。）</text>
+<rect x="56.0" y="552.0" width="888.0" height="62.0" rx="10" fill="#FBF3EC" stroke="#E8C9B4" stroke-width="1.5"/>
+<text x="74.0" y="578.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E0632D" text-anchor="start" font-weight="bold">补救动作</text>
+<text x="160.0" y="578.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">先解决这串报错再写配置。缺的包装上，再重启，工具列表一次就出来。不要在配置里猜，要在命令行里看。</text>
+</svg>

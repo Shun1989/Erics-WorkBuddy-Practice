@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">动手前提交一次，出事之后用这四条命令看清并退回</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">23.5 规矩一，命令与注释逐字取自正文</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">最后那条 git reset --hard 会丢掉最后一次提交之后的所有改动，用之前先确认你真的要全退。</text>
+<rect x="56.0" y="128.0" width="888.0" height="420.0" rx="10" fill="#1C2026" stroke="#3A4049" stroke-width="1.5"/>
+<path d="M66,162 L934,162" stroke="#3A4049" stroke-width="1"/>
+<circle cx="76" cy="145" r="5" fill="#E05C5C"/>
+<circle cx="92" cy="145" r="5" fill="#E0A95C"/>
+<circle cx="108" cy="145" r="5" fill="#5CB87C"/>
+<text x="500.0" y="150.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E5E1DA" text-anchor="middle" font-weight="bold">终端  ·  bash</text>
+<text x="78.0" y="176.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#8A9099" text-anchor="start" font-weight="normal"># 在工作目录里开一次，之后每次动文件前提交一次</text>
+<text x="78.0" y="200.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#E0A95C" text-anchor="start" font-weight="bold">$</text>
+<text x="96.0" y="200.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#FAFAF8" text-anchor="start" font-weight="normal"> git init</text>
+<text x="78.0" y="224.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#E0A95C" text-anchor="start" font-weight="bold">$</text>
+<text x="96.0" y="224.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#FAFAF8" text-anchor="start" font-weight="normal"> git add .</text>
+<text x="78.0" y="248.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#E0A95C" text-anchor="start" font-weight="bold">$</text>
+<text x="96.0" y="248.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#FAFAF8" text-anchor="start" font-weight="normal"> git commit -m "改动前的快照：换算 torque 列之前"</text>
+<text x="78.0" y="272.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#8A9099" text-anchor="start" font-weight="normal"></text>
+<text x="78.0" y="296.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#8A9099" text-anchor="start" font-weight="normal"># 出事之后，先看它改了什么</text>
+<text x="78.0" y="320.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#E0A95C" text-anchor="start" font-weight="bold">$</text>
+<text x="96.0" y="320.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#FAFAF8" text-anchor="start" font-weight="normal"> git status</text>
+<text x="78.0" y="344.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#E0A95C" text-anchor="start" font-weight="bold">$</text>
+<text x="96.0" y="344.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#FAFAF8" text-anchor="start" font-weight="normal"> git diff</text>
+<text x="78.0" y="368.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#8A9099" text-anchor="start" font-weight="normal"></text>
+<text x="78.0" y="392.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#8A9099" text-anchor="start" font-weight="normal"># 确认要退，把某一个文件退回来</text>
+<text x="78.0" y="416.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#E0A95C" text-anchor="start" font-weight="bold">$</text>
+<text x="96.0" y="416.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#FAFAF8" text-anchor="start" font-weight="normal"> git checkout -- torque_raw.csv</text>
+<text x="78.0" y="440.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#8A9099" text-anchor="start" font-weight="normal"></text>
+<text x="78.0" y="464.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#8A9099" text-anchor="start" font-weight="normal"># 整个目录退回上一次提交</text>
+<text x="78.0" y="488.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#E0A95C" text-anchor="start" font-weight="bold">$</text>
+<text x="96.0" y="488.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#FAFAF8" text-anchor="start" font-weight="normal"> git reset --hard HEAD</text>
+</svg>

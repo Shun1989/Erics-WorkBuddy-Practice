@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">场景 C1 的第一轮回包：仓库在列表内，14 条提交</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">提示词第一步冒烟与第二步拉记录之后，它应该这样回</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="596.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">14 条这个数字你一定要自己核。去代码托管页面上看一眼上周的提交数，对不上就停下来查时间范围和分支。这一步花五秒钟，决定后面整份汇报的可信</text>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">度。</text>
+<rect x="446.7" y="188.0" width="497.3" height="100.0" rx="12" fill="#EDF1F5" stroke="#EDF1F5" stroke-width="0"/>
+<text x="462.7" y="212.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="bold">我</text>
+<text x="462.7" y="236.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">【第一步：冒烟】先做一件事再往下走：列出你当前授权能看到的所有</text>
+<text x="462.7" y="258.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">仓库名。
+如果 eric-motor-lab / actuator-fw 不在列表里，立</text>
+<text x="462.7" y="280.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">刻停下告诉我，不要继续。</text>
+<rect x="56.0" y="304.0" width="639.4" height="84.0" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="56.0" y="304.0" width="5.0" height="84.0" rx="3" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="76.0" y="328.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#2D6A6A" text-anchor="start" font-weight="bold">WorkBuddy</text>
+<rect x="160.0" y="316.0" width="52.0" height="20.0" rx="5" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="186.0" y="330.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="bold">Agent</text>
+<text x="76.0" y="352.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">[冒烟] 当前授权可见仓库：actuator-fw、actuator-hw、motor-testbench。
+目标仓</text>
+<text x="76.0" y="374.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">库 actuator-fw 在列表内，继续。
+[第二步] 该时间范围内共 14 条提交。</text>
+<rect x="56.0" y="558.0" width="888.0" height="34.0" rx="8" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1.2"/>
+<circle cx="76" cy="575" r="5" fill="#2D6A6A"/>
+<text x="92.0" y="580.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">等你确认条数合理，再让它往下走</text>
+</svg>

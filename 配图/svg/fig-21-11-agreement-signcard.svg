@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">约定发布前的三问：答不上来就回去补条款</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">21.4 模板的验收五问与归档必备文件，合并成一页</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">有一问答不上来，就回到对应条款补具体岗位、路径或动作。不要再加注意、原则上这类词，它们只会让文件变长。</text>
+<rect x="56.0" y="167.5" width="888.0" height="86.0" rx="10" fill="#1C2026" stroke="#3A4049" stroke-width="1.5"/>
+<path d="M66,201.48 L934,201.48" stroke="#3A4049" stroke-width="1"/>
+<circle cx="76" cy="184.48" r="5" fill="#E05C5C"/>
+<circle cx="92" cy="184.48" r="5" fill="#E0A95C"/>
+<circle cx="108" cy="184.48" r="5" fill="#5CB87C"/>
+<text x="500.0" y="189.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E5E1DA" text-anchor="middle" font-weight="bold">交付物  ·  待验收</text>
+<text x="80.0" y="235.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#A8AFB8" text-anchor="start" font-weight="normal">产物</text>
+<text x="130.0" y="235.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#E5E1DA" text-anchor="start" font-weight="bold">[部门名称] AI 使用约定 V0.1</text>
+<rect x="56.0" y="279.5" width="432.0" height="258.0" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="56.0" y="279.5" width="432.0" height="42.0" rx="10" fill="#E0632D" stroke="#E0632D" stroke-width="0"/>
+<text x="74.0" y="307.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#FFFFFF" text-anchor="start" font-weight="bold">签字前问自己三句</text>
+<circle cx="76" cy="348.48" r="12" fill="#F2EDE6"/>
+<text x="76.0" y="353.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#E0632D" text-anchor="middle" font-weight="bold">1</text>
+<text x="98.0" y="353.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">新人只看约定，能否判断一项任务属于 L1、L2 </text>
+<text x="98.0" y="373.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">还是 L3？</text>
+<circle cx="76" cy="412.48" r="12" fill="#F2EDE6"/>
+<text x="76.0" y="417.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#E0632D" text-anchor="middle" font-weight="bold">2</text>
+<text x="98.0" y="417.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">执行者能否说出自己什么时候必须停、等谁拍板</text>
+<text x="98.0" y="437.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">？</text>
+<circle cx="76" cy="476.48" r="12" fill="#F2EDE6"/>
+<text x="76.0" y="481.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#E0632D" text-anchor="middle" font-weight="bold">3</text>
+<text x="98.0" y="481.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">产物出错后，能否在约十分钟内找到输入、提示</text>
+<text x="98.0" y="501.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">词和验收记录？</text>
+<rect x="512.0" y="279.5" width="432.0" height="258.0" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="512.0" y="279.5" width="432.0" height="42.0" rx="10" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="530.0" y="307.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#FFFFFF" text-anchor="start" font-weight="bold">要留的证据</text>
+<rect x="532.0" y="342.48" width="13" height="13" fill="#FFFFFF" stroke="#2D6A6A" stroke-width="1.6" rx="2"/>
+<text x="556.0" y="353.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">00-task.md 与 01-input-index.md 齐全</text>
+<rect x="532.0" y="374.48" width="13" height="13" fill="#FFFFFF" stroke="#2D6A6A" stroke-width="1.6" rx="2"/>
+<text x="556.0" y="385.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">04-check.md 里有验收结论与抽样位置</text>
+<rect x="532.0" y="406.48" width="13" height="13" fill="#FFFFFF" stroke="#2D6A6A" stroke-width="1.6" rx="2"/>
+<text x="556.0" y="417.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">05-decision.md 里有拍板人和理由</text>
+<rect x="532.0" y="438.48" width="13" height="13" fill="#FFFFFF" stroke="#2D6A6A" stroke-width="1.6" rx="2"/>
+<text x="556.0" y="449.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">超过复测日期的条目已转入待复测</text>
+</svg>

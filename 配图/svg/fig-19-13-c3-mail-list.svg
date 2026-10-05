@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">场景 C3 的邮件清单：7 封里面分出 3 封要回</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">提示词第二步与第三步之后，它应该报成这样</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">分类表输出成三列：序号、标签、一句话理由。打完表停下来等我确认，不许直接开始起草。</text>
+<rect x="56.0" y="128.0" width="888.0" height="336.0" rx="10" fill="#1C2026" stroke="#3A4049" stroke-width="1.5"/>
+<path d="M66,162 L934,162" stroke="#3A4049" stroke-width="1"/>
+<circle cx="76" cy="145" r="5" fill="#E05C5C"/>
+<circle cx="92" cy="145" r="5" fill="#E0A95C"/>
+<circle cx="108" cy="145" r="5" fill="#5CB87C"/>
+<text x="500.0" y="150.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E5E1DA" text-anchor="middle" font-weight="bold">终端  ·  bash</text>
+<text x="78.0" y="176.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#8A9099" text-anchor="start" font-weight="normal">可见文件夹：收件箱、AI 待处理、已发送、草稿箱、归档</text>
+<text x="78.0" y="200.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#E5E1DA" text-anchor="start" font-weight="normal">范围内共 7 封：</text>
+<text x="78.0" y="224.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#E5E1DA" text-anchor="start" font-weight="normal">1. 张工 / 09-28 09:12 / 执行器耐久试验第 3 轮数据确认 / 附件 2</text>
+<text x="78.0" y="248.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#E5E1DA" text-anchor="start" font-weight="normal">2. 项目群 / 09-28 10:40 / 周会纪要 / 附件 0</text>
+<text x="78.0" y="272.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#8A9099" text-anchor="start" font-weight="normal">...</text>
+<text x="78.0" y="296.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#E0A95C" text-anchor="start" font-weight="normal">分类：1-A、2-B、3-C、4-B、5-A、6-B、7-A</text>
+<text x="78.0" y="320.0" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#8A9099" text-anchor="start" font-weight="normal">A 需要我回复　B 看过了不需要动作　C 需要转给其他人</text>
+<rect x="56.0" y="480.0" width="888.0" height="62.0" rx="10" fill="#FBF3EC" stroke="#E8C9B4" stroke-width="1.5"/>
+<text x="74.0" y="506.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E0632D" text-anchor="start" font-weight="bold">补救动作</text>
+<text x="160.0" y="506.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">它报的邮件数必须跟你放进那个文件夹的数量一致。多出来了，说明它读了别的文件夹。</text>
+</svg>

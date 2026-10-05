@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">一张漂亮的比价表，两个错，选错供应商</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">场景 62 第二个坑：分摊年限与年降这两处算错</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">特别复查这五处：分摊年限、年降比例、税率、汇率、单位换算</text>
+<text x="56.0" y="234.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E0632D" text-anchor="start" font-weight="bold">它算出来的</text>
+<line x1="56.0" y1="242.60000000000002" x2="78.0" y2="242.60000000000002" stroke="#E0632D" stroke-width="2.5"/>
+<rect x="56.0" y="256.6" width="444.0" height="196.0" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<path d="M66.0,290.6 L490.0,290.6" stroke="#3A4049" stroke-width="1"/>
+<circle cx="76.0" cy="273.6" r="5" fill="#E05C5C"/>
+<circle cx="92.0" cy="273.6" r="5" fill="#E0A95C"/>
+<circle cx="108.0" cy="273.6" r="5" fill="#5CB87C"/>
+<text x="278.0" y="278.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="middle" font-weight="bold">数据.xlsx  ·  Sheet1</text>
+<rect x="56.0" y="278.6" width="444.0" height="26.0" rx="0" fill="#F7F8FA" stroke="#E5E1DA" stroke-width="1"/>
+<text x="68.0" y="295.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle" font-weight="normal">A</text>
+<text x="184.0" y="295.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle" font-weight="normal">B</text>
+<text x="300.0" y="295.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle" font-weight="normal">C</text>
+<text x="416.0" y="295.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle" font-weight="normal">D</text>
+<text x="102.0" y="270.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">fx</text>
+<rect x="66.0" y="304.6" width="113.0" height="26.0" rx="3" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="74.0" y="322.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#1C2026" text-anchor="start" font-weight="bold">供应商</text>
+<rect x="182.0" y="304.6" width="113.0" height="26.0" rx="3" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="190.0" y="322.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#1C2026" text-anchor="start" font-weight="bold">三年总成本（万元）</text>
+<rect x="298.0" y="304.6" width="113.0" height="26.0" rx="3" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="306.0" y="322.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#1C2026" text-anchor="start" font-weight="bold">关键差异</text>
+<rect x="66.0" y="334.6" width="113.0" height="26.0" rx="3" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+<text x="74.0" y="352.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">A 厂</text>
+<rect x="182.0" y="334.6" width="113.0" height="26.0" rx="3" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+<text x="190.0" y="352.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">417.6</text>
+<rect x="298.0" y="334.6" width="113.0" height="26.0" rx="3" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+<text x="306.0" y="352.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">报价单原样</text>
+<rect x="66.0" y="362.6" width="113.0" height="26.0" rx="3" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+<text x="74.0" y="380.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">B 厂</text>
+<rect x="182.0" y="362.6" width="113.0" height="26.0" rx="3" fill="#FDEDE4" stroke="#E5E1DA" stroke-width="1"/>
+<text x="190.0" y="380.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#E0632D" text-anchor="start" font-weight="normal">392.3</text>
+<rect x="298.0" y="362.6" width="113.0" height="26.0" rx="3" fill="#FDEDE4" stroke="#E5E1DA" stroke-width="1"/>
+<text x="306.0" y="380.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#E0632D" text-anchor="start" font-weight="normal">模具费按三年摊</text>
+<rect x="66.0" y="390.6" width="113.0" height="26.0" rx="3" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+<text x="74.0" y="408.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">C 厂</text>
+<rect x="182.0" y="390.6" width="113.0" height="26.0" rx="3" fill="#FDEDE4" stroke="#E5E1DA" stroke-width="1"/>
+<text x="190.0" y="408.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#E0632D" text-anchor="start" font-weight="normal">408.9</text>
+<rect x="298.0" y="390.6" width="113.0" height="26.0" rx="3" fill="#FDEDE4" stroke="#E5E1DA" stroke-width="1"/>
+<text x="306.0" y="408.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#E0632D" text-anchor="start" font-weight="normal">年降 3% 被漏掉</text>
+<text x="524.0" y="234.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#2D6A6A" text-anchor="start" font-weight="bold">按报价单复核</text>
+<line x1="524.0" y1="242.60000000000002" x2="546.0" y2="242.60000000000002" stroke="#2D6A6A" stroke-width="2.5"/>
+<rect x="524.0" y="256.6" width="444.0" height="196.0" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<path d="M534.0,290.6 L958.0,290.6" stroke="#3A4049" stroke-width="1"/>
+<circle cx="544.0" cy="273.6" r="5" fill="#E05C5C"/>
+<circle cx="560.0" cy="273.6" r="5" fill="#E0A95C"/>
+<circle cx="576.0" cy="273.6" r="5" fill="#5CB87C"/>
+<text x="746.0" y="278.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="middle" font-weight="bold">数据.xlsx  ·  Sheet1</text>
+<rect x="524.0" y="278.6" width="444.0" height="26.0" rx="0" fill="#F7F8FA" stroke="#E5E1DA" stroke-width="1"/>
+<text x="536.0" y="295.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle" font-weight="normal">A</text>
+<text x="652.0" y="295.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle" font-weight="normal">B</text>
+<text x="768.0" y="295.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle" font-weight="normal">C</text>
+<text x="884.0" y="295.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle" font-weight="normal">D</text>
+<text x="570.0" y="270.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">fx</text>
+<rect x="534.0" y="304.6" width="113.0" height="26.0" rx="3" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="542.0" y="322.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#1C2026" text-anchor="start" font-weight="bold">供应商</text>
+<rect x="650.0" y="304.6" width="113.0" height="26.0" rx="3" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="658.0" y="322.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#1C2026" text-anchor="start" font-weight="bold">三年总成本（万元）</text>
+<rect x="766.0" y="304.6" width="113.0" height="26.0" rx="3" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="774.0" y="322.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#1C2026" text-anchor="start" font-weight="bold">关键差异</text>
+<rect x="534.0" y="334.6" width="113.0" height="26.0" rx="3" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+<text x="542.0" y="352.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">A 厂</text>
+<rect x="650.0" y="334.6" width="113.0" height="26.0" rx="3" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+<text x="658.0" y="352.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">417.6</text>
+<rect x="766.0" y="334.6" width="113.0" height="26.0" rx="3" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+<text x="774.0" y="352.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">三年里最贵</text>
+<rect x="534.0" y="362.6" width="113.0" height="26.0" rx="3" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+<text x="542.0" y="380.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">B 厂</text>
+<rect x="650.0" y="362.6" width="113.0" height="26.0" rx="3" fill="#EAF3F1" stroke="#E5E1DA" stroke-width="1"/>
+<text x="658.0" y="380.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#2D6A6A" text-anchor="start" font-weight="normal">460.0</text>
+<rect x="766.0" y="362.6" width="113.0" height="26.0" rx="3" fill="#EAF3F1" stroke="#E5E1DA" stroke-width="1"/>
+<text x="774.0" y="380.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#2D6A6A" text-anchor="start" font-weight="normal">首年一次性计入 68 万模具费</text>
+<rect x="534.0" y="390.6" width="113.0" height="26.0" rx="3" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+<text x="542.0" y="408.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="start" font-weight="normal">C 厂</text>
+<rect x="650.0" y="390.6" width="113.0" height="26.0" rx="3" fill="#EAF3F1" stroke="#E5E1DA" stroke-width="1"/>
+<text x="658.0" y="408.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#2D6A6A" text-anchor="start" font-weight="normal">386.0</text>
+<rect x="766.0" y="390.6" width="113.0" height="26.0" rx="3" fill="#EAF3F1" stroke="#E5E1DA" stroke-width="1"/>
+<text x="774.0" y="408.6" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#2D6A6A" text-anchor="start" font-weight="normal">按年降 3% 折算后最低</text>
+</svg>

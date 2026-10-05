@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">六个组成环里，端盖轴承室深度一个环就占了三分之一的贡献</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">场景 40 过程与判断点里那次轴向间隙校核算出来的敏感度</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">第一名恰好就是本章开场那个故事里被问到的 0.12。端盖加精镗、输出轴轴肩改磨削，两个环一起收，极值法结果落回 0.06 到 0.33，进区间了。</text>
+<rect x="56.0" y="160.8" width="888.0" height="30.0" rx="6" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="70.0" y="180.8" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">口径  百分比为该环公差对封闭环总变动的贡献占比，六项同量纲可比</text>
+<text x="56.0" y="226.8" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="bold">环 1 端盖轴承室深度</text>
+<rect x="306.0" y="210.8" width="468.0" height="24.0" rx="6" fill="#F4F2ED" stroke="#F4F2ED" stroke-width="0"/>
+<rect x="306.0" y="210.8" width="468.0" height="24.0" rx="6" fill="#E0632D" stroke="#E0632D" stroke-width="0"/>
+<text x="790.0" y="227.8" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#E0632D" text-anchor="start" font-weight="bold">公差 0.12，占 34%</text>
+<text x="56.0" y="274.8" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">环 2 输出轴轴肩到端面</text>
+<rect x="306.0" y="258.8" width="468.0" height="24.0" rx="6" fill="#F4F2ED" stroke="#F4F2ED" stroke-width="0"/>
+<rect x="306.0" y="258.8" width="385.4" height="24.0" rx="6" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="790.0" y="275.8" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#2D6A6A" text-anchor="start" font-weight="bold">公差 0.10，占 28%</text>
+<text x="56.0" y="322.8" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">环 3 壳体总长</text>
+<rect x="306.0" y="306.8" width="468.0" height="24.0" rx="6" fill="#F4F2ED" stroke="#F4F2ED" stroke-width="0"/>
+<rect x="306.0" y="306.8" width="247.8" height="24.0" rx="6" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="790.0" y="323.8" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#2D6A6A" text-anchor="start" font-weight="bold">公差 0.08，占 18%</text>
+<text x="56.0" y="370.8" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">环 4 波形垫圈自由高度</text>
+<rect x="306.0" y="354.8" width="468.0" height="24.0" rx="6" fill="#F4F2ED" stroke="#F4F2ED" stroke-width="0"/>
+<rect x="306.0" y="354.8" width="165.2" height="24.0" rx="6" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="790.0" y="371.8" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#2D6A6A" text-anchor="start" font-weight="bold">公差 0.06，占 12%</text>
+<text x="56.0" y="418.8" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">环 5 轴承宽度</text>
+<rect x="306.0" y="402.8" width="468.0" height="24.0" rx="6" fill="#F4F2ED" stroke="#F4F2ED" stroke-width="0"/>
+<rect x="306.0" y="402.8" width="68.8" height="24.0" rx="6" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="790.0" y="419.8" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#2D6A6A" text-anchor="start" font-weight="bold">公差 0.05，占 5%</text>
+<text x="56.0" y="466.8" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">环 6 卡簧槽位置</text>
+<rect x="306.0" y="450.8" width="468.0" height="24.0" rx="6" fill="#F4F2ED" stroke="#F4F2ED" stroke-width="0"/>
+<rect x="306.0" y="450.8" width="41.3" height="24.0" rx="6" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="790.0" y="467.8" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#2D6A6A" text-anchor="start" font-weight="bold">公差 0.03，占 3%</text>
+</svg>

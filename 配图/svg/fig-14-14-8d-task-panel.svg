@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">客户投诉来了，八小时内要交的是 D2 与 D3</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">场景 48 一句话背景与操作步骤</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="596.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">D2 七项里出现待补充是好现象，说明它在如实报告。最怕的是七项全填满，其中两项是它猜的。验收时专门抽查那些填满了的数字，看来源列是不是真能</text>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">追到。</text>
+<rect x="56.0" y="128.0" width="888.0" height="444.0" rx="10" fill="#1C2026" stroke="#3A4049" stroke-width="1.5"/>
+<path d="M66,162 L934,162" stroke="#3A4049" stroke-width="1"/>
+<circle cx="76" cy="145" r="5" fill="#E05C5C"/>
+<circle cx="92" cy="145" r="5" fill="#E0A95C"/>
+<circle cx="108" cy="145" r="5" fill="#5CB87C"/>
+<text x="500.0" y="150.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E5E1DA" text-anchor="middle" font-weight="bold">WorkBuddy  ·  任务</text>
+<text x="80.0" y="194.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#A8AFB8" text-anchor="start" font-weight="normal">任务</text>
+<text x="130.0" y="194.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#E5E1DA" text-anchor="start" font-weight="bold">客户投诉 8D：出 D2 与 D3，D4 之后只给候选</text>
+<text x="80.0" y="220.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#A8AFB8" text-anchor="start" font-weight="normal">阶段</text>
+<text x="84.0" y="246.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#5CB87C" text-anchor="start" font-weight="bold">✓</text>
+<text x="108.0" y="246.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E5E1DA" text-anchor="start" font-weight="normal">D2 按 5W2H 七项写齐，每项标数据来源</text>
+<text x="84.0" y="276.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#5CB87C" text-anchor="start" font-weight="bold">✓</text>
+<text x="108.0" y="276.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E5E1DA" text-anchor="start" font-weight="normal">D3 每条措施写清谁做、何时完成、做到什么程度</text>
+<text x="84.0" y="306.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="bold">○</text>
+<text x="108.0" y="306.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#7E8794" text-anchor="start" font-weight="normal">D4 发生原因与流出原因分两条线，各给候选</text>
+<text x="84.0" y="336.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="bold">○</text>
+<text x="108.0" y="336.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#7E8794" text-anchor="start" font-weight="normal">D5 到 D7 措施写成可验收的句子，标准是一个数字</text>
+<line x1="80" y1="372" x2="920" y2="372" stroke="#3A4049" stroke-width="1"/>
+<text x="80.0" y="396.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E5E1DA" text-anchor="start" font-weight="normal">已完成 2 / 4 个阶段</text>
+<text x="80.0" y="420.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#A8AFB8" text-anchor="start" font-weight="normal">耗时 一小时出到 D3</text>
+<rect x="300.0" y="406.0" width="300.0" height="12.0" rx="6" fill="#2E343D" stroke="#2E343D" stroke-width="0"/>
+<rect x="300.0" y="406.0" width="150.0" height="12.0" rx="6" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="80.0" y="456.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#A8AFB8" text-anchor="start" font-weight="bold">产物</text>
+<rect x="78.0" y="464.0" width="258.8" height="26.0" rx="5" fill="#2A3038" stroke="#3A4049" stroke-width="1.2"/>
+<text x="90.0" y="482.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#8FD4C4" text-anchor="start" font-weight="normal">D:\AI-SUPPLY\run06\complaint.txt</text>
+<rect x="78.0" y="496.0" width="230.2" height="26.0" rx="5" fill="#2A3038" stroke="#3A4049" stroke-width="1.2"/>
+<text x="90.0" y="514.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#8FD4C4" text-anchor="start" font-weight="normal">D:\AI-SUPPLY\run06\trace.csv</text>
+<rect x="78.0" y="528.0" width="201.6" height="26.0" rx="5" fill="#2A3038" stroke="#3A4049" stroke-width="1.2"/>
+<text x="90.0" y="546.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#8FD4C4" text-anchor="start" font-weight="normal">D:\AI-SUPPLY\run06\d3.md</text>
+</svg>

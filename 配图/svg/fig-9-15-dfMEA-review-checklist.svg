@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">图 9-15 拿到 AI 给的 DFMEA 表之后，按这张单子过一遍再进评审会</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">场景 16 过程与判断点与翻车清单合成的验收动作</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">这张表我从不当结论用，只当评审会的起点。评审会上参会工程师至少新增 5 条 AI 没想到的失效模式，达不到 5 条就要反过来怀疑自己在走过场。</text>
+<circle cx="72" cy="143" r="14" fill="#FFFFFF" stroke="#2D6A6A" stroke-width="1.5"/>
+<text x="72.0" y="148.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#2D6A6A" text-anchor="middle" font-weight="bold">✓</text>
+<text x="100.0" y="148.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">按"零件部位 + 动词 + 偏差"逐行筛写法</text>
+<text x="100.0" y="174.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">34 条里第一次只有 31 条合格，剩下的 3 条自己改。搜索"不足""不良""下降""异常"，抽象词汇一律退回重写。</text>
+<circle cx="72" cy="209" r="14" fill="#FFFFFF" stroke="#2D6A6A" stroke-width="1.5"/>
+<text x="72.0" y="214.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#2D6A6A" text-anchor="middle" font-weight="bold">✓</text>
+<text x="100.0" y="214.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">把探测度这一列整体往上抬一档</text>
+<text x="100.0" y="240.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">它给的 D 分普遍偏低。塑料齿轮磨损在量产前确实难发现，它打 5 分，我改成 8 分。</text>
+<circle cx="72" cy="275" r="14" fill="#FFFFFF" stroke="#2D6A6A" stroke-width="1.5"/>
+<text x="72.0" y="280.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#2D6A6A" text-anchor="middle" font-weight="bold">✓</text>
+<text x="100.0" y="280.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">追问你手写的 5 条经验有没有全部进表</text>
+<text x="100.0" y="306.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">这次有一条没进去，按提示词第四步追问之后它认了，补上并标了 AP 高。</text>
+<circle cx="72" cy="341" r="14" fill="#FFFFFF" stroke="#E0632D" stroke-width="1.5"/>
+<text x="72.0" y="346.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#E0632D" text-anchor="middle" font-weight="bold">✕</text>
+<text x="100.0" y="346.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">把设计和过程混在一起的原因退回</text>
+<text x="100.0" y="372.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">"注塑保压时间不足"这类过程原因归入 PFMEA，单独列在表外，不进 DFMEA。</text>
+<circle cx="72" cy="407" r="14" fill="#FFFFFF" stroke="#C2410C" stroke-width="1.5"/>
+<text x="72.0" y="412.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#C2410C" text-anchor="middle" font-weight="bold">!</text>
+<text x="100.0" y="412.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">打分依据写"经验判断"超过一半的表，只能当排序参考</text>
+<text x="100.0" y="438.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">不能当决策依据。要它把每一格的依据显式写出来，写不出的写"无依据，需评审确定"。</text>
+</svg>

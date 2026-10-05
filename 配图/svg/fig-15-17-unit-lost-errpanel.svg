@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">翻车二：单位在半路上丢了</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">场景 51 试验报告自动生成的第二类事故</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">结论很肯定，评审时一问"凭什么说满足"，答不上来</text>
+<rect x="56.0" y="176.3" width="888.0" height="149.0" rx="10" fill="#1C2026" stroke="#3A4049" stroke-width="1.5"/>
+<path d="M66,210.3 L934,210.3" stroke="#3A4049" stroke-width="1"/>
+<circle cx="76" cy="193.3" r="5" fill="#E05C5C"/>
+<circle cx="92" cy="193.3" r="5" fill="#E0A95C"/>
+<circle cx="108" cy="193.3" r="5" fill="#5CB87C"/>
+<text x="500.0" y="198.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E5E1DA" text-anchor="middle" font-weight="bold">WorkBuddy  ·  任务中断</text>
+<rect x="68.0" y="214.3" width="50.0" height="28.0" rx="6" fill="#2E343D" stroke="#3A4049" stroke-width="1"/>
+<text x="93.0" y="233.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#E5E1DA" text-anchor="middle" font-weight="bold">问题</text>
+<rect x="124.0" y="214.3" width="50.0" height="28.0" rx="6" fill="#1C2026" stroke="#1C2026" stroke-width="1"/>
+<text x="149.0" y="233.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="middle" font-weight="normal">日志</text>
+<text x="80.0" y="260.3" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#E05C5C" text-anchor="start" font-weight="bold">报告第 4 节：声压级 42.3</text>
+<text x="80.0" y="282.3" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#AEB4BC" text-anchor="start" font-weight="normal">报告表 2：加速度 12.8 m/s</text>
+<text x="80.0" y="303.3" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#AEB4BC" text-anchor="start" font-weight="normal">（模板表头没有单位列，它按自己的习惯填）</text>
+<rect x="56.0" y="349.3" width="430.0" height="176.0" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="56.0" y="349.3" width="430.0" height="40.0" rx="10" fill="#E0632D" stroke="#E0632D" stroke-width="0"/>
+<text x="74.0" y="375.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#FFFFFF" text-anchor="start" font-weight="bold">可能原因</text>
+<text x="74.0" y="415.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E0632D" text-anchor="start" font-weight="bold">·</text>
+<text x="90.0" y="415.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">模板里的表头没有单位列，它就按自己的习惯填</text>
+<text x="74.0" y="447.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E0632D" text-anchor="start" font-weight="bold">·</text>
+<text x="90.0" y="447.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">单位在中间加工环节被丢掉，正文与表格分开生成</text>
+<text x="74.0" y="479.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#E0632D" text-anchor="start" font-weight="bold">·</text>
+<text x="90.0" y="479.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">反向比对只比数字不比单位，查不出来</text>
+<rect x="514.0" y="349.3" width="430.0" height="176.0" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="514.0" y="349.3" width="430.0" height="40.0" rx="10" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="532.0" y="375.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#FFFFFF" text-anchor="start" font-weight="bold">补救动作</text>
+<text x="532.0" y="415.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#2D6A6A" text-anchor="start" font-weight="bold">·</text>
+<text x="548.0" y="415.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">在提示词里把每个物理量的单位写死成一张表</text>
+<text x="532.0" y="447.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#2D6A6A" text-anchor="start" font-weight="bold">·</text>
+<text x="548.0" y="447.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">反向比对时同时检查单位，缺单位写未通过</text>
+<text x="532.0" y="479.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#2D6A6A" text-anchor="start" font-weight="bold">·</text>
+<text x="548.0" y="479.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">数字保留位数全篇统一：声压级一位小数，频率整数，转速整</text>
+<text x="548.0" y="499.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#1C2026" text-anchor="start" font-weight="normal">数</text>
+</svg>

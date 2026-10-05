@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">图 4-11 同一个变体连跑三次，模型给分 0.8167 / 0.7833 / 0.7833</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">4.4 节教训二，规则打分与模型打分不是一回事</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">来源：本章 4.4 节教训二。同一份东西，两套打分差了 0.07。原始版三维得分：合规性 0.8，输出质量 0.6，简洁性 0.9，综合 0.77。</text>
+<rect x="56.0" y="197.2" width="888.0" height="30.0" rx="6" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="70.0" y="217.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">口径  综合分，满分 1.00，三次跑的是同一个 v1 变体</text>
+<text x="56.0" y="263.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="bold">第 1 次模型打分</text>
+<rect x="306.0" y="247.2" width="468.0" height="24.0" rx="6" fill="#F4F2ED" stroke="#F4F2ED" stroke-width="0"/>
+<rect x="306.0" y="247.2" width="468.0" height="24.0" rx="6" fill="#E0632D" stroke="#E0632D" stroke-width="0"/>
+<text x="790.0" y="264.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#E0632D" text-anchor="start" font-weight="bold">0.8167</text>
+<text x="56.0" y="311.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">第 2 次模型打分</text>
+<rect x="306.0" y="295.2" width="468.0" height="24.0" rx="6" fill="#F4F2ED" stroke="#F4F2ED" stroke-width="0"/>
+<rect x="306.0" y="295.2" width="448.9" height="24.0" rx="6" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="790.0" y="312.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#2D6A6A" text-anchor="start" font-weight="bold">0.7833</text>
+<text x="56.0" y="359.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">第 3 次模型打分</text>
+<rect x="306.0" y="343.2" width="468.0" height="24.0" rx="6" fill="#F4F2ED" stroke="#F4F2ED" stroke-width="0"/>
+<rect x="306.0" y="343.2" width="448.9" height="24.0" rx="6" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="790.0" y="360.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#2D6A6A" text-anchor="start" font-weight="bold">0.7833</text>
+<text x="56.0" y="407.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="start" font-weight="normal">同一份文件的规则打分</text>
+<rect x="306.0" y="391.2" width="468.0" height="24.0" rx="6" fill="#F4F2ED" stroke="#F4F2ED" stroke-width="0"/>
+<rect x="306.0" y="391.2" width="401.1" height="24.0" rx="6" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="790.0" y="408.2" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#2D6A6A" text-anchor="start" font-weight="bold">0.70</text>
+</svg>
