@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">第一次打开的五个区域</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">今天真正要认识的只有三块：对话区、模式切换、设置区</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">第 2.2 节：对话区是嘴巴和耳朵，模式切换是委托书，文件区是它手能伸到的范围</text>
+<rect x="56.0" y="140.0" width="278.7" height="160.0" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="56.0" y="140.0" width="278.7" height="42.0" rx="12" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="76.0" y="168.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">对话区</text>
+<text x="76.0" y="206.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">窗口正中最大的一块。你说活、它交差</text>
+<text x="76.0" y="226.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">，文件可以直接拖进来。今天要做：拖</text>
+<text x="76.0" y="246.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">一个文件进来，确认它能识别</text>
+<rect x="360.7" y="140.0" width="278.7" height="160.0" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="360.7" y="140.0" width="278.7" height="42.0" rx="12" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="380.7" y="168.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">模式切换</text>
+<text x="380.7" y="206.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">对话输入区附近或顶部。决定它是只答</text>
+<text x="380.7" y="226.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">、先给方案还是直接干完。今天：找到</text>
+<text x="380.7" y="246.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">它，切到 Ask 试一句</text>
+<rect x="665.3" y="140.0" width="278.7" height="160.0" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="665.3" y="140.0" width="278.7" height="42.0" rx="12" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="685.3" y="168.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">文件区</text>
+<text x="685.3" y="206.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">某一侧的面板。显示它当前能看到哪些</text>
+<text x="685.3" y="226.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">文件夹、动了哪些文件。今天：确认它</text>
+<text x="685.3" y="246.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">看到的是你刚建的工作目录</text>
+<rect x="56.0" y="320.0" width="278.7" height="160.0" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="56.0" y="320.0" width="278.7" height="42.0" rx="12" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="76.0" y="348.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">设置区</text>
+<text x="76.0" y="386.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">窗口角落的齿轮或菜单里。账号、模型</text>
+<text x="76.0" y="406.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">、权限、工作目录都在这里。今天只改</text>
+<text x="76.0" y="426.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">一件事：工作目录</text>
+<rect x="360.7" y="320.0" width="278.7" height="160.0" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="360.7" y="320.0" width="278.7" height="42.0" rx="12" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="380.7" y="348.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">任务状态区</text>
+<text x="380.7" y="386.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">对话区上方或下方的一条。显示它正在</text>
+<text x="380.7" y="406.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">干什么、跑了几步、卡在哪。干活途中</text>
+<text x="380.7" y="426.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">瞄一眼，看它是不是在转圈</text>
+</svg>

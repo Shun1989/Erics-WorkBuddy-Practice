@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">加戏的解法</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">三栏清单加改动对照表，越界改动一律退回</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">每项改动都必须对应本次任务里的某条要求</text>
+<circle cx="72" cy="143" r="14" fill="#FFFFFF" stroke="#2D6A6A" stroke-width="1.5"/>
+<text x="72.0" y="148.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#2D6A6A" text-anchor="middle" font-weight="bold">✓</text>
+<text x="100.0" y="148.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">第一栏 本次必做</text>
+<text x="100.0" y="174.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">列出本次必须改的每一处，含旧值与新值</text>
+<circle cx="72" cy="209" r="14" fill="#FFFFFF" stroke="#E0632D" stroke-width="1.5"/>
+<text x="72.0" y="214.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#E0632D" text-anchor="middle" font-weight="bold">✕</text>
+<text x="100.0" y="214.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">第二栏 本次明确不做</text>
+<text x="100.0" y="240.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">不许改用词、不许改样式、不许新增段落</text>
+<circle cx="72" cy="275" r="14" fill="#FFFFFF" stroke="#C2410C" stroke-width="1.5"/>
+<text x="72.0" y="280.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#C2410C" text-anchor="middle" font-weight="bold">!</text>
+<text x="100.0" y="280.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">第三栏 发现但暂不处理</text>
+<text x="100.0" y="306.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">执行中发现的问题只记录，不许当场动手</text>
+<circle cx="72" cy="341" r="14" fill="#FFFFFF" stroke="#2D6A6A" stroke-width="1.5"/>
+<text x="72.0" y="346.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#2D6A6A" text-anchor="middle" font-weight="bold">✓</text>
+<text x="100.0" y="346.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">先交改动对照表</text>
+<text x="100.0" y="372.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">位置、旧值、新值，对不上必做的行划掉</text>
+<circle cx="72" cy="407" r="14" fill="#FFFFFF" stroke="#E0632D" stroke-width="1.5"/>
+<text x="72.0" y="412.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#E0632D" text-anchor="middle" font-weight="bold">✕</text>
+<text x="100.0" y="412.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">白名单外的文件不许碰</text>
+<text x="100.0" y="438.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">动手前后各报一次修改时间，变了就是事故</text>
+<circle cx="72" cy="473" r="14" fill="#FFFFFF" stroke="#C2410C" stroke-width="1.5"/>
+<text x="72.0" y="478.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#C2410C" text-anchor="middle" font-weight="bold">!</text>
+<text x="100.0" y="478.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">改完要 diff</text>
+<text x="100.0" y="504.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">它报的清单跟工具核的对不上，以工具为准</text>
+</svg>

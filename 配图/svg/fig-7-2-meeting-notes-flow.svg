@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">会议纪要处理流程</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">录音进，四段式纪要加待办表出</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">一场 60 分钟的会，跑这套流程 6 分钟，以前手写纪要要 35 分钟</text>
+<rect x="56.0" y="140.0" width="277.3" height="119.3" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="56.0" y="140.0" width="6.0" height="119.3" rx="3" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="76.0" y="170.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">Plan 模式出方案</text>
+<text x="76.0" y="196.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">先看它有没有理解不许猜这条</text>
+<line x1="337.3" y1="199.7" x2="357.3" y2="199.7" stroke="#2D6A6A" stroke-width="2" marker-end="url(#ar-2D6A6A)"/>
+<rect x="361.3" y="140.0" width="277.3" height="119.3" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="361.3" y="140.0" width="6.0" height="119.3" rx="3" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="381.3" y="170.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">拖入录音文件</text>
+<text x="381.3" y="196.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">超过 100 MB 先切成 30 分钟一段</text>
+<line x1="642.7" y1="199.7" x2="662.7" y2="199.7" stroke="#2D6A6A" stroke-width="2" marker-end="url(#ar-2D6A6A)"/>
+<rect x="666.7" y="140.0" width="277.3" height="119.3" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="666.7" y="140.0" width="6.0" height="119.3" rx="3" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="686.7" y="170.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">贴提示词发送</text>
+<text x="686.7" y="196.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">替换方括号里的会议信息</text>
+<path d="M805,259 L805,275 L195,275 L195,289" fill="none" stroke="#2D6A6A" stroke-width="2" marker-end="url(#ar-2D6A6A)"/>
+<rect x="56.0" y="293.3" width="277.3" height="119.3" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="56.0" y="293.3" width="6.0" height="119.3" rx="3" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="76.0" y="323.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">切 Agent 动手</text>
+<text x="76.0" y="349.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">转写、订正、分段、生成四部分</text>
+<line x1="337.3" y1="353.0" x2="357.3" y2="353.0" stroke="#2D6A6A" stroke-width="2" marker-end="url(#ar-2D6A6A)"/>
+<rect x="361.3" y="293.3" width="277.3" height="119.3" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="361.3" y="293.3" width="6.0" height="119.3" rx="3" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="381.3" y="323.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">核对三个判断点</text>
+<text x="381.3" y="349.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">待办条数、未指定数、听不清数</text>
+<line x1="642.7" y1="353.0" x2="662.7" y2="353.0" stroke="#2D6A6A" stroke-width="2" marker-end="url(#ar-2D6A6A)"/>
+<rect x="666.7" y="293.3" width="277.3" height="119.3" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="666.7" y="293.3" width="6.0" height="119.3" rx="3" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="686.7" y="323.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">另存 Word 存档</text>
+<text x="686.7" y="349.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">文件名带上年月日</text>
+<path d="M805,413 L805,429 L195,429 L195,443" fill="none" stroke="#2D6A6A" stroke-width="2" marker-end="url(#ar-2D6A6A)"/>
+<rect x="56.0" y="446.7" width="277.3" height="119.3" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="56.0" y="446.7" width="6.0" height="119.3" rx="3" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="76.0" y="476.7" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">待办进跟踪表</text>
+<text x="76.0" y="502.7" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">发出去之前单独复制出来</text>
+</svg>

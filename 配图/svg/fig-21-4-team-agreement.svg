@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">《部门 AI 使用约定》的一页结构</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">复制后把方括号换成你部门的岗位、目录和审批方式</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">模板的验收方法：拿最近一项真实任务做五问，有一问答不上来就补具体岗位或路径</text>
+<rect x="56.0" y="140.0" width="278.7" height="160.0" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="56.0" y="140.0" width="278.7" height="42.0" rx="12" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="76.0" y="168.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">一、共同原则</text>
+<text x="76.0" y="206.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">每项任务开工前沿用第 18 章的 L1 /</text>
+<text x="76.0" y="226.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal"> L2 / L3 定级；聊天里的已完成不算</text>
+<text x="76.0" y="246.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">交付</text>
+<rect x="360.7" y="140.0" width="278.7" height="160.0" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="360.7" y="140.0" width="278.7" height="42.0" rx="12" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="380.7" y="168.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">二、哪些活可以全自动</text>
+<text x="380.7" y="206.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">按 L1 管理，前提是输入范围固定、</text>
+<text x="380.7" y="226.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">错误可撤回、检查规则明确</text>
+<rect x="665.3" y="140.0" width="278.7" height="160.0" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="665.3" y="140.0" width="278.7" height="42.0" rx="12" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="685.3" y="168.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">三、哪些必须人拍板</text>
+<text x="685.3" y="206.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">按 L2 管理，它只列事实、来源、选</text>
+<text x="685.3" y="226.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">项和各自影响，人在指定停点决定</text>
+<rect x="56.0" y="320.0" width="278.7" height="160.0" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="56.0" y="320.0" width="278.7" height="42.0" rx="12" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="76.0" y="348.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">四、哪些绝对不能碰</text>
+<text x="76.0" y="386.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">按 L3 管理：对外发布、放行判定、</text>
+<text x="76.0" y="406.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">合同付款、人事决定，它只出事实清单</text>
+<rect x="360.7" y="320.0" width="278.7" height="160.0" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="360.7" y="320.0" width="278.7" height="42.0" rx="12" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="380.7" y="348.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">五、成果怎么归档</text>
+<text x="380.7" y="386.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">每个任务一个目录，保留任务、输入索</text>
+<text x="380.7" y="406.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">引、提示词、产物、验收、拍板记录</text>
+<rect x="665.3" y="320.0" width="278.7" height="160.0" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="665.3" y="320.0" width="278.7" height="42.0" rx="12" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<text x="685.3" y="348.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">六、例外怎么处理</text>
+<text x="685.3" y="386.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">无法定级先按 L3 处理；想跳过检查</text>
+<text x="685.3" y="406.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">不允许口头批准，要书面写明替代动作</text>
+</svg>

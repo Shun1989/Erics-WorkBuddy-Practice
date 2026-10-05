@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">联想条数的四道漏斗</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">它给的条数，我留下的条数</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">历史对照那九条全部是我自己想不起来的，这四十分钟花得值</text>
+<text x="56.0" y="180.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">失效模式联想</text>
+<rect x="266.0" y="164.0" width="548.0" height="24.0" rx="6" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<rect x="266.0" y="164.0" width="503.6" height="24.0" rx="6" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="830.0" y="181.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="bold">报 68 留 31</text>
+<text x="56.0" y="226.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">失效后果分层</text>
+<rect x="266.0" y="210.0" width="548.0" height="24.0" rx="6" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<rect x="266.0" y="210.0" width="229.6" height="24.0" rx="6" fill="#E0632D" stroke="#E0632D" stroke-width="0"/>
+<text x="830.0" y="227.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="bold">报 31 留 29</text>
+<text x="56.0" y="272.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">失效起因</text>
+<rect x="266.0" y="256.0" width="548.0" height="24.0" rx="6" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<rect x="266.0" y="256.0" width="548.0" height="24.0" rx="6" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="830.0" y="273.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="bold">报 74 留 52</text>
+<text x="56.0" y="318.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="16" fill="#1C2026" text-anchor="start" font-weight="bold">历史对照</text>
+<rect x="266.0" y="302.0" width="548.0" height="24.0" rx="6" fill="#F2EDE6" stroke="#F2EDE6" stroke-width="0"/>
+<rect x="266.0" y="302.0" width="81.5" height="24.0" rx="6" fill="#E0632D" stroke="#E0632D" stroke-width="0"/>
+<text x="830.0" y="319.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="bold">报 11 留 9</text>
+</svg>

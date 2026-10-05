@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">DFMEA 表的六个支柱</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">模式、影响、原因，再加 S、O、D 三个打分</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">零件清单 11 项，它列出失效模式 34 条，这张表是评审会的起点不是结论</text>
+<rect x="90.0" y="140.0" width="820.0" height="63.0" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="90.0" y="140.0" width="8.0" height="63.0" rx="4" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="120.0" y="170.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">失效模式</text>
+<text x="120.0" y="192.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">零件部位加动词加偏差，例如蜗轮齿面磨损</text>
+<rect x="90.0" y="215.0" width="820.0" height="63.0" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="90.0" y="215.0" width="8.0" height="63.0" rx="4" fill="#6B7280" stroke="#6B7280" stroke-width="0"/>
+<text x="120.0" y="245.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">失效影响</text>
+<text x="120.0" y="267.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">客户或下道工序能观察到的具体现象</text>
+<rect x="90.0" y="290.0" width="820.0" height="63.0" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="90.0" y="290.0" width="8.0" height="63.0" rx="4" fill="#6B7280" stroke="#6B7280" stroke-width="0"/>
+<text x="120.0" y="320.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">失效原因</text>
+<text x="120.0" y="342.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">挖到能采取措施的层级才算写完</text>
+<rect x="90.0" y="365.0" width="820.0" height="63.0" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="90.0" y="365.0" width="8.0" height="63.0" rx="4" fill="#6B7280" stroke="#6B7280" stroke-width="0"/>
+<text x="120.0" y="395.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">严重度 S</text>
+<text x="120.0" y="417.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">一到十分，七到八分是功能丧失</text>
+<rect x="90.0" y="440.0" width="820.0" height="63.0" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="90.0" y="440.0" width="8.0" height="63.0" rx="4" fill="#6B7280" stroke="#6B7280" stroke-width="0"/>
+<text x="120.0" y="470.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">发生度 O</text>
+<text x="120.0" y="492.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">写明依据是经验判断还是实测数据</text>
+<rect x="90.0" y="515.0" width="820.0" height="63.0" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="90.0" y="515.0" width="8.0" height="63.0" rx="4" fill="#6B7280" stroke="#6B7280" stroke-width="0"/>
+<text x="120.0" y="545.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">探测度 D</text>
+<text x="120.0" y="567.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">出厂前没法发现的要打九分或十分</text>
+</svg>

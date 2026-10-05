@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">权限三圈：先划红线，再谈信任</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">到设置区的权限部分，只把绿区挂上去</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">第 2.5.3 节：桌面是待整理区，不是工作区。用哪个文件，复制到工作目录里再干活</text>
+<rect x="400.0" y="136.0" width="200.0" height="52.0" rx="10" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="500.0" y="168.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#FFFFFF" text-anchor="middle" font-weight="bold">划三个圈</text>
+<path d="M500,188 L500,226 L171,226 L171,240" fill="none" stroke="#6B7280" stroke-width="1.6" marker-end="url(#ar-6B7280)"/>
+<rect x="56.0" y="240.0" width="230.0" height="46.0" rx="8" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="171.0" y="266.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="middle" font-weight="bold">绿区 可读写</text>
+<rect x="64.0" y="306.0" width="214.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="76.0" y="323.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">工作目录及其子目录</text>
+<rect x="64.0" y="354.0" width="214.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="76.0" y="371.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">这里面的东西删了不心疼</text>
+<rect x="64.0" y="402.0" width="214.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="76.0" y="419.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">重跑就是</text>
+<path d="M500,188 L500,226 L500,226 L500,240" fill="none" stroke="#6B7280" stroke-width="1.6" marker-end="url(#ar-6B7280)"/>
+<rect x="385.0" y="240.0" width="230.0" height="46.0" rx="8" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="500.0" y="266.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="middle" font-weight="bold">黄区 只读</text>
+<rect x="393.0" y="306.0" width="214.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="405.0" y="323.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">历史归档、标准文本</text>
+<rect x="393.0" y="354.0" width="214.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="405.0" y="371.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">已发布图纸目录</text>
+<rect x="393.0" y="402.0" width="214.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="405.0" y="419.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">引用可以，改了要走变更流程</text>
+<path d="M500,188 L500,226 L829,226 L829,240" fill="none" stroke="#6B7280" stroke-width="1.6" marker-end="url(#ar-6B7280)"/>
+<rect x="714.0" y="240.0" width="230.0" height="46.0" rx="8" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="829.0" y="266.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="middle" font-weight="bold">红区 不碰</text>
+<rect x="722.0" y="306.0" width="214.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="734.0" y="323.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">系统盘根目录与 AppData</text>
+<rect x="722.0" y="354.0" width="214.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="734.0" y="371.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">桌面、财务与人事目录</text>
+<rect x="722.0" y="402.0" width="214.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="734.0" y="419.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">共享盘与云同步盘根目录</text>
+<rect x="722.0" y="450.0" width="214.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="734.0" y="467.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">受控服务器的发布区</text>
+</svg>

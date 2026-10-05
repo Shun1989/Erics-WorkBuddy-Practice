@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">整理一份乱表格的八个动作</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">先体检，再动手，最后对账</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">第 2.4 节：它出错的方式通常不是算错，是悄悄少算</text>
+<rect x="56.0" y="140.0" width="277.3" height="119.3" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="56.0" y="140.0" width="6.0" height="119.3" rx="3" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="76.0" y="170.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">1 建工作目录</text>
+<text x="76.0" y="196.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">路径全英文数字，不带空格和括号</text>
+<line x1="337.3" y1="199.7" x2="357.3" y2="199.7" stroke="#2D6A6A" stroke-width="2" marker-end="url(#ar-2D6A6A)"/>
+<rect x="361.3" y="140.0" width="277.3" height="119.3" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="361.3" y="140.0" width="6.0" height="119.3" rx="3" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="381.3" y="170.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">2 复制副本</text>
+<text x="381.3" y="196.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">原件留在原地不要动，AI 永远只碰副</text>
+<text x="381.3" y="217.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">本</text>
+<line x1="642.7" y1="199.7" x2="662.7" y2="199.7" stroke="#2D6A6A" stroke-width="2" marker-end="url(#ar-2D6A6A)"/>
+<rect x="666.7" y="140.0" width="277.3" height="119.3" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="666.7" y="140.0" width="6.0" height="119.3" rx="3" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="686.7" y="170.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">3 关掉 Excel</text>
+<text x="686.7" y="196.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">文件被占用的时候，别的程序写不进</text>
+<text x="686.7" y="217.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">去</text>
+<path d="M805,259 L805,275 L195,275 L195,289" fill="none" stroke="#2D6A6A" stroke-width="2" marker-end="url(#ar-2D6A6A)"/>
+<rect x="56.0" y="293.3" width="277.3" height="119.3" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="56.0" y="293.3" width="6.0" height="119.3" rx="3" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="76.0" y="323.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">4 先记原数</text>
+<text x="76.0" y="349.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">记下原始行数和列数，这是验收用的</text>
+<text x="76.0" y="370.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">对照数字</text>
+<line x1="337.3" y1="353.0" x2="357.3" y2="353.0" stroke="#2D6A6A" stroke-width="2" marker-end="url(#ar-2D6A6A)"/>
+<rect x="361.3" y="293.3" width="277.3" height="119.3" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="361.3" y="293.3" width="6.0" height="119.3" rx="3" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="381.3" y="323.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">5 Ask 先看</text>
+<text x="381.3" y="349.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">让它只汇报，确认它理解对了表头和</text>
+<text x="381.3" y="370.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">脏在哪</text>
+<line x1="642.7" y1="353.0" x2="662.7" y2="353.0" stroke="#2D6A6A" stroke-width="2" marker-end="url(#ar-2D6A6A)"/>
+<rect x="666.7" y="293.3" width="277.3" height="119.3" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="666.7" y="293.3" width="6.0" height="119.3" rx="3" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="686.7" y="323.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">6 切回 Agent</text>
+<text x="686.7" y="349.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">把第二轮提示词发过去，让它真正动</text>
+<text x="686.7" y="370.3" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">手</text>
+<path d="M805,413 L805,429 L195,429 L195,443" fill="none" stroke="#2D6A6A" stroke-width="2" marker-end="url(#ar-2D6A6A)"/>
+<rect x="56.0" y="446.7" width="277.3" height="119.3" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="56.0" y="446.7" width="6.0" height="119.3" rx="3" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="76.0" y="476.7" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">7 盯任务状态</text>
+<text x="76.0" y="502.7" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">看它在读文件、写脚本还是在跑，别</text>
+<text x="76.0" y="523.7" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">干等</text>
+<line x1="337.3" y1="506.3" x2="357.3" y2="506.3" stroke="#2D6A6A" stroke-width="2" marker-end="url(#ar-2D6A6A)"/>
+<rect x="361.3" y="446.7" width="277.3" height="119.3" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="361.3" y="446.7" width="6.0" height="119.3" rx="3" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="381.3" y="476.7" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">8 对账再抽查</text>
+<text x="381.3" y="502.7" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">原始行数等于删除行数加输出行数，</text>
+<text x="381.3" y="523.7" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">再抽查 5 行</text>
+</svg>

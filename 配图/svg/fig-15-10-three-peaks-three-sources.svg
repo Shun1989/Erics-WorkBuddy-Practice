@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">三个峰，三个来源</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">混在一起处理就全错，分开是这套方法的全部价值</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">只在加载时出现的峰要单独成表；改进方案里改源头的一类排在改路径的前面</text>
+<rect x="384.5" y="136.0" width="231.0" height="52.0" rx="10" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="500.0" y="168.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#FFFFFF" text-anchor="middle" font-weight="bold">同一份谱上的三个峰</text>
+<path d="M500,188 L500,226 L171,226 L171,240" fill="none" stroke="#6B7280" stroke-width="1.6" marker-end="url(#ar-6B7280)"/>
+<rect x="56.0" y="240.0" width="230.0" height="46.0" rx="8" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="171.0" y="266.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="middle" font-weight="bold">1500 Hz 机械源</text>
+<rect x="64.0" y="306.0" width="214.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="76.0" y="323.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">阶次 30.0，疑似一级蜗杆啮合</text>
+<text x="76.0" y="340.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">频率</text>
+<rect x="64.0" y="354.0" width="214.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="76.0" y="371.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">断电后随惯性衰减约 0.8 s</text>
+<rect x="64.0" y="402.0" width="214.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="76.0" y="419.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">置信度 高</text>
+<path d="M500,188 L500,226 L500,226 L500,240" fill="none" stroke="#6B7280" stroke-width="1.6" marker-end="url(#ar-6B7280)"/>
+<rect x="385.0" y="240.0" width="230.0" height="46.0" rx="8" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="500.0" y="266.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="middle" font-weight="bold">3600 Hz 电磁源</text>
+<rect x="393.0" y="306.0" width="214.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="405.0" y="323.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">疑似啮合高次谐波或换向相关</text>
+<rect x="393.0" y="354.0" width="214.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="405.0" y="371.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">断电后立即消失</text>
+<rect x="393.0" y="402.0" width="214.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="405.0" y="419.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">置信度 高</text>
+<path d="M500,188 L500,226 L829,226 L829,240" fill="none" stroke="#6B7280" stroke-width="1.6" marker-end="url(#ar-6B7280)"/>
+<rect x="714.0" y="240.0" width="230.0" height="46.0" rx="8" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="829.0" y="266.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="middle" font-weight="bold">2140 Hz 结构共振</text>
+<rect x="722.0" y="306.0" width="214.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="734.0" y="323.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">不随转速移动，全转速段存在</text>
+<rect x="722.0" y="354.0" width="214.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="734.0" y="371.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">断电后仍存在约 0.3 s 且频率</text>
+<text x="734.0" y="388.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">不变</text>
+<rect x="722.0" y="402.0" width="214.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="734.0" y="419.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">置信度 中</text>
+</svg>

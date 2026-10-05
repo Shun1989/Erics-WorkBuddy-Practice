@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">方向盘交付包的五类产物</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">零件加总装加图纸加交换文件，能独立打开可二次编辑</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">交付包里最值钱的不是那二十三个零件，是那份敢写未通过的根因分析</text>
+<rect x="400.0" y="136.0" width="200.0" height="52.0" rx="10" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="500.0" y="168.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#FFFFFF" text-anchor="middle" font-weight="bold">方向盘交付包</text>
+<path d="M500,188 L500,226 L137,226 L137,240" fill="none" stroke="#6B7280" stroke-width="1.6" marker-end="url(#ar-6B7280)"/>
+<rect x="56.0" y="240.0" width="161.6" height="46.0" rx="8" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="136.8" y="266.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="middle" font-weight="bold">23 个零件文件</text>
+<rect x="64.0" y="306.0" width="145.6" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="76.0" y="323.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">SLDPRT，特征树可读</text>
+<rect x="64.0" y="354.0" width="145.6" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="76.0" y="371.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">命名是自己看得懂的</text>
+<path d="M500,188 L500,226 L318,226 L318,240" fill="none" stroke="#6B7280" stroke-width="1.6" marker-end="url(#ar-6B7280)"/>
+<rect x="237.6" y="240.0" width="161.6" height="46.0" rx="8" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="318.4" y="266.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="middle" font-weight="bold">1 个总装文件</text>
+<rect x="245.6" y="306.0" width="145.6" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="257.6" y="323.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">SLDASM，44 处零件</text>
+<text x="257.6" y="340.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">实例</text>
+<rect x="245.6" y="354.0" width="145.6" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="257.6" y="371.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">干涉检查零对</text>
+<path d="M500,188 L500,226 L500,226 L500,240" fill="none" stroke="#6B7280" stroke-width="1.6" marker-end="url(#ar-6B7280)"/>
+<rect x="419.2" y="240.0" width="161.6" height="46.0" rx="8" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="500.0" y="266.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="middle" font-weight="bold">6 张工程图</text>
+<rect x="427.2" y="306.0" width="145.6" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="439.2" y="323.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">SLDDRW，GB 模板 A</text>
+<text x="439.2" y="340.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">3</text>
+<rect x="427.2" y="354.0" width="145.6" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="439.2" y="371.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">五个剖视，23 处尺</text>
+<text x="439.2" y="388.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">寸</text>
+<path d="M500,188 L500,226 L682,226 L682,240" fill="none" stroke="#6B7280" stroke-width="1.6" marker-end="url(#ar-6B7280)"/>
+<rect x="600.8" y="240.0" width="161.6" height="46.0" rx="8" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="681.6" y="266.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="middle" font-weight="bold">STEP 交换文件</text>
+<rect x="608.8" y="306.0" width="145.6" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="620.8" y="323.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">工业界的普通话</text>
+<rect x="608.8" y="354.0" width="145.6" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="620.8" y="371.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">换别的软件也能打开</text>
+<path d="M500,188 L500,226 L863,226 L863,240" fill="none" stroke="#6B7280" stroke-width="1.6" marker-end="url(#ar-6B7280)"/>
+<rect x="782.4" y="240.0" width="161.6" height="46.0" rx="8" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="863.2" y="266.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="middle" font-weight="bold">建模过程视频</text>
+<rect x="790.4" y="306.0" width="145.6" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="802.4" y="323.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">两百多秒的过程录像</text>
+<rect x="790.4" y="354.0" width="145.6" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="802.4" y="371.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">附 STEP 未通过的根</text>
+<text x="802.4" y="388.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">因分析</text>
+</svg>

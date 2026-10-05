@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">三库共建：技能、提示词、案例</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">技能管怎么连续做，提示词管怎样说清一项任务，案例管什么情况下有效或会失败</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">新人从技能入口开始，执行时复制提示词，碰到异常再查案例，新错误写回技能</text>
+<rect x="384.5" y="136.0" width="231.0" height="52.0" rx="10" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="500.0" y="168.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#FFFFFF" text-anchor="middle" font-weight="bold">部门三类可复用资产</text>
+<path d="M500,188 L500,226 L171,226 L171,240" fill="none" stroke="#6B7280" stroke-width="1.6" marker-end="url(#ar-6B7280)"/>
+<rect x="56.0" y="240.0" width="230.0" height="46.0" rx="8" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="171.0" y="266.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="middle" font-weight="bold">技能库</text>
+<rect x="64.0" y="306.0" width="214.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="76.0" y="323.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">存可重复执行的完整做法</text>
+<rect x="64.0" y="354.0" width="214.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="76.0" y="371.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">适用范围、输入、步骤、停手条</text>
+<text x="76.0" y="388.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">件</text>
+<rect x="64.0" y="402.0" width="214.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="76.0" y="419.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">验收清单、维护人、验证日期</text>
+<path d="M500,188 L500,226 L500,226 L500,240" fill="none" stroke="#6B7280" stroke-width="1.6" marker-end="url(#ar-6B7280)"/>
+<rect x="385.0" y="240.0" width="230.0" height="46.0" rx="8" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="500.0" y="266.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="middle" font-weight="bold">提示词库</text>
+<rect x="393.0" y="306.0" width="214.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="405.0" y="323.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">存任务单，不存聊天花样</text>
+<rect x="393.0" y="354.0" width="214.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="405.0" y="371.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">顶部写六项：任务、输入、输出</text>
+<rect x="393.0" y="402.0" width="214.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="405.0" y="419.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">级别、验收、维护人</text>
+<path d="M500,188 L500,226 L829,226 L829,240" fill="none" stroke="#6B7280" stroke-width="1.6" marker-end="url(#ar-6B7280)"/>
+<rect x="714.0" y="240.0" width="230.0" height="46.0" rx="8" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="829.0" y="266.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="middle" font-weight="bold">案例库</text>
+<rect x="722.0" y="306.0" width="214.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="734.0" y="323.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">成功和失败各存一份</text>
+<rect x="722.0" y="354.0" width="214.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="734.0" y="371.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">失败只答六问：做什么、哪步先</text>
+<text x="734.0" y="388.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">错</text>
+<rect x="722.0" y="402.0" width="214.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="734.0" y="419.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">加了哪条规则、复测是否拦住</text>
+</svg>

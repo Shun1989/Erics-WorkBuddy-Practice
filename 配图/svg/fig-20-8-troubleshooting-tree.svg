@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">MCP 排障：先定位段，再查细节</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">八条故障全部落在这四段里</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">实在没头绪就按七步顺序表从上往下走，每一步都要看到通过的样子</text>
+<rect x="400.0" y="136.0" width="200.0" height="52.0" rx="10" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="500.0" y="168.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#FFFFFF" text-anchor="middle" font-weight="bold">先定位段</text>
+<path d="M500,188 L500,226 L160,226 L160,240" fill="none" stroke="#6B7280" stroke-width="1.6" marker-end="url(#ar-6B7280)"/>
+<rect x="56.0" y="240.0" width="207.0" height="46.0" rx="8" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="159.5" y="266.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="middle" font-weight="bold">配置这一段</text>
+<rect x="64.0" y="306.0" width="191.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="76.0" y="323.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">command 里的程序能不能敲</text>
+<text x="76.0" y="340.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">出来</text>
+<rect x="64.0" y="354.0" width="191.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="76.0" y="371.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">依赖装没装、启动参数对不</text>
+<text x="76.0" y="388.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">对</text>
+<rect x="64.0" y="402.0" width="191.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="76.0" y="419.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">改完配置有没有完全重启</text>
+<path d="M500,188 L500,226 L386,226 L386,240" fill="none" stroke="#6B7280" stroke-width="1.6" marker-end="url(#ar-6B7280)"/>
+<rect x="283.0" y="240.0" width="207.0" height="46.0" rx="8" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="386.5" y="266.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="middle" font-weight="bold">服务进程这一段</text>
+<rect x="291.0" y="306.0" width="191.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="303.0" y="323.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">握手有没有工具清单</text>
+<rect x="291.0" y="354.0" width="191.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="303.0" y="371.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">空的数组和没有这个字段成</text>
+<text x="303.0" y="388.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">因不同</text>
+<rect x="291.0" y="402.0" width="191.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="303.0" y="419.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">通信方式与版本对不对</text>
+<path d="M500,188 L500,226 L614,226 L614,240" fill="none" stroke="#6B7280" stroke-width="1.6" marker-end="url(#ar-6B7280)"/>
+<rect x="510.0" y="240.0" width="207.0" height="46.0" rx="8" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="613.5" y="266.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="middle" font-weight="bold">被接的软件这一段</text>
+<rect x="518.0" y="306.0" width="191.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="530.0" y="323.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">软件开了没有</text>
+<rect x="518.0" y="354.0" width="191.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="530.0" y="371.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">主线程有没有被锁住</text>
+<rect x="518.0" y="402.0" width="191.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="530.0" y="419.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">有没有把几个请求一次塞进</text>
+<text x="530.0" y="436.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">去</text>
+<path d="M500,188 L500,226 L840,226 L840,240" fill="none" stroke="#6B7280" stroke-width="1.6" marker-end="url(#ar-6B7280)"/>
+<rect x="737.0" y="240.0" width="207.0" height="46.0" rx="8" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="840.5" y="266.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="middle" font-weight="bold">权限这一段</text>
+<rect x="745.0" y="306.0" width="191.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="757.0" y="323.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">路径有没有出白名单目录</text>
+<rect x="745.0" y="354.0" width="191.0" height="40.0" rx="6" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1"/>
+<text x="757.0" y="371.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">软件与进程的权限级别是否</text>
+<text x="757.0" y="388.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">一致</text>
+</svg>

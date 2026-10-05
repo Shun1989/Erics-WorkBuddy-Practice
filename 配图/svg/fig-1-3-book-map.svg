@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 650" width="1000" height="650" style="background:#FAFAF8"><defs><marker id="arr" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#6B7280"/></marker></defs><rect width="1000" height="650" fill="#FAFAF8"/><text x="500" y="46" font-family="Microsoft YaHei" font-size="26" fill="#1C2026" font-weight="800" text-anchor="middle">全书地图：六篇 23 章 72 个场景</text>
+<text x="500" y="74" font-family="Microsoft YaHei" font-size="15" fill="#6B7280" font-weight="normal" text-anchor="middle">抄作业直达第 4 篇，系统学习按顺序读，当工具书查附录</text>
+<rect x="45" y="105" width="285" height="170" fill="#fff" stroke="#E5E1DA" stroke-width="1.5" rx="14"/>
+<rect x="45" y="105" width="285" height="46" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="1.5" rx="14"/>
+<rect x="45" y="137" width="285" height="14" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="1.5" rx="0"/>
+<text x="61" y="135" font-family="Microsoft YaHei" font-size="15.5" fill="#fff" font-weight="700" text-anchor="start">第一篇 · 第 1 章</text>
+<text x="61" y="193" font-family="Microsoft YaHei" font-size="21" fill="#1C2026" font-weight="800" text-anchor="start">认识 WorkBuddy</text>
+<text x="61" y="227" font-family="Microsoft YaHei" font-size="14" fill="#6B7280" font-weight="normal" text-anchor="start">是什么、差在哪</text>
+<text x="61" y="257" font-family="Microsoft YaHei" font-size="13" fill="#6B7280" font-weight="normal" text-anchor="start">先读，建立认知</text>
+<rect x="360" y="105" width="285" height="170" fill="#fff" stroke="#E5E1DA" stroke-width="1.5" rx="14"/>
+<rect x="360" y="105" width="285" height="46" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="1.5" rx="14"/>
+<rect x="360" y="137" width="285" height="14" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="1.5" rx="0"/>
+<text x="376" y="135" font-family="Microsoft YaHei" font-size="15.5" fill="#fff" font-weight="700" text-anchor="start">第二篇 · 第 2-3 章</text>
+<text x="376" y="193" font-family="Microsoft YaHei" font-size="21" fill="#1C2026" font-weight="800" text-anchor="start">环境搭建</text>
+<text x="376" y="227" font-family="Microsoft YaHei" font-size="14" fill="#6B7280" font-weight="normal" text-anchor="start">下载安装到跑通第一件活</text>
+<text x="376" y="257" font-family="Microsoft YaHei" font-size="13" fill="#6B7280" font-weight="normal" text-anchor="start">跟着做，半天见效</text>
+<rect x="675" y="105" width="285" height="170" fill="#fff" stroke="#E5E1DA" stroke-width="1.5" rx="14"/>
+<rect x="675" y="105" width="285" height="46" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="1.5" rx="14"/>
+<rect x="675" y="137" width="285" height="14" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="1.5" rx="0"/>
+<text x="691" y="135" font-family="Microsoft YaHei" font-size="15.5" fill="#fff" font-weight="700" text-anchor="start">第三篇 · 第 4-6 章</text>
+<text x="691" y="193" font-family="Microsoft YaHei" font-size="21" fill="#1C2026" font-weight="800" text-anchor="start">核心机制</text>
+<text x="691" y="227" font-family="Microsoft YaHei" font-size="14" fill="#6B7280" font-weight="normal" text-anchor="start">技能 / 记忆 / 子代理</text>
+<text x="691" y="257" font-family="Microsoft YaHei" font-size="13" fill="#6B7280" font-weight="normal" text-anchor="start">懂原理，不背术语</text>
+<rect x="45" y="305" width="285" height="170" fill="#FDF3EC" stroke="#E0632D" stroke-width="2.5" rx="14"/>
+<rect x="45" y="305" width="285" height="46" fill="#E0632D" stroke="#E0632D" stroke-width="1.5" rx="14"/>
+<rect x="45" y="337" width="285" height="14" fill="#E0632D" stroke="#E0632D" stroke-width="1.5" rx="0"/>
+<text x="61" y="335" font-family="Microsoft YaHei" font-size="15.5" fill="#fff" font-weight="700" text-anchor="start">第四篇 · 第 7-18 章</text>
+<text x="61" y="393" font-family="Microsoft YaHei" font-size="21" fill="#1C2026" font-weight="800" text-anchor="start">72 个场景实战</text>
+<text x="61" y="427" font-family="Microsoft YaHei" font-size="14" fill="#6B7280" font-weight="normal" text-anchor="start">抄作业级 · 本书大本营</text>
+<text x="61" y="457" font-family="Microsoft YaHei" font-size="13" fill="#E0632D" font-weight="700" text-anchor="start">72 场景 · 八件套 · 三级标注</text>
+<rect x="360" y="305" width="285" height="170" fill="#fff" stroke="#E5E1DA" stroke-width="1.5" rx="14"/>
+<rect x="360" y="305" width="285" height="46" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="1.5" rx="14"/>
+<rect x="360" y="337" width="285" height="14" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="1.5" rx="0"/>
+<text x="376" y="335" font-family="Microsoft YaHei" font-size="15.5" fill="#fff" font-weight="700" text-anchor="start">第五篇 · 第 19-20 章</text>
+<text x="376" y="393" font-family="Microsoft YaHei" font-size="21" fill="#1C2026" font-weight="800" text-anchor="start">连接与扩展</text>
+<text x="376" y="427" font-family="Microsoft YaHei" font-size="14" fill="#6B7280" font-weight="normal" text-anchor="start">连接器 / MCP</text>
+<text x="376" y="457" font-family="Microsoft YaHei" font-size="13" fill="#6B7280" font-weight="normal" text-anchor="start">把 AI 接上你的软件</text>
+<rect x="675" y="305" width="285" height="170" fill="#fff" stroke="#E5E1DA" stroke-width="1.5" rx="14"/>
+<rect x="675" y="305" width="285" height="46" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="1.5" rx="14"/>
+<rect x="675" y="337" width="285" height="14" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="1.5" rx="0"/>
+<text x="691" y="335" font-family="Microsoft YaHei" font-size="15.5" fill="#fff" font-weight="700" text-anchor="start">第六篇 · 第 21-23 章</text>
+<text x="691" y="393" font-family="Microsoft YaHei" font-size="21" fill="#1C2026" font-weight="800" text-anchor="start">团队落地</text>
+<text x="691" y="427" font-family="Microsoft YaHei" font-size="14" fill="#6B7280" font-weight="normal" text-anchor="start">成本 / 排查 / 定责</text>
+<text x="691" y="457" font-family="Microsoft YaHei" font-size="13" fill="#6B7280" font-weight="normal" text-anchor="start">写给带团队的人</text>
+<text x="500" y="532" font-family="Microsoft YaHei" font-size="16" fill="#1C2026" font-weight="800" text-anchor="middle">三种读法</text>
+<rect x="45" y="548" width="285" height="62" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1.5" rx="10"/>
+<text x="187" y="574" font-family="Microsoft YaHei" font-size="15" fill="#E0632D" font-weight="700" text-anchor="middle">路线一 · 直接抄</text>
+<text x="187" y="598" font-family="Microsoft YaHei" font-size="12.5" fill="#6B7280" font-weight="normal" text-anchor="middle">翻到第 4 篇，按场景抄提示词</text>
+<rect x="360" y="548" width="285" height="62" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1.5" rx="10"/>
+<text x="502" y="574" font-family="Microsoft YaHei" font-size="15" fill="#E0632D" font-weight="700" text-anchor="middle">路线二 · 顺序读</text>
+<text x="502" y="598" font-family="Microsoft YaHei" font-size="12.5" fill="#6B7280" font-weight="normal" text-anchor="middle">三周成为团队里"什么都能搞定的人"</text>
+<rect x="675" y="548" width="285" height="62" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1.5" rx="10"/>
+<text x="817" y="574" font-family="Microsoft YaHei" font-size="15" fill="#E0632D" font-weight="700" text-anchor="middle">路线三 · 工具书</text>
+<text x="817" y="598" font-family="Microsoft YaHei" font-size="12.5" fill="#6B7280" font-weight="normal" text-anchor="middle">放在桌面，忘了就翻回去查</text></svg>

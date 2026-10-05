@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 650" width="1000" height="650" style="background:#FAFAF8"><defs><marker id="arr" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#6B7280"/></marker></defs><rect width="1000" height="650" fill="#FAFAF8"/><text x="500" y="46" font-family="Microsoft YaHei" font-size="26" fill="#1C2026" font-weight="800" text-anchor="middle">三种模式怎么选</text>
+<text x="500" y="74" font-family="Microsoft YaHei" font-size="15" fill="#6B7280" font-weight="normal" text-anchor="middle">先问任务明不明确，再看出错代价大不大</text>
+<rect x="390" y="100" width="220" height="52" fill="#E0632D" stroke="#E0632D" stroke-width="1.5" rx="26"/>
+<text x="500" y="133" font-family="Microsoft YaHei" font-size="19" fill="#fff" font-weight="800" text-anchor="middle">我有一件活</text>
+<line x1="500" y1="152" x2="500" y2="172" stroke="#6B7280" stroke-width="2"/>
+<rect x="330" y="178" width="340" height="52" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1.5" rx="26"/>
+<text x="500" y="211" font-family="Microsoft YaHei" font-size="18" fill="#1C2026" font-weight="700" text-anchor="middle">我能把活说清楚吗</text>
+<line x1="400" y1="230" x2="200" y2="280" stroke="#6B7280" stroke-width="2"/>
+<line x1="600" y1="230" x2="800" y2="280" stroke="#6B7280" stroke-width="2"/>
+<text x="255" y="258" font-family="Microsoft YaHei" font-size="14" fill="#6B7280" font-weight="normal" text-anchor="middle">说不清</text>
+<text x="745" y="258" font-family="Microsoft YaHei" font-size="14" fill="#6B7280" font-weight="normal" text-anchor="middle">说得清</text>
+<rect x="70" y="286" width="260" height="84" fill="#fff" stroke="#2D6A6A" stroke-width="2.5" rx="12"/>
+<text x="200" y="322" font-family="Microsoft YaHei" font-size="20" fill="#2D6A6A" font-weight="800" text-anchor="middle">Plan · 先谋后动</text>
+<text x="200" y="350" font-family="Microsoft YaHei" font-size="14" fill="#6B7280" font-weight="normal" text-anchor="middle">它出完整方案，你点头才动手</text>
+<rect x="70" y="386" width="260" height="170" fill="#fff" stroke="#E5E1DA" stroke-width="1.5" rx="10"/>
+<text x="90" y="414" font-family="Microsoft YaHei" font-size="15" fill="#1C2026" font-weight="normal" text-anchor="start">· 方向还没想清楚的活</text>
+<text x="90" y="448" font-family="Microsoft YaHei" font-size="15" fill="#1C2026" font-weight="normal" text-anchor="start">· 第一次做、心里没底的活</text>
+<text x="90" y="482" font-family="Microsoft YaHei" font-size="15" fill="#1C2026" font-weight="normal" text-anchor="start">· 要花很多钱的活</text>
+<text x="90" y="516" font-family="Microsoft YaHei" font-size="15" fill="#1C2026" font-weight="normal" text-anchor="start">· 改方案比返工便宜的活</text>
+<rect x="670" y="286" width="260" height="60" fill="#fff" stroke="#E0632D" stroke-width="2.5" rx="12"/>
+<text x="800" y="324" font-family="Microsoft YaHei" font-size="20" fill="#E0632D" font-weight="800" text-anchor="middle">Agent · 直接干</text>
+<line x1="800" y1="346" x2="800" y2="366" stroke="#6B7280" stroke-width="2"/>
+<text x="800" y="388" font-family="Microsoft YaHei" font-size="15" fill="#1C2026" font-weight="700" text-anchor="middle">活得足够清楚吗？</text>
+<line x1="730" y1="398" x2="680" y2="420" stroke="#6B7280" stroke-width="1.5"/>
+<line x1="870" y1="398" x2="920" y2="420" stroke="#6B7280" stroke-width="1.5"/>
+<rect x="560" y="424" width="190" height="60" fill="#fff" stroke="#E5E1DA" stroke-width="1.5" rx="10"/>
+<text x="655" y="450" font-family="Microsoft YaHei" font-size="16" fill="#1C2026" font-weight="700" text-anchor="middle">Ask · 只问不干</text>
+<text x="655" y="472" font-family="Microsoft YaHei" font-size="12.5" fill="#6B7280" font-weight="normal" text-anchor="middle">先聊聊，纯问答</text>
+<rect x="770" y="424" width="190" height="60" fill="#fff" stroke="#E0632D" stroke-width="2" rx="10"/>
+<text x="865" y="450" font-family="Microsoft YaHei" font-size="16" fill="#E0632D" font-weight="700" text-anchor="middle">Agent · 交活</text>
+<text x="865" y="472" font-family="Microsoft YaHei" font-size="12.5" fill="#6B7280" font-weight="normal" text-anchor="middle">干完向你交差</text>
+<rect x="150" y="556" width="700" height="56" fill="#F2EDE6" stroke="#E5E1DA" stroke-width="1.5" rx="12"/>
+<text x="500" y="591" font-family="Microsoft YaHei" font-size="17" fill="#E0632D" font-weight="800" text-anchor="middle">口诀：拿不准就用 Plan，活得清楚就上 Agent，纯聊天就用 Ask</text></svg>

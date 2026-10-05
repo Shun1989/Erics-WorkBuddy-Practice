@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">验握手的三段回路</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">客户端问一句，服务端把工具清单报上来</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">握手就是连接建立时双方先确认在不在、会什么，一问一答靠编号对上号</text>
+<ellipse cx="500.0" cy="370" rx="300" ry="165" fill="none" stroke="#E5E1DA" stroke-width="1.5" stroke-dasharray="6 5"/>
+<circle cx="500.0" cy="370" r="70" fill="#F2EDE6" stroke="#E5E1DA"/>
+<text x="500.0" y="364.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="middle" font-weight="bold">验握手</text>
+<path d="M500,205 Q633,328 760,452" fill="none" stroke="#2D6A6A" stroke-width="1.8" marker-end="url(#ar-2D6A6A)"/>
+<path d="M760,452 Q500,454 240,453" fill="none" stroke="#2D6A6A" stroke-width="1.8" marker-end="url(#ar-2D6A6A)"/>
+<path d="M240,453 Q367,328 500,205" fill="none" stroke="#2D6A6A" stroke-width="1.8" marker-end="url(#ar-2D6A6A)"/>
+<rect x="420.0" y="167.0" width="160.0" height="76.0" rx="9" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="500.0" y="199.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="middle" font-weight="bold">配置生效</text>
+<text x="500.0" y="221.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="normal">改完配置必须完全退出重</text>
+<text x="500.0" y="237.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="normal">开</text>
+<rect x="679.8" y="414.5" width="160.0" height="76.0" rx="9" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="759.8" y="446.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="middle" font-weight="bold">服务端应答</text>
+<text x="759.8" y="468.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="normal">问一句列出已挂载的服务</text>
+<text x="759.8" y="484.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="normal">端与工具名</text>
+<rect x="160.2" y="414.5" width="160.0" height="76.0" rx="9" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="240.2" y="446.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="middle" font-weight="bold">工具清单落地</text>
+<text x="240.2" y="468.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="normal">数量对得上，这一件事才</text>
+<text x="240.2" y="484.5" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="normal">算装成</text>
+</svg>

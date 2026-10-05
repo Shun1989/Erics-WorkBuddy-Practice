@@ -1,0 +1,12 @@
+# 内部写作宪法，不随公开仓库发布（含违禁词清单与红线说明）
+书稿规范_所有执笔者必读.md
+
+# 生成物与过程文件
+成稿/_qa/
+成稿/check_*.png
+成稿/toc_pages.json
+脚本/_testout/
+脚本/__pycache__/
+__pycache__/
+.DS_Store
+Thumbs.db

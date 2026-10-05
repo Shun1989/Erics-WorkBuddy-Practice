@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">行业日报七步</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">定好一次，之后每天自己跑</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">全程 25 分钟，我通读一遍加抽查 5 条链接约 5 分钟，人工做同一件事平均 2 小时</text>
+<ellipse cx="500.0" cy="370" rx="300" ry="165" fill="none" stroke="#E5E1DA" stroke-width="1.5" stroke-dasharray="6 5"/>
+<circle cx="500.0" cy="370" r="70" fill="#F2EDE6" stroke="#E5E1DA"/>
+<text x="500.0" y="364.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="middle" font-weight="bold">每天 7 点 30 </text>
+<text x="500.0" y="386.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="middle" font-weight="bold">分</text>
+<path d="M500,205 Q620,233 735,267" fill="none" stroke="#2D6A6A" stroke-width="1.8" marker-end="url(#ar-2D6A6A)"/>
+<path d="M735,267 Q769,336 792,407" fill="none" stroke="#2D6A6A" stroke-width="1.8" marker-end="url(#ar-2D6A6A)"/>
+<path d="M792,407 Q716,465 630,519" fill="none" stroke="#2D6A6A" stroke-width="1.8" marker-end="url(#ar-2D6A6A)"/>
+<path d="M630,519 Q500,522 370,519" fill="none" stroke="#2D6A6A" stroke-width="1.8" marker-end="url(#ar-2D6A6A)"/>
+<path d="M370,519 Q284,465 208,407" fill="none" stroke="#2D6A6A" stroke-width="1.8" marker-end="url(#ar-2D6A6A)"/>
+<path d="M208,407 Q231,336 265,267" fill="none" stroke="#2D6A6A" stroke-width="1.8" marker-end="url(#ar-2D6A6A)"/>
+<path d="M265,267 Q380,233 500,205" fill="none" stroke="#2D6A6A" stroke-width="1.8" marker-end="url(#ar-2D6A6A)"/>
+<rect x="420.0" y="167.0" width="160.0" height="76.0" rx="9" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="500.0" y="199.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="middle" font-weight="bold">列源</text>
+<text x="500.0" y="221.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="normal">16 个源，标注类型与可</text>
+<text x="500.0" y="237.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="normal">信度</text>
+<rect x="654.5" y="229.1" width="160.0" height="76.0" rx="9" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="734.5" y="261.1" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="middle" font-weight="bold">抓取</text>
+<text x="734.5" y="283.1" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="normal">取回最近 24 小时的内</text>
+<text x="734.5" y="299.1" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="normal">容</text>
+<rect x="712.5" y="368.7" width="160.0" height="76.0" rx="9" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="792.5" y="400.7" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="middle" font-weight="bold">去重</text>
+<text x="792.5" y="422.7" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="normal">保留最先发的那个源</text>
+<rect x="550.2" y="480.7" width="160.0" height="76.0" rx="9" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="630.2" y="512.7" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="middle" font-weight="bold">按四类归类</text>
+<text x="630.2" y="534.7" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="normal">技术、标准法规、企业、</text>
+<text x="630.2" y="550.7" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="normal">市场</text>
+<rect x="289.8" y="480.7" width="160.0" height="76.0" rx="9" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="369.8" y="512.7" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="middle" font-weight="bold">写两句话摘要</text>
+<text x="369.8" y="534.7" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="normal">第二句写跟我们有什么关</text>
+<text x="369.8" y="550.7" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="normal">系</text>
+<rect x="127.5" y="368.7" width="160.0" height="76.0" rx="9" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="207.5" y="400.7" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="middle" font-weight="bold">生成 Markdown</text>
+<text x="207.5" y="422.7" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="normal">存进归档目录，文件名带</text>
+<text x="207.5" y="438.7" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="normal">日期</text>
+<rect x="185.5" y="229.1" width="160.0" height="76.0" rx="9" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="265.5" y="261.1" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1C2026" text-anchor="middle" font-weight="bold">存档并推送</text>
+<text x="265.5" y="283.1" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" font-weight="normal">往总索引里追加一行</text>
+</svg>

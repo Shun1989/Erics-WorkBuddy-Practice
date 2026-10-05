@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#FAFAF8"/>
+<marker id="ar-6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker>
+<marker id="ar-E0632D" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E0632D"/></marker>
+<marker id="ar-2D6A6A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2D6A6A"/></marker>
+<marker id="ar-1C2026" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1C2026"/></marker>
+<text x="56.0" y="58.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" fill="#1C2026" text-anchor="start" font-weight="bold">SKILL.md 的两大部分</text>
+<text x="56.0" y="88.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#6B7280" text-anchor="start" font-weight="normal">开头元信息决定它出不出场，正文决定它干得稳不稳</text>
+<line x1="56" y1="106" x2="944" y2="106" stroke="#E5E1DA" stroke-width="1.5"/>
+<text x="56.0" y="616.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" fill="#6B7280" text-anchor="start" font-weight="normal">第 4.3 节：正文 100 到 400 行，多数技能在 150 行左右</text>
+<rect x="90.0" y="140.0" width="820.0" height="63.0" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="90.0" y="140.0" width="8.0" height="63.0" rx="4" fill="#2D6A6A" stroke="#2D6A6A" stroke-width="0"/>
+<text x="120.0" y="170.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">元信息 name</text>
+<text x="120.0" y="192.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">小写英文加短横线，不用中文不用空格，它同时是文件夹名</text>
+<rect x="90.0" y="215.0" width="820.0" height="63.0" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="90.0" y="215.0" width="8.0" height="63.0" rx="4" fill="#6B7280" stroke="#6B7280" stroke-width="0"/>
+<text x="120.0" y="245.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">元信息 description</text>
+<text x="120.0" y="267.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">最要紧的一行：干什么、什么话会触发、什么情况别用它</text>
+<rect x="90.0" y="290.0" width="820.0" height="63.0" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="90.0" y="290.0" width="8.0" height="63.0" rx="4" fill="#6B7280" stroke="#6B7280" stroke-width="0"/>
+<text x="120.0" y="320.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">version 与 allowed-tools</text>
+<text x="120.0" y="342.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">改一次正文加一位小数；工具权限够用就行</text>
+<rect x="90.0" y="365.0" width="820.0" height="63.0" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="90.0" y="365.0" width="8.0" height="63.0" rx="4" fill="#6B7280" stroke="#6B7280" stroke-width="0"/>
+<text x="120.0" y="395.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">正文：这份活是给谁干的</text>
+<text x="120.0" y="417.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">交代时间、对象、后果，决定它在信息不够时怎么做</text>
+<rect x="90.0" y="440.0" width="820.0" height="63.0" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="90.0" y="440.0" width="8.0" height="63.0" rx="4" fill="#6B7280" stroke="#6B7280" stroke-width="0"/>
+<text x="120.0" y="470.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">步骤与硬性规定</text>
+<text x="120.0" y="492.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">步骤不超 7 条；顺序不许变、格式硬规定单独拎出来</text>
+<rect x="90.0" y="515.0" width="820.0" height="63.0" rx="10" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1.5"/>
+<rect x="90.0" y="515.0" width="8.0" height="63.0" rx="4" fill="#6B7280" stroke="#6B7280" stroke-width="0"/>
+<text x="120.0" y="545.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="17" fill="#1C2026" text-anchor="start" font-weight="bold">不许做、自查、汇报</text>
+<text x="120.0" y="567.0" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="14" fill="#6B7280" text-anchor="start" font-weight="normal">挑最贵的禁止项；自查要能答是否；汇报给具体数字</text>
+</svg>
